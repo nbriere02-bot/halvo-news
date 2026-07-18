@@ -22,7 +22,7 @@ jobs:
           python-version: '3.11'
 
       - name: Installe les dépendances
-        run: pip install mistralai feedparser
+        run: pip install "mistralai>=1.2.3" feedparser
 
       - name: Génère news.json
         env:
