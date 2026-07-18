@@ -1,0 +1,40 @@
+name: Générer les news Halvo (1x/jour)
+
+on:
+  schedule:
+    # 07h00 UTC chaque jour (~09h00 heure française en été)
+    - cron: '0 7 * * *'
+  workflow_dispatch: {}  # permet de le lancer manuellement depuis l'onglet Actions GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  generate-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout du repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installe les dépendances
+        run: pip install anthropic feedparser
+
+      - name: Génère news.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python generate_news.py
+
+      - name: Publie le résultat (commit direct sur la branche gh-pages)
+        run: |
+          mkdir -p public
+          mv news.json public/news.json
+          git config user.name "halvo-news-bot"
+          git config user.email "bot@halvo.app"
+          git add public/news.json
+          git commit -m "Mise à jour news.json ($(date -u +'%Y-%m-%d %H:%M UTC'))" || echo "Rien à committer"
+          git push
