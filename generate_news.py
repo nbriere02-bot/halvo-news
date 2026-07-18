@@ -44,6 +44,8 @@ MODELES_PAR_PRIORITE = ["mistral-large-2512", "mistral-medium-2505", "mistral-sm
 
 SYSTEM_PROMPT = """Tu résumes des articles d'actualité crypto en français, en 1-2 phrases
 maximum, factuel et neutre. Pas d'opinion, pas de conseil financier, pas de sensationnalisme.
+Réponds UNIQUEMENT avec le résumé en texte brut : pas de markdown, pas de lien, pas de
+mention de la source (elle est déjà affichée séparément), pas de guillemets autour du texte.
 Si l'article n'est pas vraiment lié à la crypto/Bitcoin, réponds exactement "SKIP"."""
 
 
@@ -82,6 +84,11 @@ def summarize_article(client: Mistral, article: dict) -> str | None:
             text = response.choices[0].message.content.strip()
             if text == "SKIP" or not text:
                 return None
+            # Filet de sécurité : au cas où le modèle laisse quand même passer un lien
+            # markdown ou une mention "Source :" malgré la consigne du prompt.
+            import re
+            text = re.sub(r'\n*Source\s*:.*$', '', text, flags=re.IGNORECASE | re.DOTALL).strip()
+            text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)  # [texte](lien) -> texte
             return text
         except Exception as e:
             last_error = e
