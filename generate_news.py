@@ -13,7 +13,7 @@ si l'app a 10 ou 10 000 utilisateurs, ce script ne tourne qu'une fois.
    MISTRAL_API_KEY (ne JAMAIS la mettre en dur dans ce fichier ni la committer).
 2. pip install mistralai feedparser requests --break-system-packages
 3. Un endroit où publier le news.json généré : GitHub Pages sur ce même repo
-   (voir la section "HÉBERGeMENT" en bas).
+   (voir la section "HÉBERGEMENT" en bas).
 
 === EXÉCUTION AUTOMATIQUE 1X/JOUR ===
 GitHub Actions (gratuit, pas de serveur à gérer) — voir
@@ -26,7 +26,7 @@ import sys
 from datetime import datetime, timezone
 
 import feedparser
-from mistralai import Mistral
+from mistralai.client import Mistral
 
 # Flux RSS crypto publics, aucune clé requise pour les lire
 RSS_FEEDS = [
