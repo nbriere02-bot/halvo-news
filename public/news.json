@@ -1,37 +1,44 @@
 {
-  "generatedAt": "18/07/2026 12:42 UTC",
+  "generatedAt": "19/07/2026 09:07 UTC",
   "items": [
     {
-      "title": "Polymarket traders cut Clarity Act passage odds to record low as Senate delay drags on",
-      "summary": "Les traders sur Polymarket ont réduit à un niveau record les probabilités de passage du *Clarity Act* en raison des retards persistants au Sénat.",
+      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
+      "summary": "Zcash présente un nouveau nœud visant à atteindre 50 000 transactions par seconde avec une confidentialité comparable à l'échelle de Visa.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/17/polymarket-traders-cut-clarity-act-passage-odds-to-record-low-as-senate-delay-drags-on",
-      "publishedAt": "Fri, 17 Jul 2026 18:00:11 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
+      "publishedAt": "Sun, 19 Jul 2026 05:37:34 +0000"
     },
     {
-      "title": "Cardano hands core development to outside teams in decentralization push",
-      "summary": "Cardano confie le développement de son cœur technique à des équipes externes dans le cadre de sa démarche de décentralisation.",
+      "title": "France orders country's internet service providers to block Polymarket",
+      "summary": "La France a ordonné aux fournisseurs d'accès à internet du pays de bloquer l'accès à la plateforme de paris prédictifs Polymarket.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/17/cardano-hands-core-development-to-outside-teams-in-decentralization-push",
-      "publishedAt": "Fri, 17 Jul 2026 16:23:26 +0000"
+      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
+      "publishedAt": "Sat, 18 Jul 2026 21:52:18 +0000"
     },
     {
-      "title": "Inside Robinhood’s high-stakes bet to onboard millions of casual users onto decentralized finance",
-      "summary": "Robinhood mise sur l'intégration de la finance décentralisée (DeFi) pour attirer des millions d'utilisateurs occasionnels sur sa plateforme.",
+      "title": "Crypto executives say digital native generations may never need a bank account",
+      "summary": "Les dirigeants du secteur crypto estiment que les générations natives du numérique pourraient se passer définitivement des comptes bancaires traditionnels.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/17/inside-robinhood-s-high-stakes-bet-to-onboard-10-million-casual-investors-onto-decentralized-finance",
-      "publishedAt": "Fri, 17 Jul 2026 15:36:39 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+      "publishedAt": "Sat, 18 Jul 2026 18:30:00 +0000"
     },
     {
-      "title": "Japan's SBI Group is building Asia's first cross-border digital asset empire",
-      "summary": "SBI Group, un conglomérat financier japonais, développe le premier empire d'actifs numériques transfrontalier en Asie.\n\nSource : [Cointelegraph](https://cointelegraph.com/news/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire)",
+      "title": "DOG Mode explains Bitcoin's next governance fight",
+      "summary": "Un analyste surnommé DOG Mode prévoit un prochain débat sur la gouvernance de Bitcoin, notamment autour des mises à jour du protocole et des décisions communautaires.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/17/japan-s-sbi-group-is-building-asia-s-first-cross-border-digital-asset-empire",
-      "publishedAt": "Fri, 17 Jul 2026 13:46:46 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
+      "publishedAt": "Sat, 18 Jul 2026 17:00:00 +0000"
+    },
+    {
+      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
+      "summary": "Les stablecoins en dollars gagnent discrètement en popularité dans les paiements au Brésil, tandis que Trump s'intéresse au système de paiement du pays.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
+      "publishedAt": "Sat, 18 Jul 2026 16:09:59 +0000"
     },
     {
       "title": "Kaspersky identifies malware framework targeting crypto investors",
-      "summary": "Kaspersky a identifié un nouveau cadre de logiciels malveillants ciblant les investisseurs en cryptomonnaies via des tactiques d'ingénierie sociale et des applications GitHub infectées.",
+      "summary": "Kaspersky a identifié un nouveau framework de malware ciblant les investisseurs en cryptomonnaies via des tactiques d'ingénierie sociale et des applications GitHub infectées.",
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Sat, 18 Jul 2026 11:40:48 +0000"
