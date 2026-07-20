@@ -1,61 +1,68 @@
 {
-  "generatedAt": "19/07/2026 09:07 UTC",
+  "generatedAt": "20/07/2026 10:15 UTC",
   "items": [
     {
-      "title": "Inside Zcash's new node that targets Visa-scale privacy at 50,000 transactions per second",
-      "summary": "Zcash présente un nouveau nœud visant à atteindre 50 000 transactions par seconde avec une confidentialité comparable à l'échelle de Visa.",
+      "title": "Hyperliquid plans to add decentralized prediction markets in upgrade to HIP-4",
+      "summary": "Hyperliquid prévoit d’intégrer des marchés de prédiction décentralisés dans sa mise à jour HIP-4.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/16/inside-zcash-s-new-node-that-targets-visa-scale-privacy-at-50-000-transactions-per-second",
-      "publishedAt": "Sun, 19 Jul 2026 05:37:34 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/20/hyperliquid-plans-to-add-decentralized-prediction-markets-in-upgrade-to-hip-4",
+      "publishedAt": "Mon, 20 Jul 2026 10:04:25 +0000"
     },
     {
-      "title": "France orders country's internet service providers to block Polymarket",
-      "summary": "La France a ordonné aux fournisseurs d'accès à internet du pays de bloquer l'accès à la plateforme de paris prédictifs Polymarket.",
+      "title": "Cross-chain protocol Allbridge halts after $1.65 million flash loan exploit",
+      "summary": "Le protocole cross-chain Allbridge a suspendu ses opérations après avoir subi une attaque par flash loan entraînant une perte de 1,65 million de dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/07/18/france-orders-country-s-internet-service-providers-to-block-polymarket",
-      "publishedAt": "Sat, 18 Jul 2026 21:52:18 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/20/cross-chain-protocol-allbridge-halts-after-usd1-65-million-flash-loan-exploit",
+      "publishedAt": "Mon, 20 Jul 2026 09:31:22 +0000"
     },
     {
-      "title": "Crypto executives say digital native generations may never need a bank account",
-      "summary": "Les dirigeants du secteur crypto estiment que les générations natives du numérique pourraient se passer définitivement des comptes bancaires traditionnels.",
+      "title": "U.S. regulatory developments and earnings, ECB rate decision: Crypto Week Ahead",
+      "summary": "La semaine à venir dans la crypto sera marquée par des annonces réglementaires aux États-Unis, des résultats financiers d'entreprises du secteur et la décision de la BCE sur les taux d'intérêt.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
-      "publishedAt": "Sat, 18 Jul 2026 18:30:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/20/u-s-regulatory-developments-and-earnings-ecb-rate-decision-crypto-week-ahead",
+      "publishedAt": "Mon, 20 Jul 2026 08:57:53 +0000"
     },
     {
-      "title": "DOG Mode explains Bitcoin's next governance fight",
-      "summary": "Un analyste surnommé DOG Mode prévoit un prochain débat sur la gouvernance de Bitcoin, notamment autour des mises à jour du protocole et des décisions communautaires.",
+      "title": "Amazon Japan supplier AZ-Com Maruwa to adopt yen stablecoin JPYC for payments",
+      "summary": "Un fournisseur d'Amazon Japan, AZ-Com Maruwa, va accepter le stablecoin JPYC pour les paiements.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/18/dog-mode-explains-bitcoin-s-next-governance-fight",
-      "publishedAt": "Sat, 18 Jul 2026 17:00:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+      "publishedAt": "Mon, 20 Jul 2026 08:10:34 +0000"
     },
     {
-      "title": "Trump targets Brazil's payments system while dollar stablecoins are quietly overtaking country's payments",
-      "summary": "Les stablecoins en dollars gagnent discrètement en popularité dans les paiements au Brésil, tandis que Trump s'intéresse au système de paiement du pays.",
+      "title": "Live markets: Oil bounce and lingering AI selloff pushes bitcoin under $64,000",
+      "summary": "Le prix du Bitcoin est passé sous les 64 000 dollars en raison du rebond du prix du pétrole et de la baisse persistante des actions liées à l'IA.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/18/trump-targets-brazil-s-payments-system-while-dollar-stablecoins-quietly-dominate-country-s-payments",
-      "publishedAt": "Sat, 18 Jul 2026 16:09:59 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/20/live-markets-oil-bounce-and-lingering-ai-selloff-pushes-bitcoin-under-usd64-000",
+      "publishedAt": "Mon, 20 Jul 2026 07:15:47 +0000"
     },
     {
-      "title": "Kaspersky identifies malware framework targeting crypto investors",
-      "summary": "Kaspersky a identifié un nouveau framework de malware ciblant les investisseurs en cryptomonnaies via des tactiques d'ingénierie sociale et des applications GitHub infectées.",
+      "title": "Bitcoin ETF inflows extend to second week, but recovery lacks momentum",
+      "summary": "Les ETF Bitcoin aux États-Unis ont enregistré des entrées nettes de 75,7 millions de dollars pour la deuxième semaine consécutive, mais les analystes estiment que la demande reste insuffisante pour soutenir une reprise durable.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/kaspersky-malware-framework-crypto-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 11:40:48 +0000"
+      "url": "https://cointelegraph.com/news/bitcoin-etf-inflows-second-but-recovery-lacks-momentum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 09:33:19 +0000"
     },
     {
-      "title": "French gambling regulator orders ISPs to block Polymarket",
-      "summary": "L'autorité française de régulation des jeux a ordonné aux fournisseurs d'accès internet du pays de bloquer géographiquement Polymarket, invoquant des préoccupations concernant les jeux illégaux et la manipulation de marché.",
+      "title": "South Korea eyes September launch for second phase of CBDC pilot: Report",
+      "summary": "La Banque de Corée prévoit de lancer la deuxième phase de son pilote de CBDC en septembre, incluant deux banques régionales, de nouvelles fonctionnalités de paiement et des tests de paiements de subventions gouvernementales utilisant des dépôts bancaires tokenisés.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/french-gambling-authority-blocks-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 18 Jul 2026 09:58:55 +0000"
+      "url": "https://cointelegraph.com/news/south-korea-september-second-phase-cbdc-pilot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 07:18:28 +0000"
     },
     {
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "summary": "FTX va distribuer 900 millions de dollars à ses créanciers dans le cadre d'un cinquième tour de paiements, portant le total distribué à environ 10 milliards de dollars depuis la faillite de l'entreprise en novembre 2022.",
+      "title": "Cardano activates van Rossem hard fork",
+      "summary": "Cardano a activé le hard fork van Rossum, réduisant les coûts d'exécution des smart contracts et préparant le terrain pour Ouroboros Leios, une mise à jour majeure de scalabilité prévue pour cette année.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 17 Jul 2026 21:40:18 +0000"
+      "url": "https://cointelegraph.com/news/cardano-activates-van-rossem-hard-fork-paving-way-for-leios?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 04:26:17 +0000"
+    },
+    {
+      "title": "Allbridge pauses cross-chain bridge after $1.65M exploit",
+      "summary": "Allbridge a suspendu son pont inter-chaînes après une exploitation de 1,65 million de dollars, l'attaquant ayant utilisé un prêt flash et des échanges rapides pour manipuler le taux de change des stablecoins.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/allbridge-core-pauses-cross-chain-bridge-after-165m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 20 Jul 2026 02:23:36 +0000"
     }
   ]
 }
