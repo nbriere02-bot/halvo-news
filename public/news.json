@@ -1,75 +1,40 @@
 {
-  "generatedAt": "24/07/2026 09:24 UTC",
+  "generatedAt": "25/07/2026 09:02 UTC",
   "items": [
     {
-      "title": "Live updates: Dogecoin and ether lead pullback as investors digest tech earnings",
-      "summary": "Dogecoin et Ethereum mènent une correction à la baisse alors que les investisseurs analysent les résultats des entreprises technologiques.",
+      "title": "Institutional crypto trading platform LMAX is exploring sale, IPO",
+      "summary": "LMAX, plateforme de trading institutionnel de cryptomonnaies, envisage une vente ou une introduction en bourse.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/24/live-updates-dogecoin-and-ether-lead-pullback-as-investors-digest-tech-earnings",
-      "publishedAt": "Fri, 24 Jul 2026 07:22:26 +0000"
+      "url": "https://www.coindesk.com/business/2026/05/22/institutional-crypto-trading-platform-lmax-is-exploring-sale-ipo",
+      "publishedAt": "Fri, 24 Jul 2026 14:36:16 +0000"
     },
     {
-      "title": "Ripple’s RLUSD gets two boosts as transfer volume drops 25%",
-      "summary": "Ripple lance son stablecoin RLUSD avec deux partenariats majeurs, tandis que le volume de transferts sur son réseau XRP chute de 25%.",
+      "title": "Saylor and team overhaul Strategy's bitcoin metrics as bear market persists",
+      "summary": "MicroStrategy ajuste ses indicateurs de performance liés au Bitcoin dans un contexte de marché baissier prolongé.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/24/ripple-s-rlusd-gets-two-boosts-as-transfer-volume-drops-25",
-      "publishedAt": "Fri, 24 Jul 2026 06:33:37 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/24/saylor-and-team-overhaul-strategy-s-bitcoin-metrics-as-bear-market-persists",
+      "publishedAt": "Fri, 24 Jul 2026 13:15:15 +0000"
     },
     {
-      "title": "Mirae plans to turn crypto exchange Korbit into something Korea hasn't seen before",
-      "summary": "Mirae Asset Securities prévoit de transformer l'exchange crypto Korbit en une plateforme intégrant services financiers traditionnels et actifs numériques, une première en Corée du Sud.",
+      "title": "Brazilian farmers tokenized dairy cows to get loans, bypassing bank lending limits",
+      "summary": "Des éleveurs brésiliens ont tokenisé des vaches laitières pour obtenir des prêts, contournant ainsi les limites de prêt bancaire.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/24/mirae-asset-has-a-name-for-what-it-s-building-with-korbit-an-intelligent-platform",
-      "publishedAt": "Fri, 24 Jul 2026 06:10:49 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/24/brazilian-farmers-tokenized-dairy-cows-to-get-loans-bypassing-bank-lending-limits",
+      "publishedAt": "Fri, 24 Jul 2026 13:03:03 +0000"
     },
     {
-      "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
-      "summary": "Le Bitcoin se maintient autour de 65 000 dollars malgré une vente massive de 800 milliards de dollars sur les valeurs liées à l'IA, qui a peu impacté le marché crypto.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
-      "publishedAt": "Fri, 24 Jul 2026 04:43:19 +0000"
-    },
-    {
-      "title": "Clarity Act expected to miss its window before Congress' summer break, leadership says",
-      "summary": "Le Clarity Act, un projet de loi sur la régulation des cryptomonnaies, ne devrait pas être examiné avant la pause estivale du Congrès, selon les dirigeants.\n\nTitre : Bitcoin ETFs See $15 Million Net Inflow After 4 Days of Outflows\nContenu : \nLes Bitcoin ETF ont enregistré un afflux net de 15 millions de dollars après quatre jours de sorties de capitaux.\n\nTitre : Bitcoin's Price Surge: Analysts Predict Potential Rally to $70,000\nContenu : \nSKIP\n\nTitre : Bitcoin ETFs Record $147 Million Net Outflow Amid Market Downturn\nContenu : \nLes",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/07/23/clarity-act-expected-to-miss-its-window-before-congress-summer-break-leadership-says",
-      "publishedAt": "Thu, 23 Jul 2026 20:16:37 +0000"
-    },
-    {
-      "title": "South Korea’s Korbit to rebrand as Digital X under Mirae: Report",
-      "summary": "La plateforme sud-coréenne Korbit va être rebaptisée Digital X sous l'égide de Mirae Asset, qui prévoit d'en faire un centre pour les actifs tokenisés, les stablecoins et la finance numérique.",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "summary": "Les ETF Ethereum ont mis fin à une série de cinq jours d'entrées de capitaux, tandis que les ETF Bitcoin ont enregistré une deuxième journée de sorties de capitaux, bien que les deux types de fonds aient prolongé leur série d'entrées hebdomadaires à trois semaines.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/korbit-rebrand-digital-x-mirae-asset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 08:51:13 +0000"
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 25 Jul 2026 07:40:35 +0000"
     },
     {
-      "title": "Ripple launches Mint to expand institutional access to RLUSD",
-      "summary": "Ripple lance Mint pour élargir l'accès institutionnel au RLUSD alors que la capitalisation boursière du stablecoin approche les 1,6 milliard de dollars.",
+      "title": "EU authorities include HTX exchange in Russian sanctions",
+      "summary": "L'échange HTX, déjà sanctionné par le Royaume-Uni, a été ajouté à une liste de 18 entités fournissant des services de crypto-actifs ou de paiement en violation des mesures de l'UE contre la Russie.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ripple-mint-expand-institutional-access-rlusd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 08:47:01 +0000"
-    },
-    {
-      "title": "Bitcoin mining pool Poolin files for Chapter 11 bankruptcy",
-      "summary": "Poolin, un pool de minage de Bitcoin, a déposé le bilan selon le Chapitre 11 et a lancé la vente de ses deux sites de minage au Texas pour 52 millions de dollars dans le cadre de son programme de recouvrement pour les créanciers.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitcoin-mining-poolin-chapter-11-bankruptcy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 08:38:49 +0000"
-    },
-    {
-      "title": "EU widens Belarus ownership ban to all crypto service providers",
-      "summary": "L'UE étend son interdiction aux ressortissants et résidents biélorusses de détenir, contrôler ou gérer des prestataires de services crypto régulés par MiCA à partir du 25 août.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/eu-belarus-crypto-ownership-ban-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 08:06:15 +0000"
-    },
-    {
-      "title": "Bitcoin ETFs snap seven-day inflow streak with $225M in outflows",
-      "summary": "Les ETF Bitcoin américains ont enregistré des sorties nettes de 225 millions de dollars, mettant fin à une série de sept jours consécutifs d'entrées de fonds.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-225-million-outflow-end-7-day-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 24 Jul 2026 07:17:57 +0000"
+      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 24 Jul 2026 21:53:05 +0000"
     }
   ]
 }
