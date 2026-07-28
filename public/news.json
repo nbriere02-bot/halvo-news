@@ -1,75 +1,68 @@
 {
-  "generatedAt": "27/07/2026 10:46 UTC",
+  "generatedAt": "28/07/2026 09:38 UTC",
   "items": [
     {
-      "title": "Coinbase CEO Brian Armstrong criticizes crypto startups that rebrand to AI",
-      "summary": "Brian Armstrong, PDG de Coinbase, critique les startups crypto qui se reconvertissent en entreprises d'IA pour attirer des investissements.",
+      "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
+      "summary": "BitMEX et BitMart pourraient être parmi les premières plateformes affectées par le ralentissement du trading crypto, avec des réductions d'effectifs et des difficultés financières signalées.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/27/coinbase-ceo-brian-armstrong-criticizes-crypto-startups-that-rebrand-to-ai",
-      "publishedAt": "Mon, 27 Jul 2026 10:39:22 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
+      "publishedAt": "Tue, 28 Jul 2026 09:36:01 +0000"
     },
     {
-      "title": "Crypto steadies as Iran-U.S. pause sends oil tumbling, lifts risk assets",
-      "summary": "Les marchés crypto se stabilisent après une baisse des tensions Iran-États-Unis, entraînant une chute des prix du pétrole et un rebond des actifs risqués.",
+      "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
+      "summary": "La CFTC et le CME s'affrontent sur la régulation des contrats perpétuels on-chain, notamment concernant leur classification et leur surveillance.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/27/crypto-steadies-as-iran-u-s-pause-sends-oil-tumbling-lifts-risk-assets",
-      "publishedAt": "Mon, 27 Jul 2026 10:35:04 +0000"
+      "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
+      "publishedAt": "Tue, 28 Jul 2026 08:00:00 +0000"
     },
     {
-      "title": "Interest rates in U.S., U.K., Japan and Coinbase, Strategy earnings: Crypto Week Ahead",
-      "summary": "Les décisions sur les taux d'intérêt aux États-Unis, au Royaume-Uni et au Japon cette semaine pourraient influencer les marchés crypto, tandis que Coinbase publie ses résultats financiers.",
+      "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
+      "summary": "Le prix du Bitcoin pourrait être influencé par un niveau de résistance clé à 68 500 dollars, tandis que les contrats à terme du Nasdaq montrent des signes de faiblesse.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/27/interest-rates-in-u-s-u-k-japan-and-coinbase-strategy-earnings-crypto-week-ahead",
-      "publishedAt": "Mon, 27 Jul 2026 09:43:58 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
+      "publishedAt": "Tue, 28 Jul 2026 07:46:22 +0000"
     },
     {
-      "title": "Cloud data firm Storj files for Chapter 11, extending a week of crypto failures. Token slides 16%",
-      "summary": "Storj, une entreprise de stockage de données cloud, a déposé le bilan sous le chapitre 11, entraînant une chute de 16% de son token.",
+      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
+      "summary": "Bitcoin a reculé de 2 % après la clôture des marchés américains, tandis que l'indice Kospi en Corée du Sud a chuté de 10 %.\n\nTitre : Coinbase to Launch Futures Trading Outside US as Regulatory Scrutiny Mounts at Home\n\nContenu : \nCoinbase prévoit de lancer le trading de contrats à terme en dehors des États-Unis, alors que les pressions réglementaires augmentent sur son marché domestique.\n\nTitre : Crypto Exchange Binance to Exit Canada, Citing New Regulations\n\nContenu : \nL'échange de crypto-monnaies Binance a annoncé son retrait du marché canadien, invoquant de nouvelles réglementations.\n\nTitre : Bitcoin Miner Marathon Digital Holdings to",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/27/cloud-data-firm-storj-files-for-chapter-11-extending-a-week-of-crypto-failures-token-slides-16",
-      "publishedAt": "Mon, 27 Jul 2026 09:15:43 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
+      "publishedAt": "Tue, 28 Jul 2026 04:32:39 +0000"
     },
     {
-      "title": "Live updates: Ether leads crypto higher. China's gold imports surge",
-      "summary": "Ether mène la hausse des cryptomonnaies. Les importations d'or de la Chine ont fortement augmenté.\n\nSKIP",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/27/live-updates-ether-leads-crypto-higher-as-bitcoin-trades-around-usd65-500",
-      "publishedAt": "Mon, 27 Jul 2026 06:43:34 +0000"
-    },
-    {
-      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "summary": "La filiale européenne de BNY Mellon a rejoint le registre MiCA alors que l'ESMA a ajouté 15 fournisseurs de services sur crypto-actifs, dont des banques et des plateformes crypto, dans sa troisième mise à jour post-échéance.",
+      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
+      "summary": "Lido a lancé Curated Module v2, une mise à jour qui pourrait réduire d'un tiers le nombre de validateurs d'Ethereum en les consolidant et en introduisant de nouvelles règles pour les opérateurs.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 10:38:09 +0000"
+      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 09:14:45 +0000"
     },
     {
-      "title": "Brazilian police bust cocaine traffickers in crypto-linked transnational probe",
-      "summary": "La police brésilienne a démantelé un réseau de trafic de cocaïne soupçonné d'avoir expédié environ 6,5 tonnes de drogue et blanchi des milliards de réaux brésiliens via des courtiers illicites utilisant des cryptomonnaies.",
+      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
+      "summary": "Ondo abandonne son projet de blockchain layer-1 pour se concentrer sur un réseau d'exécution hors chaîne.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/brazilian-police-cracks-down-on-crypto-fueled-international-drug-traffickers-suspected-of-moving-billions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 09:29:49 +0000"
+      "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 09:12:14 +0000"
     },
     {
-      "title": "Coinbase CEO touts agentic finance as Base tops 100M AI payments",
-      "summary": "Le PDG de Coinbase, Brian Armstrong, affirme que les agents d'IA vont accélérer l'adoption de la crypto, citant Base, USDC et x402 comme éléments clés de la finance agentique.",
+      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
+      "summary": "Trois utilisateurs accusent une fausse application Sparrow Wallet sur l'App Store d'Apple d'avoir vidé leurs portefeuilles Bitcoin, causant des pertes totalisant plus de 1,8 million de dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/coinbase-ceo-agentic-finance-base-100-million-aifi-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 09:01:05 +0000"
+      "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 07:40:40 +0000"
     },
     {
-      "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
-      "summary": "Triple-A a confirmé une brèche dans son portefeuille de trésorerie avec des pertes atteignant 11,8 millions de dollars, précisant que les fonds des clients n'étaient pas affectés et que l'impact financier serait absorbé par ses réserves de trésorerie.",
+      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
+      "summary": "Le cofondateur de Binance, CZ, soutient la reconnaissance mutuelle des licences crypto dans les pays de l'ASEAN pour simplifier les approbations, réduire les coûts de conformité et encourager la concurrence.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 05:15:54 +0000"
+      "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 06:00:54 +0000"
     },
     {
-      "title": "BitMart withdrawals appear to slow following wind-down announcement",
-      "summary": "Des utilisateurs ont signalé des retards de retrait et des gels de fonds alors que les portefeuilles attribués à BitMart sont tombés à environ 69 millions de dollars et que son jeton BMX a enregistré un déclin hebdomadaire de 81,5%.",
+      "title": "US judge temporarily blocks Minnesota prediction market ban",
+      "summary": "Un juge américain bloque temporairement l'interdiction des marchés de prédiction au Minnesota, permettant à Kalshi et Polymarket de continuer à opérer dans l'État en attendant la décision du tribunal.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 27 Jul 2026 04:34:44 +0000"
+      "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 28 Jul 2026 04:28:10 +0000"
     }
   ]
 }
