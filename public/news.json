@@ -1,68 +1,47 @@
 {
-  "generatedAt": "28/07/2026 09:38 UTC",
+  "generatedAt": "29/07/2026 09:41 UTC",
   "items": [
     {
-      "title": "BitMEX and BitMart may be first casualties of crypto trading slump",
-      "summary": "BitMEX et BitMart pourraient être parmi les premières plateformes affectées par le ralentissement du trading crypto, avec des réductions d'effectifs et des difficultés financières signalées.",
+      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
+      "summary": "Ionic Digital, une nouvelle entité issue de Celsius Network, a vu son action bondir de 26 % lors de son introduction en bourse sur le Nasdaq, offrant une option de sortie aux créanciers de Celsius.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/28/bitmex-and-bitmart-may-be-first-casualties-of-crypto-trading-slump",
-      "publishedAt": "Tue, 28 Jul 2026 09:36:01 +0000"
+      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
+      "publishedAt": "Wed, 29 Jul 2026 09:22:24 +0000"
     },
     {
-      "title": "Inside the CME and CFTC’s battle over onchain perpetual futures",
-      "summary": "La CFTC et le CME s'affrontent sur la régulation des contrats perpétuels on-chain, notamment concernant leur classification et leur surveillance.",
+      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
+      "summary": "Bitcoin dépasse les 64 000 dollars en séance asiatique avant une décision de la Fed.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/07/28/inside-the-cme-and-cftc-s-battle-over-onchain-perpetual-futures",
-      "publishedAt": "Tue, 28 Jul 2026 08:00:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
+      "publishedAt": "Wed, 29 Jul 2026 06:25:21 +0000"
     },
     {
-      "title": "Live updates: Bitcoin's next move hinges on breakeven wall at $68,500; Nasdaq futures wilt",
-      "summary": "Le prix du Bitcoin pourrait être influencé par un niveau de résistance clé à 68 500 dollars, tandis que les contrats à terme du Nasdaq montrent des signes de faiblesse.",
+      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
+      "summary": "Une société spécialisée dans le trading algorithmique a annoncé qu'elle couvrira toutes les pertes suite à une transaction d'IA ayant causé des liquidations de 60 millions de dollars en crypto.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-recovers-from-asian-session-lows-nasdaq-futures-remain-under-pressure",
-      "publishedAt": "Tue, 28 Jul 2026 07:46:22 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
+      "publishedAt": "Wed, 29 Jul 2026 06:03:28 +0000"
     },
     {
-      "title": "Bitcoin slides 2% after U.S. close while Korea’s Kospi plunges 10%",
-      "summary": "Bitcoin a reculé de 2 % après la clôture des marchés américains, tandis que l'indice Kospi en Corée du Sud a chuté de 10 %.\n\nTitre : Coinbase to Launch Futures Trading Outside US as Regulatory Scrutiny Mounts at Home\n\nContenu : \nCoinbase prévoit de lancer le trading de contrats à terme en dehors des États-Unis, alors que les pressions réglementaires augmentent sur son marché domestique.\n\nTitre : Crypto Exchange Binance to Exit Canada, Citing New Regulations\n\nContenu : \nL'échange de crypto-monnaies Binance a annoncé son retrait du marché canadien, invoquant de nouvelles réglementations.\n\nTitre : Bitcoin Miner Marathon Digital Holdings to",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/28/bitcoin-slides-2-after-u-s-close-while-korea-s-kospi-plunges-10",
-      "publishedAt": "Tue, 28 Jul 2026 04:32:39 +0000"
-    },
-    {
-      "title": "Lido upgrade aims to slash Ethereum’s validator count by one-third",
-      "summary": "Lido a lancé Curated Module v2, une mise à jour qui pourrait réduire d'un tiers le nombre de validateurs d'Ethereum en les consolidant et en introduisant de nouvelles règles pour les opérateurs.",
+      "title": "Hungary repeals crypto checks as first MiCA license is granted",
+      "summary": "La Hongrie a supprimé les vérifications obligatoires par des tiers pour les conversions de crypto alors que CoinCash a reçu l'autorisation de fournir des services d'actifs numériques sous MiCA.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/lido-upgrade-ethereum-validator-count-one-third-slash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Jul 2026 09:14:45 +0000"
+      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 29 Jul 2026 09:15:36 +0000"
     },
     {
-      "title": "Ondo shifts from layer-1 blockchain plan to offchain execution network",
-      "summary": "Ondo abandonne son projet de blockchain layer-1 pour se concentrer sur un réseau d'exécution hors chaîne.",
+      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+      "summary": "Les ETF Bitcoin aux États-Unis ont enregistré quatre sessions consécutives de sorties de fonds, totalisant 526 millions de dollars, alors que le Bitcoin subissait une pression de vente après avoir échoué à maintenir le niveau des 65 000 dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ondo-shifts-from-layer-1-blockchain-plan-to-offchain-execution-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Jul 2026 09:12:14 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 29 Jul 2026 07:16:47 +0000"
     },
     {
-      "title": "Apple faces lawsuit over alleged $1.8M Bitcoin wallet app losses",
-      "summary": "Trois utilisateurs accusent une fausse application Sparrow Wallet sur l'App Store d'Apple d'avoir vidé leurs portefeuilles Bitcoin, causant des pertes totalisant plus de 1,8 million de dollars.",
+      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
+      "summary": "Un exercice politique britannique identifie les paiements transfrontaliers comme le principal cas d'usage des stablecoins, avec une adoption retail domestique jugée limitée à court terme.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/apple-lawsuit-alleged-1-8-million-loss-fake-bitcoin-wallet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Jul 2026 07:40:40 +0000"
-    },
-    {
-      "title": "Binance co-founder CZ backs crypto license passporting across ASEAN",
-      "summary": "Le cofondateur de Binance, CZ, soutient la reconnaissance mutuelle des licences crypto dans les pays de l'ASEAN pour simplifier les approbations, réduire les coûts de conformité et encourager la concurrence.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/binance-co-founder-cz-backs-crypto-license-passporting-across-asean?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Jul 2026 06:00:54 +0000"
-    },
-    {
-      "title": "US judge temporarily blocks Minnesota prediction market ban",
-      "summary": "Un juge américain bloque temporairement l'interdiction des marchés de prédiction au Minnesota, permettant à Kalshi et Polymarket de continuer à opérer dans l'État en attendant la décision du tribunal.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-judge-blocks-minnesota-prediction-market-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 28 Jul 2026 04:28:10 +0000"
+      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 29 Jul 2026 07:11:27 +0000"
     }
   ]
 }
