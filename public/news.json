@@ -1,47 +1,61 @@
 {
-  "generatedAt": "29/07/2026 09:41 UTC",
+  "generatedAt": "30/07/2026 09:34 UTC",
   "items": [
     {
-      "title": "Ionic Digital jumps 26% in Nasdaq debut, giving Celsius Network claimholders an exit route",
-      "summary": "Ionic Digital, une nouvelle entité issue de Celsius Network, a vu son action bondir de 26 % lors de son introduction en bourse sur le Nasdaq, offrant une option de sortie aux créanciers de Celsius.",
+      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
+      "summary": "Bitcoin se maintient autour de 64 000 dollars tandis que les marchés actions profitent de l'essor de l'IA chez Microsoft.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/29/ionic-digital-jumps-26-in-nasdaq-debut-giving-celsius-network-claimholders-an-exit-route",
-      "publishedAt": "Wed, 29 Jul 2026 09:22:24 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
+      "publishedAt": "Thu, 30 Jul 2026 09:01:13 +0000"
     },
     {
-      "title": "Live updates: Bitcoin clears $64,000 in Asia hours ahead of Fed decision",
-      "summary": "Bitcoin dépasse les 64 000 dollars en séance asiatique avant une décision de la Fed.",
+      "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
+      "summary": "Les marchés du Bitcoin et de l'Ether sont dominés par les contrats perpétuels, comme l'a illustré l'impact des ventes d'actifs de SpaceX sur les cours.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/29/live-updates-bitcoin-clears-usd64-000-in-asia-hours-ahead-of-fed-decision",
-      "publishedAt": "Wed, 29 Jul 2026 06:25:21 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
+      "publishedAt": "Thu, 30 Jul 2026 09:00:00 +0000"
     },
     {
-      "title": "Company behind AI trade that caused $60 million crypto liquidations to cover all losses",
-      "summary": "Une société spécialisée dans le trading algorithmique a annoncé qu'elle couvrira toutes les pertes suite à une transaction d'IA ayant causé des liquidations de 60 millions de dollars en crypto.",
+      "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
+      "summary": "Les fluctuations brutales du Bitcoin et de l'Ethereum ont entraîné la liquidation de positions à effet de levier pour un montant total de 286 millions de dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/29/company-behind-ai-trade-that-caused-usd60-million-crypto-liquidations-to-cover-all-losses",
-      "publishedAt": "Wed, 29 Jul 2026 06:03:28 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
+      "publishedAt": "Thu, 30 Jul 2026 06:59:10 +0000"
     },
     {
-      "title": "Hungary repeals crypto checks as first MiCA license is granted",
-      "summary": "La Hongrie a supprimé les vérifications obligatoires par des tiers pour les conversions de crypto alors que CoinCash a reçu l'autorisation de fournir des services d'actifs numériques sous MiCA.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 09:15:36 +0000"
+      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
+      "summary": "Les analystes s'accordent sur le ton restrictif du maintien des taux par la Fed, mais divergent sur les implications pour Bitcoin.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
+      "publishedAt": "Thu, 30 Jul 2026 06:28:58 +0000"
     },
     {
-      "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-      "summary": "Les ETF Bitcoin aux États-Unis ont enregistré quatre sessions consécutives de sorties de fonds, totalisant 526 millions de dollars, alors que le Bitcoin subissait une pression de vente après avoir échoué à maintenir le niveau des 65 000 dollars.",
+      "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
+      "summary": "Un journal chinois met en garde contre une escroquerie à l'extorsion utilisant son nom, où des fraudeurs exigent des paiements en Bitcoin pour éviter la publication d'articles d'investigation fictifs.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 07:16:47 +0000"
+      "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 07:28:57 +0000"
     },
     {
-      "title": "UK policy sprint finds cross-border payments are stablecoins’ top use case",
-      "summary": "Un exercice politique britannique identifie les paiements transfrontaliers comme le principal cas d'usage des stablecoins, avec une adoption retail domestique jugée limitée à court terme.",
+      "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
+      "summary": "Les ETF Bitcoin américains ont enregistré 32,1 millions de dollars d'entrées mercredi après quatre séances de sorties, tandis que les fonds Ether ont connu des retraits.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 29 Jul 2026 07:11:27 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 07:05:23 +0000"
+    },
+    {
+      "title": "South Korea report proposes stablecoin rules before crypto law",
+      "summary": "La Corée du Sud propose des règles provisoires pour les stablecoins, incluant un système de licence et plus de flexibilité pour les émetteurs, avant l'adoption de sa loi globale sur les actifs numériques.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 05:33:57 +0000"
+    },
+    {
+      "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
+      "summary": "Les États-Unis ont sanctionné une entreprise maritime iranienne, HormuzSafe, accusée d'avoir utilisé Bitcoin et d'autres cryptomonnaies pour contourner les restrictions et financer le Corps des gardiens de la révolution islamique.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 30 Jul 2026 05:23:59 +0000"
     }
   ]
 }
