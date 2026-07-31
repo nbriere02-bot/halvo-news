@@ -1,61 +1,68 @@
 {
-  "generatedAt": "30/07/2026 09:34 UTC",
+  "generatedAt": "31/07/2026 09:48 UTC",
   "items": [
     {
-      "title": "Live updates: Bitcoin holds near $64,000 as Microsoft's AI payoff lifts stocks",
-      "summary": "Bitcoin se maintient autour de 64 000 dollars tandis que les marchés actions profitent de l'essor de l'IA chez Microsoft.",
+      "title": "Bitcoin’s calm is back and so is the setup for a volatility explosion",
+      "summary": "Bitcoin montre une période de stabilité après des fluctuations récentes, laissant présager une possible explosion de volatilité à venir.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/07/30/live-updates-bitcoin-holds-near-usd64-000-as-microsoft-s-ai-payoff-lifts-stocks",
-      "publishedAt": "Thu, 30 Jul 2026 09:01:13 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-s-calm-is-back-and-so-is-the-setup-for-a-volatility-explosion",
+      "publishedAt": "Fri, 31 Jul 2026 08:30:31 +0000"
     },
     {
-      "title": "Bitcoin and ether markets are ruled by perps. SpaceX showed how far their influence can go",
-      "summary": "Les marchés du Bitcoin et de l'Ether sont dominés par les contrats perpétuels, comme l'a illustré l'impact des ventes d'actifs de SpaceX sur les cours.",
+      "title": "Live updates: Bitcoin steady as Japan holds rates at 1%, keeping the yen carry trade alive",
+      "summary": "Le Bitcoin reste stable alors que la Banque du Japon maintient son taux directeur à 1% pour préserver le yen carry trade.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-and-ether-markets-are-ruled-by-perps-spacex-showed-how-far-their-influence-can-go",
-      "publishedAt": "Thu, 30 Jul 2026 09:00:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/31/live-updates-bitcoin-steady-as-japan-holds-rates-at-1-keeping-the-yen-carry-trade-alive",
+      "publishedAt": "Fri, 31 Jul 2026 07:46:10 +0000"
     },
     {
-      "title": "Bitcoin, ether whipsaw wipes out $286 million in leveraged bets",
-      "summary": "Les fluctuations brutales du Bitcoin et de l'Ethereum ont entraîné la liquidation de positions à effet de levier pour un montant total de 286 millions de dollars.",
+      "title": "Bitcoin flat near $64,000 as Kospi's record 17% surge leaves crypto untouched",
+      "summary": "Bitcoin stagne autour de 64 000 dollars malgré une hausse record de 17 % du Kospi, sans impact visible sur les marchés crypto.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-ether-whipsaw-wipes-out-usd280-million-even-as-prices-remain-flat-over-24-hours",
-      "publishedAt": "Thu, 30 Jul 2026 06:59:10 +0000"
+      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-flat-near-usd64-000-as-kospi-s-record-17-surge-leaves-crypto-untouched",
+      "publishedAt": "Fri, 31 Jul 2026 05:43:39 +0000"
     },
     {
-      "title": "Bitcoin analysts agree the Fed's hold was hawkish. They are split on what happens next.",
-      "summary": "Les analystes s'accordent sur le ton restrictif du maintien des taux par la Fed, mais divergent sur les implications pour Bitcoin.",
+      "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep",
+      "summary": "Une faille majeure dans un portefeuille Bitcoin a permis de voler 594 BTC en seulement 25 minutes.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/30/bitcoin-analysts-agree-the-fed-s-hold-was-hawkish-they-don-t-agree-on-what-happens-next",
-      "publishedAt": "Thu, 30 Jul 2026 06:28:58 +0000"
+      "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
+      "publishedAt": "Fri, 31 Jul 2026 05:12:55 +0000"
     },
     {
-      "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
-      "summary": "Un journal chinois met en garde contre une escroquerie à l'extorsion utilisant son nom, où des fraudeurs exigent des paiements en Bitcoin pour éviter la publication d'articles d'investigation fictifs.",
+      "title": "Aave weighs closing 6 V3 blockchain markets, offboarding 50 low-use reserves",
+      "summary": "Aave envisage de fermer six marchés blockchain V3 et de supprimer 50 réserves peu utilisées suite à une recommandation de LlamaRisk.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 30 Jul 2026 07:28:57 +0000"
+      "url": "https://cointelegraph.com/news/aave-weighs-closing-6-v3-blockchain-markets-offboarding-50-low-use-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 08:57:53 +0000"
     },
     {
-      "title": "Bitcoin ETF inflows return as Ether funds slip into outflows",
-      "summary": "Les ETF Bitcoin américains ont enregistré 32,1 millions de dollars d'entrées mercredi après quatre séances de sorties, tandis que les fonds Ether ont connu des retraits.",
+      "title": "RWA perpetual futures volume nears Bitcoin on Hyperliquid, Binance",
+      "summary": "Le volume des contrats perpétuels sur actifs réels (RWA) a atteint 99,2 % du volume des contrats perpétuels sur Bitcoin sur les plateformes Hyperliquid et Binance, avec une dominance des actions tokenisées dans les échanges.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-return-ether-funds-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 30 Jul 2026 07:05:23 +0000"
+      "url": "https://cointelegraph.com/markets/rwa-perpetual-futures-bitcoin-hyperliquid-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 08:29:51 +0000"
     },
     {
-      "title": "South Korea report proposes stablecoin rules before crypto law",
-      "summary": "La Corée du Sud propose des règles provisoires pour les stablecoins, incluant un système de licence et plus de flexibilité pour les émetteurs, avant l'adoption de sa loi globale sur les actifs numériques.",
+      "title": "Bitcoin ETFs post $233M inflows, pushing week back into the green",
+      "summary": "Les ETF Bitcoin aux États-Unis ont enregistré des entrées nettes de 233,1 millions de dollars, menés par IBIT de BlackRock, rendant la semaine positive.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/south-korea-report-stablecoin-rules-crypto-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 30 Jul 2026 05:33:57 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-inflows-week-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 06:46:23 +0000"
     },
     {
-      "title": "US sanctions Iranian maritime firm, says it accepted Bitcoin to evade restrictions",
-      "summary": "Les États-Unis ont sanctionné une entreprise maritime iranienne, HormuzSafe, accusée d'avoir utilisé Bitcoin et d'autres cryptomonnaies pour contourner les restrictions et financer le Corps des gardiens de la révolution islamique.",
+      "title": "Crypto’s next altseason may have fewer winners: Wintermute",
+      "summary": "Selon Wintermute, les investisseurs institutionnels ont représenté 72% de leur flux OTC au comptant au premier semestre 2026, avec une concentration de capitaux dans moins de tokens et des rallies d'altcoins plus sélectifs.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-sanctions-iran-hormuzsafe-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Thu, 30 Jul 2026 05:23:59 +0000"
+      "url": "https://cointelegraph.com/news/crypto-next-altseason-fewer-winners-wintermute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 04:46:14 +0000"
+    },
+    {
+      "title": "Coldcard issues Mk3 warning as experts examine $38M Bitcoin wallet drain",
+      "summary": "Coinkite a conseillé aux utilisateurs de Coldcard Mk3 de transférer leurs fonds après avoir identifié un risque potentiel dans la génération de seed, tandis que des experts en sécurité Bitcoin examinent un retrait inexpliqué de 38 millions de dollars d'un portefeuille.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/coldcard-mk3-warning-594-btc-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 31 Jul 2026 02:38:09 +0000"
     }
   ]
 }
