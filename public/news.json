@@ -1,68 +1,61 @@
 {
-  "generatedAt": "01/08/2026 09:09 UTC",
+  "generatedAt": "02/08/2026 09:12 UTC",
   "items": [
     {
-      "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
-      "summary": "Le fondateur de Binance, CZ, recommande de diversifier les portefeuilles crypto après l'exploitation d'une faille sur Coldcard ayant entraîné la perte de 70 millions de dollars.",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "summary": "Une attaque ciblant des cold wallets Bitcoin a touché 4 500 adresses, avec des pertes estimées à près de 89 millions de dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
-      "publishedAt": "Sat, 01 Aug 2026 09:01:08 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "publishedAt": "Sat, 01 Aug 2026 20:10:54 +0000"
     },
     {
-      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "summary": "Le XRP Ledger a été mis à niveau pour réintégrer des fonctionnalités précédemment désactivées en raison de bugs critiques.",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "summary": "Le volume des échanges d'actions tokenisées a augmenté de 288 % en juillet, principalement porté par un token lié au fonds QQQ.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "publishedAt": "Sat, 01 Aug 2026 06:09:51 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "publishedAt": "Sat, 01 Aug 2026 16:51:35 +0000"
     },
     {
-      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "summary": "Des portefeuilles froids Bitcoin ont subi une perte de 70 millions de dollars après une attaque exploitant une faille logicielle externe, sans compromission physique des appareils.",
+      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
+      "summary": "Une étude de la Banque d'Italie indique que les stablecoins ne sont pas systématiquement moins chers que les solutions traditionnelles pour les transferts d'argent.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "publishedAt": "Sat, 01 Aug 2026 05:55:46 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
+      "publishedAt": "Sat, 01 Aug 2026 16:00:00 +0000"
     },
     {
-      "title": "Bitcoin holds monthly gain, faces 'choppy' August as 'forced-selling' exhausted, analysts say",
-      "summary": "Bitcoin maintient ses gains mensuels mais pourrait connaître un mois d'août volatile, les analystes estimant que les ventes forcées ont diminué.",
+      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
+      "summary": "La difficulté de minage du Bitcoin a diminué de 14 % par rapport à son pic annuel, en raison de la baisse des revenus poussant les mineurs à s’adapter.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/07/31/bitcoin-holds-onto-july-gain-as-forced-selling-fuel-was-already-spent-analysts-say",
-      "publishedAt": "Fri, 31 Jul 2026 20:50:58 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
+      "publishedAt": "Sat, 01 Aug 2026 15:51:10 +0000"
     },
     {
-      "title": "Tether posts $1.5 billion operating profit in Q2 as reserve buffer falls by half",
-      "summary": "Tether a enregistré un bénéfice d'exploitation de 1,5 milliard de dollars au deuxième trimestre, tandis que son tampon de réserves a diminué de moitié.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/07/31/tether-posts-usd1-5-billion-operating-profit-in-q2-as-reserve-buffer-falls-by-half",
-      "publishedAt": "Fri, 31 Jul 2026 18:24:55 +0000"
-    },
-    {
-      "title": "Bitcoin ETFs end July in the green despite late-month selling",
-      "summary": "Les ETF Bitcoin spot ont enregistré des entrées de 172,4 millions de dollars en juillet, mais restent négatifs à hauteur de 5,3 milliards de dollars depuis le début de l'année après des retraits importants en mai et juin.",
+      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
+      "summary": "Un piratage de portefeuilles Coldcard a provoqué le déplacement de 39 600 BTC via des transactions inférieures à 1 BTC, les chercheurs alertant sur la persistance de l'attaque.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 07:23:07 +0000"
+      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 02 Aug 2026 08:04:56 +0000"
     },
     {
-      "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-      "summary": "Une étude de la Banque d'Italie révèle que les coûts de conversion en monnaie fiduciaire et les infrastructures de paiement, plutôt que les frais de blockchain, expliquent la plupart des différences de coûts et de temps de règlement des envois de fonds en stablecoins.",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "summary": "Plusieurs affaires judiciaires liées à la crypto avancent cette semaine, dont une liée à FTX, une tentative de rejet de poursuites pour un pari sur Polymarket et une amende de 35 000 $ pour trading manipulatoire infligée à un ancien congressman.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 20:10:21 +0000"
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 21:14:39 +0000"
     },
     {
-      "title": "Pump.fun laid off workers before they received millions in PUMP tokens: Report",
-      "summary": "Pump.fun a licencié des employés avant qu'ils ne reçoivent des millions de tokens PUMP, selon un rapport, le co-fondateur Noah Tweedale attribuant ces licenciements à une croissance trop rapide de l'entreprise.",
+      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+      "summary": "L'interdiction des distributeurs automatiques de crypto au Minnesota entre en vigueur après des pertes signalées de 1 million de dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/pump-fun-employees-fired-tokens-vest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 19:16:19 +0000"
+      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 18:07:17 +0000"
     },
     {
-      "title": "Ex-FTX users report funds being released in $900M distribution round",
-      "summary": "Des utilisateurs de l'ancienne plateforme d'échange crypto FTX ont signalé que des agents de distribution avaient commencé à libérer des fonds pour rembourser partiellement les pertes subies en 2022.",
+      "title": "Russia expands crypto mining ban to Moscow through 2032",
+      "summary": "La Russie a étendu son interdiction du minage de cryptomonnaies à Moscou, à la région de Moscou et à certaines parties de la région de Kursk, invoquant des préoccupations concernant l'alimentation électrique.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 31 Jul 2026 16:56:31 +0000"
+      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 01 Aug 2026 10:23:41 +0000"
     }
   ]
 }
