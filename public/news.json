@@ -1,61 +1,68 @@
 {
-  "generatedAt": "02/08/2026 09:12 UTC",
+  "generatedAt": "03/08/2026 10:46 UTC",
   "items": [
     {
-      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-      "summary": "Une attaque ciblant des cold wallets Bitcoin a touché 4 500 adresses, avec des pertes estimées à près de 89 millions de dollars.",
+      "title": "Bithumb now targets 2028 IP after major internal restructuring",
+      "summary": "Bithumb vise une introduction en bourse d'ici 2028 après une importante restructuration interne.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-      "publishedAt": "Sat, 01 Aug 2026 20:10:54 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/03/bithumb-now-targets-2028-ip-after-major-internal-restructuring",
+      "publishedAt": "Mon, 03 Aug 2026 10:41:08 +0000"
     },
     {
-      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
-      "summary": "Le volume des échanges d'actions tokenisées a augmenté de 288 % en juillet, principalement porté par un token lié au fonds QQQ.",
+      "title": "Live updates: Traders say bitcoin sell-off from $65,000 points to thin volume, not panic selling",
+      "summary": "Les traders attribuent la baisse du bitcoin depuis 65 000 $ à des volumes d'échange faibles plutôt qu'à une vente paniquée.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
-      "publishedAt": "Sat, 01 Aug 2026 16:51:35 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/03/live-updates-traders-say-bitcoin-sell-off-from-usd65-000-points-to-thin-volume-not-panic-selling",
+      "publishedAt": "Mon, 03 Aug 2026 10:29:23 +0000"
     },
     {
-      "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
-      "summary": "Une étude de la Banque d'Italie indique que les stablecoins ne sont pas systématiquement moins chers que les solutions traditionnelles pour les transferts d'argent.",
+      "title": "The bitcoin futures yield collapse: Once over 20%, now less than Treasury notes",
+      "summary": "Les rendements des contrats à terme sur Bitcoin, autrefois supérieurs à 20%, sont désormais inférieurs à ceux des bons du Trésor américain.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
-      "publishedAt": "Sat, 01 Aug 2026 16:00:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/03/the-bitcoin-futures-yield-collapse-once-over-20-now-less-than-treasury-notes",
+      "publishedAt": "Mon, 03 Aug 2026 10:13:50 +0000"
     },
     {
-      "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
-      "summary": "La difficulté de minage du Bitcoin a diminué de 14 % par rapport à son pic annuel, en raison de la baisse des revenus poussant les mineurs à s’adapter.",
+      "title": "Robinhood wins UK crypto registration before new regulatory regime kicks off",
+      "summary": "Robinhood a obtenu son enregistrement crypto au Royaume-Uni avant l'entrée en vigueur du nouveau régime réglementaire.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/01/bitcoin-mining-difficulty-shrinks-14-from-this-year-s-high-as-plunging-revenues-force-operators-to-pivot",
-      "publishedAt": "Sat, 01 Aug 2026 15:51:10 +0000"
+      "url": "https://www.coindesk.com/policy/2026/08/03/robinhood-wins-uk-crypto-registration-before-new-regulatory-regime-kicks-off",
+      "publishedAt": "Mon, 03 Aug 2026 09:38:53 +0000"
     },
     {
-      "title": "Coldcard hack sparks biggest sub-1 BTC move since FTX: CryptoQuant",
-      "summary": "Un piratage de portefeuilles Coldcard a provoqué le déplacement de 39 600 BTC via des transactions inférieures à 1 BTC, les chercheurs alertant sur la persistance de l'attaque.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/coldcard-biggest-sub-1-btc-transfer-ftx-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 02 Aug 2026 08:04:56 +0000"
+      "title": "Coldcard wallet losses may near $114 million as possible fourth sweep emerges",
+      "summary": "Des utilisateurs de portefeuilles Coldcard signalent des pertes s'élevant à près de 114 millions de dollars, avec une possible quatrième vague de vols en cours.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/08/03/coldcard-wallet-losses-may-near-usd114-million-as-possible-fourth-sweep-emerges",
+      "publishedAt": "Mon, 03 Aug 2026 08:51:39 +0000"
     },
     {
-      "title": "Onchain, in court: What happened in crypto legal news this week",
-      "summary": "Plusieurs affaires judiciaires liées à la crypto avancent cette semaine, dont une liée à FTX, une tentative de rejet de poursuites pour un pari sur Polymarket et une amende de 35 000 $ pour trading manipulatoire infligée à un ancien congressman.",
+      "title": "Bitcoin may find bear market bottom in August: 10x Research",
+      "summary": "Selon 10x Research, le Bitcoin pourrait atteindre son plus bas niveau du marché baissier en août, bien que la hausse des rendements du Trésor puisse contraindre la Fed à augmenter les taux en septembre.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 21:14:39 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-find-bear-market-bottom-august-10x-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 03 Aug 2026 10:25:32 +0000"
     },
     {
-      "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
-      "summary": "L'interdiction des distributeurs automatiques de crypto au Minnesota entre en vigueur après des pertes signalées de 1 million de dollars.",
+      "title": "HashKey receives JPMorgan approval to open client money account",
+      "summary": "HashKey Exchange a obtenu l'approbation pour ouvrir des comptes de fonds clients avec JPMorgan, quelques semaines après avoir lancé des comptes de fonds clients avec DBS Bank.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 18:07:17 +0000"
+      "url": "https://cointelegraph.com/news/hashkey-jpmorgan-client-money-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 03 Aug 2026 09:14:38 +0000"
     },
     {
-      "title": "Russia expands crypto mining ban to Moscow through 2032",
-      "summary": "La Russie a étendu son interdiction du minage de cryptomonnaies à Moscou, à la région de Moscou et à certaines parties de la région de Kursk, invoquant des préoccupations concernant l'alimentation électrique.",
+      "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+      "summary": "Bitget va quitter le Japon et fermer les positions restantes après le 31 décembre, ayant déjà stoppé les nouvelles inscriptions et commençant à restreindre les comptes existants à partir du 1er novembre.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 01 Aug 2026 10:23:41 +0000"
+      "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 03 Aug 2026 08:21:23 +0000"
+    },
+    {
+      "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+      "summary": "ZeroStack, une entreprise de trésorerie crypto cotée au Nasdaq, signale un risque pour sa survie après une perte de 82,5 millions de dollars, ses avoirs en 0G étant évalués à 91 % en dessous de leur coût d'acquisition.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 03 Aug 2026 07:15:56 +0000"
     }
   ]
 }
