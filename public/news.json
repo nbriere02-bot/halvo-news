@@ -1,75 +1,68 @@
 {
-  "generatedAt": "07/08/2026 08:17 UTC",
+  "generatedAt": "08/08/2026 07:52 UTC",
   "items": [
     {
-      "title": "Ethereum staking token weETH splits from restaking as rewards debate heats up",
-      "summary": "weETH, un token de staking d'Ethereum, se détache des protocoles de restaking en raison de désaccords sur la répartition des récompenses.",
+      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+      "summary": "Un nouvel exploit touche l'infrastructure Bitcoin en ciblant les serveurs de paiement Lightning, entraînant des drainages de fonds.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/07/ethereum-staking-token-weeth-splits-from-restaking-as-rewards-debate-heats-up",
-      "publishedAt": "Fri, 07 Aug 2026 08:01:28 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+      "publishedAt": "Sat, 08 Aug 2026 07:46:04 +0000"
     },
     {
-      "title": "Live updates: Bitcoin flat at $64,300 before US jobs report, with oil back as a headwind",
-      "summary": "Bitcoin reste stable autour de 64 300 dollars avant la publication du rapport sur l'emploi aux États-Unis, tandis que la hausse des prix du pétrole pourrait influencer les marchés.",
+      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
+      "summary": "Des amendements sur le XRP Ledger visent à faciliter la gestion de 530 millions de dollars d'actifs tokenisés liés à Wall Street.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/07/live-updates-bitcoin-flat-at-usd64-300-before-us-jobs-report-with-oil-back-as-a-headwind",
-      "publishedAt": "Fri, 07 Aug 2026 07:44:57 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
+      "publishedAt": "Sat, 08 Aug 2026 03:30:00 +0000"
     },
     {
-      "title": "Bitcoin whales load up on $1.2 billion in BTC as ETFs attract $750 million",
-      "summary": "Les grands détenteurs de Bitcoin (whales) ont accumulé pour 1,2 milliard de dollars de BTC, tandis que les ETF Bitcoin ont enregistré des entrées nettes de 750 millions de dollars.",
+      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+      "summary": "Les détenteurs de Bitcoin risquent de perdre leurs BTC réels s'ils vendent des pièces issues d'un fork basé sur la proposition BIP-110, selon un développeur.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-whales-load-up-on-usd1-2-billion-in-btc-as-etfs-attract-usd750-million",
-      "publishedAt": "Fri, 07 Aug 2026 05:45:21 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+      "publishedAt": "Sat, 08 Aug 2026 02:30:00 +0000"
     },
     {
-      "title": "Bitcoin wallet dormant since 2011 moves $3.2 million toward FalconX-linked address",
-      "summary": "Un portefeuille Bitcoin inactif depuis 2011 a transféré 3,2 millions de dollars vers une adresse liée à FalconX.",
+      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
+      "summary": "Trump Media a annulé son partenariat avec Crypto.com et abandonné son projet d'intégrer le token CRO dans ses réserves.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/07/bitcoin-wallet-dormant-since-2011-moves-usd3-2-million-toward-falconx-linked-address",
-      "publishedAt": "Fri, 07 Aug 2026 04:50:44 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
+      "publishedAt": "Fri, 07 Aug 2026 21:13:21 +0000"
     },
     {
-      "title": "A bitcoin pattern taking shape right now could send prices soaring to $76,000",
-      "summary": "Un modèle de prix du Bitcoin en formation pourrait potentiellement faire monter les prix jusqu'à 76 000 dollars.",
+      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
+      "summary": "Justin Mateen, directeur d'American Bitcoin soutenu par Trump, a acheté pour près de 2 millions de dollars d'actions ABTC.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/07/a-case-for-a-bitcoin-surge-to-usd76-000-may-be-building-beneath-the-boring-price-action-but-there-s-a-caveat",
-      "publishedAt": "Fri, 07 Aug 2026 04:28:17 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
+      "publishedAt": "Fri, 07 Aug 2026 20:20:00 +0000"
     },
     {
-      "title": "Coldcard exploit pushes July losses to $247M as second-worst month of 2026",
-      "summary": "Une faille dans Coldcard a causé plus de 100 millions de dollars de pertes, portant les vols de crypto en juillet à 247 millions de dollars, faisant de ce mois le deuxième pire de 2026.",
+      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
+      "summary": "L'IMF suggère que les stablecoins domestiques pourraient augmenter la demande pour les tokens adossés au dollar en raison de leur liquidité et de leur acceptation transfrontalière.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/coldcard-exploit-july-second-worst-month-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 07:59:42 +0000"
+      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 06:21:08 +0000"
     },
     {
-      "title": "Japan FSA asks crypto exchanges to impose withdrawal delays to fight scams",
-      "summary": "L'Autorité des services financiers du Japon demande aux plateformes d'échange de crypto-monnaies d'imposer des délais de retrait pour lutter contre les escroqueries.",
+      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
+      "summary": "Un tribunal américain soutient la demande de Bybit pour tracer les fonds d'un piratage de 1,5 milliard de dollars attribué à la Corée du Nord, permettant à l'échange d'obtenir des informations sur les comptes, soldes et historiques de transactions auprès de plateformes opérant aux États-Unis.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/japan-fsa-crypto-exchanges-withdrawal-delays-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 05:24:38 +0000"
+      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 04:11:53 +0000"
     },
     {
-      "title": "Proposed CLARITY ethics deal could save Trump millions in taxes: Bloomberg",
-      "summary": "Un accord bipartisan sur l'éthique proposerait à Trump de céder ses entreprises de crypto tout en lui permettant de reporter les taxes sur les plus-values de ces ventes.",
+      "title": "Donald Trump’s media company to terminate Crypto.com deal",
+      "summary": "La société médiatique de Donald Trump met fin à un accord avec Crypto.com pour créer une trésorerie en CRO et n'intégrera pas de marchés de prédiction sur Truth Social.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/proposed-clarity-ethics-deal-could-save-trump-millions-in-taxes-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 05:04:22 +0000"
+      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 07 Aug 2026 21:39:36 +0000"
     },
     {
-      "title": "Bitget explores licensed crypto presence in Bhutan",
-      "summary": "Bitget a signé un accord avec l'autorité de Gelephu Mindfulness City pour établir une présence locale réglementée au Bhoutan.",
+      "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
+      "summary": "Le gouvernement américain a sanctionné un individu et deux plateformes de crypto qu'il accuse d'avoir facilité le blanchiment d'actifs numériques liés à l'Iran pour un montant total de 5 millions de dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitget-explores-licensed-crypto-presence-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 03:22:26 +0000"
-    },
-    {
-      "title": "US Senate pushes CLARITY Act vote to September",
-      "summary": "Le vote sur le CLARITY Act au Sénat américain est reporté à septembre, selon le chef de la majorité sénatoriale John Thune.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-senate-pushes-clarity-act-vote-to-september-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 02:49:53 +0000"
+      "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 07 Aug 2026 20:02:20 +0000"
     }
   ]
 }
