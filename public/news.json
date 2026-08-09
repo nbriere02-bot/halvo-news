@@ -1,68 +1,68 @@
 {
-  "generatedAt": "08/08/2026 07:52 UTC",
+  "generatedAt": "09/08/2026 07:55 UTC",
   "items": [
     {
-      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "summary": "Un nouvel exploit touche l'infrastructure Bitcoin en ciblant les serveurs de paiement Lightning, entraînant des drainages de fonds.",
+      "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+      "summary": "Un fork controversé de Bitcoin, BIP-110, a miné deux blocs avant de s'arrêter.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-      "publishedAt": "Sat, 08 Aug 2026 07:46:04 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+      "publishedAt": "Sun, 09 Aug 2026 05:08:20 +0000"
     },
     {
-      "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets",
-      "summary": "Des amendements sur le XRP Ledger visent à faciliter la gestion de 530 millions de dollars d'actifs tokenisés liés à Wall Street.",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "summary": "Le réseau Bitcoin atteint le bloc 961 632 marquant le début de la tentative de soft fork controversée BIP-110.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/07/new-xrp-ledger-amendments-target-usd530-million-in-tokenized-wall-street-assets",
-      "publishedAt": "Sat, 08 Aug 2026 03:30:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "publishedAt": "Sat, 08 Aug 2026 20:06:47 +0000"
     },
     {
-      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "summary": "Les détenteurs de Bitcoin risquent de perdre leurs BTC réels s'ils vendent des pièces issues d'un fork basé sur la proposition BIP-110, selon un développeur.",
+      "title": "Hardware wallet sales in Russia more than double as new crypto rules near",
+      "summary": "Les ventes de portefeuilles matériels en Russie ont plus que doublé à l'approche de l'entrée en vigueur de nouvelles régulations sur les cryptomonnaies.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-      "publishedAt": "Sat, 08 Aug 2026 02:30:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/08/hardware-wallet-sales-in-russia-more-than-double-as-new-crypto-rules-near",
+      "publishedAt": "Sat, 08 Aug 2026 17:48:02 +0000"
     },
     {
-      "title": "Trump Media pulls back from crypto, scraps Crypto.com's CRO token treasury deal",
-      "summary": "Trump Media a annulé son partenariat avec Crypto.com et abandonné son projet d'intégrer le token CRO dans ses réserves.",
+      "title": "Brazil's central bank orders exchanges to delay large crypto transfers abroad",
+      "summary": "La banque centrale du Brésil impose aux exchanges de retarder les transferts importants de cryptomonnaies vers l'étranger pour renforcer le contrôle des flux financiers.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-media-pulls-back-from-crypto-scraps-crypto-com-cro-treasury-deal",
-      "publishedAt": "Fri, 07 Aug 2026 21:13:21 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/08/brazil-s-central-bank-orders-exchanges-to-delay-large-crypto-transfers-abroad",
+      "publishedAt": "Sat, 08 Aug 2026 15:25:38 +0000"
     },
     {
-      "title": "Trump-Backed American Bitcoin director Justin Mateen buys nearly $2 million of ABTC stock",
-      "summary": "Justin Mateen, directeur d'American Bitcoin soutenu par Trump, a acheté pour près de 2 millions de dollars d'actions ABTC.",
+      "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+      "summary": "Bitwise's Matt Hougan prévoit que des milliers de milliards de dollars d'argent institutionnel afflueront dans le bitcoin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/07/trump-backed-american-bitcoin-director-justin-mateen-buys-nearly-usd2-million-of-abtc-stock",
-      "publishedAt": "Fri, 07 Aug 2026 20:20:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+      "publishedAt": "Sat, 08 Aug 2026 14:00:00 +0000"
     },
     {
-      "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-      "summary": "L'IMF suggère que les stablecoins domestiques pourraient augmenter la demande pour les tokens adossés au dollar en raison de leur liquidité et de leur acceptation transfrontalière.",
+      "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+      "summary": "BTCPay a restreint l'accès distant à Lightning après que des attaquants ont volé des fonds, touchant plusieurs nœuds Lightning dont ceux de Foundation et Citadel21, sans que le montant total volé ni le nombre d'opérateurs affectés ne soient connus.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 06:21:08 +0000"
+      "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 09 Aug 2026 05:46:07 +0000"
     },
     {
-      "title": "US court backs Bybit’s bid to trace funds from $1.5B North Korea hack",
-      "summary": "Un tribunal américain soutient la demande de Bybit pour tracer les fonds d'un piratage de 1,5 milliard de dollars attribué à la Corée du Nord, permettant à l'échange d'obtenir des informations sur les comptes, soldes et historiques de transactions auprès de plateformes opérant aux États-Unis.",
+      "title": "Bitcoin’s BIP-110 enters mandatory signaling with miner support below 3%",
+      "summary": "La proposition d'amélioration Bitcoin BIP-110 est entrée en phase de signalement obligatoire avec un soutien des mineurs inférieur à 3%.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bybit-us-court-trace-funds-north-korea-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 08 Aug 2026 04:11:53 +0000"
+      "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 21:17:08 +0000"
     },
     {
-      "title": "Donald Trump’s media company to terminate Crypto.com deal",
-      "summary": "La société médiatique de Donald Trump met fin à un accord avec Crypto.com pour créer une trésorerie en CRO et n'intégrera pas de marchés de prédiction sur Truth Social.",
+      "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
+      "summary": "Les ETF Bitcoin spot aux États-Unis ont enregistré leur meilleure semaine depuis avril avec des entrées de 1 milliard de dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/donald-trump-media-company-crypto-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 21:39:36 +0000"
+      "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 16:20:17 +0000"
     },
     {
-      "title": "US Treasury’s OFAC sanctions 2 Iran-linked crypto exchanges",
-      "summary": "Le gouvernement américain a sanctionné un individu et deux plateformes de crypto qu'il accuse d'avoir facilité le blanchiment d'actifs numériques liés à l'Iran pour un montant total de 5 millions de dollars.",
+      "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+      "summary": "Le Sénat américain votera en septembre pour faire avancer le CLARITY Act après que Thune a déposé une motion de clôture, relançant ainsi les négociations sur la législation concernant la structure du marché crypto.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-treasury-sanctions-iran-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 07 Aug 2026 20:02:20 +0000"
+      "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 08 Aug 2026 15:08:06 +0000"
     }
   ]
 }
