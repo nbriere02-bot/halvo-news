@@ -1,68 +1,68 @@
 {
-  "generatedAt": "10/08/2026 08:42 UTC",
+  "generatedAt": "11/08/2026 08:11 UTC",
   "items": [
     {
-      "title": "Inside stablecoin firm BVNK’s journey to a $1.8B acquisition by Mastercard",
-      "summary": "Mastercard finalise l'acquisition de BVNK, une entreprise spécialisée dans les stablecoins, pour 1,8 milliard de dollars.",
+      "title": "A $2 trillion asset class is getting a new blockchain rail",
+      "summary": "Les actifs traditionnels estimés à 2 000 milliards de dollars pourraient être intégrés à une nouvelle infrastructure basée sur la blockchain.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/10/inside-stablecoin-firm-bvnk-s-journey-to-a-usd1-8b-acquisition-by-mastercard",
-      "publishedAt": "Mon, 10 Aug 2026 07:52:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
+      "publishedAt": "Tue, 11 Aug 2026 07:19:09 +0000"
     },
     {
-      "title": "Robinhood brings crypto trading to UK in AI-powered all-in-one app",
-      "summary": "Robinhood lance son application tout-en-un avec trading crypto, alimentée par l'IA, au Royaume-Uni.",
+      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
+      "summary": "BTCPay Server propose une prime de 190 000 dollars après l'exploitation d'une faille ayant vidé des serveurs de paiement en bitcoin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/07/robinhood-introduces-no-fee-crypto-trading-in-the-uk-with-ai-assistance",
-      "publishedAt": "Mon, 10 Aug 2026 07:00:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
+      "publishedAt": "Tue, 11 Aug 2026 06:19:07 +0000"
     },
     {
-      "title": "Live updates: BTC above $65,000 even as the Senate punts the CLARITY Act to the fall",
-      "summary": "Le prix du Bitcoin dépasse les 65 000 dollars tandis que le Sénat américain reporte l'examen du projet de loi CLARITY Act à l'automne.",
+      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
+      "summary": "Le fork BIP-110 de Bitcoin accuse un retard de 300 blocs par rapport à la chaîne principale et nécessitera six ans pour se synchroniser automatiquement.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/10/live-updates-btc-above-usd65-000-even-as-the-senate-punts-the-clarity-act-to-the-fall",
-      "publishedAt": "Mon, 10 Aug 2026 06:56:50 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
+      "publishedAt": "Tue, 11 Aug 2026 05:26:37 +0000"
     },
     {
-      "title": "This bitcoin miner rejected BIP-110 despite mining through a pool that supported it",
-      "summary": "Un mineur de Bitcoin a rejeté la proposition BIP-110 bien qu'il ait miné via un pool qui la soutenait.",
+      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
+      "summary": "Les cryptomonnaies XRP et Ether enregistrent des pertes importantes tandis que les traders anticipent un possible test du niveau des 70 000 dollars pour Bitcoin.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-miner-rejects-bip-110-despite-mining-through-a-pool-that-supported-it",
-      "publishedAt": "Mon, 10 Aug 2026 06:25:17 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
+      "publishedAt": "Tue, 11 Aug 2026 04:50:23 +0000"
     },
     {
-      "title": "Bitcoin tops $65,000 with U.S. inflation data due this week",
-      "summary": "Bitcoin dépasse les 65 000 dollars en prévision des données sur l'inflation aux États-Unis attendues cette semaine.",
+      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
+      "summary": "La SEC américaine a programmé une réunion pour proposer une réglementation visant à soutenir certaines offres d'actifs numériques.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/10/bitcoin-tops-usd65-000-with-us-inflation-data-due-this-week",
-      "publishedAt": "Mon, 10 Aug 2026 04:39:37 +0000"
+      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
+      "publishedAt": "Tue, 11 Aug 2026 04:07:48 +0000"
     },
     {
-      "title": "UK regulators to prepare tokenized gold framework: Report",
-      "summary": "Les régulateurs britanniques préparent un cadre réglementaire pour l'or tokenisé et son utilisation comme actif de garantie sur les marchés de gros.",
+      "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
+      "summary": "Anthropic a conclu un accord de 9 milliards de dollars avec Riot pour une capacité de 191 mégawatts provenant du campus de Rockdale, Texas, appartenant au mineur de Bitcoin.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/uk-regulators-tokenized-gold-framework-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 10 Aug 2026 07:25:45 +0000"
+      "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 11 Aug 2026 08:00:26 +0000"
     },
     {
-      "title": "Bitcoin Red Team founder turns to Chinese AI: ‘It absolutely guts me’",
-      "summary": "Bitcoin Red Team a identifié 1 288 vulnérabilités critiques et de haut niveau dans l'écosystème Bitcoin à ce jour.",
+      "title": "South Korea drops Travel Rule threshold for crypto transfers",
+      "summary": "La Corée du Sud supprime le seuil de 1 million de wons pour la règle de voyage et appliquera les exigences de partage d'informations à tous les transferts entre les fournisseurs de services crypto enregistrés.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitcoin-red-team-founder-turns-to-chinese-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 10 Aug 2026 05:18:27 +0000"
+      "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 11 Aug 2026 06:28:16 +0000"
     },
     {
-      "title": "Australia orders Cryptolink Bitcoin ATMs offline over ‘basic reporting’ failures",
-      "summary": "L'Australie suspend l'enregistrement de Cryptolink pour trois mois, après une amende de 56 340 dollars pour manquements aux obligations de reporting.",
+      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
+      "summary": "Decta va utiliser l'USDC via l'infrastructure d'OpenPayd pour les règlements de trésorerie internationaux, cherchant des transferts plus rapides et une gestion de la liquidité plus efficace.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 10 Aug 2026 04:32:36 +0000"
+      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 11 Aug 2026 06:00:00 +0000"
     },
     {
-      "title": "Crypto’s first quantum attack will look like unexplained breach: Quantus founder",
-      "summary": "Les acteurs malveillants disposant d'un ordinateur quantique capable de briser la cryptographie ne chercheront probablement pas à l'annoncer en piratant les portefeuilles Bitcoin très médiatisés de Satoshi Nakamoto, selon des responsables crypto.",
+      "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
+      "summary": "Luke Dashjr a été retiré de son rôle d'éditeur de Bitcoin Improvement Proposal après que des développeurs ont exprimé des préoccupations concernant son implication dans le BIP 110 et son fork minoritaire stagnant.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 10 Aug 2026 03:34:53 +0000"
+      "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 11 Aug 2026 04:54:15 +0000"
     }
   ]
 }
