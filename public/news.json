@@ -1,68 +1,75 @@
 {
-  "generatedAt": "11/08/2026 08:11 UTC",
+  "generatedAt": "12/08/2026 08:21 UTC",
   "items": [
     {
-      "title": "A $2 trillion asset class is getting a new blockchain rail",
-      "summary": "Les actifs traditionnels estimés à 2 000 milliards de dollars pourraient être intégrés à une nouvelle infrastructure basée sur la blockchain.",
+      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
+      "summary": "Bitcoin atteint 63 600 dollars alors que la société japonaise Metaplanet transfère 3 881 BTC entre ses portefeuilles.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/11/emb-7-00-utc-a-usd2-trillion-asset-class-is-getting-a-new-blockchain-rail",
-      "publishedAt": "Tue, 11 Aug 2026 07:19:09 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
+      "publishedAt": "Wed, 12 Aug 2026 07:04:53 +0000"
     },
     {
-      "title": "BTCPay offers $190,000 bounty after bitcoin payment servers drained in exploit",
-      "summary": "BTCPay Server propose une prime de 190 000 dollars après l'exploitation d'une faille ayant vidé des serveurs de paiement en bitcoin.",
+      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
+      "summary": "Crypto.com lance des produits dérivés sur actions tokenisées, marquant l'entrée des plateformes crypto dans le marché des actions traditionnelles.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/11/btcpay-offers-usd190-000-bounty-after-bitcoin-payment-servers-drained-in-exploit",
-      "publishedAt": "Tue, 11 Aug 2026 06:19:07 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 +0000"
     },
     {
-      "title": "Bitcoin’s BIP-110 fork is 300 blocks behind BTC and six years from fixing itself",
-      "summary": "Le fork BIP-110 de Bitcoin accuse un retard de 300 blocs par rapport à la chaîne principale et nécessitera six ans pour se synchroniser automatiquement.",
+      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
+      "summary": "Les traders de Bitcoin et d'Ethereum ajustent leurs positions avant la publication des données américaines sur l'inflation (CPI), un indicateur clé pour les marchés crypto.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/11/bitcoin-s-bip-110-fork-is-300-blocks-behind-btc-and-six-years-from-fixing-itself",
-      "publishedAt": "Tue, 11 Aug 2026 05:26:37 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
+      "publishedAt": "Wed, 12 Aug 2026 05:26:55 +0000"
     },
     {
-      "title": "XRP, ether lead crypto losses as traders eye $70,000 bitcoin next",
-      "summary": "Les cryptomonnaies XRP et Ether enregistrent des pertes importantes tandis que les traders anticipent un possible test du niveau des 70 000 dollars pour Bitcoin.",
+      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
+      "summary": "Harmony (ONE) chute de 40% après une attaque ayant apparemment permis la création de tokens équivalant à un quart de son offre en circulation.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/11/xrp-ether-lead-crypto-losses-as-traders-eye-usd70-000-bitcoin-next",
-      "publishedAt": "Tue, 11 Aug 2026 04:50:23 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
+      "publishedAt": "Wed, 12 Aug 2026 05:18:40 +0000"
     },
     {
-      "title": "U.S. SEC sets meeting to propose Reg Crypto to support certain digital assets offerings",
-      "summary": "La SEC américaine a programmé une réunion pour proposer une réglementation visant à soutenir certaines offres d'actifs numériques.",
+      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
+      "summary": "Dogecoin et BNB ont enregistré des hausses significatives, tandis que le bitcoin a légèrement reculé pour s'approcher des 63 700 dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/08/11/u-s-sec-sets-meeting-to-propose-reg-crypto-to-support-certain-digital-assets-offerings",
-      "publishedAt": "Tue, 11 Aug 2026 04:07:48 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
+      "publishedAt": "Wed, 12 Aug 2026 04:53:46 +0000"
     },
     {
-      "title": "Anthropic strikes $9B compute deal with Bitcoin miner Riot: Report",
-      "summary": "Anthropic a conclu un accord de 9 milliards de dollars avec Riot pour une capacité de 191 mégawatts provenant du campus de Rockdale, Texas, appartenant au mineur de Bitcoin.",
+      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
+      "summary": "Des travailleurs nord-coréens en informatique ont rejoint une fausse startup crypto sans savoir que leurs actions étaient surveillées pour obtenir des renseignements.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/anthropic-9b-deal-bitcoin-miner-riot?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 08:00:26 +0000"
+      "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 07:34:58 +0000"
     },
     {
-      "title": "South Korea drops Travel Rule threshold for crypto transfers",
-      "summary": "La Corée du Sud supprime le seuil de 1 million de wons pour la règle de voyage et appliquera les exigences de partage d'informations à tous les transferts entre les fournisseurs de services crypto enregistrés.",
+      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
+      "summary": "Harmony travaille avec des exchanges pour geler des fonds et prépare un correctif après des allégations selon lesquelles 2,8 milliards de tokens ONE non autorisés ont été émis sur des plateformes de trading.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/south-korea-travel-rule-threshold-crypto-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 06:28:16 +0000"
+      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 06:02:52 +0000"
     },
     {
-      "title": "Payments platform Decta explores stablecoin-enabled treasury settlement",
-      "summary": "Decta va utiliser l'USDC via l'infrastructure d'OpenPayd pour les règlements de trésorerie internationaux, cherchant des transferts plus rapides et une gestion de la liquidité plus efficace.",
+      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
+      "summary": "La CFTC utilise ses pouvoirs d'urgence pour permettre à Kalshi de continuer à opérer à New York, dans le cadre d'un conflit juridique sur la réglementation des contrats sur événements.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/payments-platform-decta-explores-stablecoin-enabled-treasury-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 06:00:00 +0000"
+      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 04:53:26 +0000"
     },
     {
-      "title": "Luke Dashjr removed as Bitcoin Improvement Proposal editor",
-      "summary": "Luke Dashjr a été retiré de son rôle d'éditeur de Bitcoin Improvement Proposal après que des développeurs ont exprimé des préoccupations concernant son implication dans le BIP 110 et son fork minoritaire stagnant.",
+      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
+      "summary": "Ravencoin atteint un niveau record à la baisse alors que des pools de minage contrôlant la majorité de son taux de hachage construisent une chaîne concurrente, risquant une réorganisation du réseau de trois jours.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/luke-dashjr-removed-as-bitcoin-proposal-editor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 11 Aug 2026 04:54:15 +0000"
+      "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 01:11:51 +0000"
+    },
+    {
+      "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
+      "summary": "Les régulateurs accusent Goliath Ventures d'avoir promis des rendements via des pools de liquidité crypto tout en utilisant les fonds pour payer les premiers investisseurs et financer le train de vie luxueux de son fondateur.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 12 Aug 2026 00:07:41 +0000"
     }
   ]
 }
