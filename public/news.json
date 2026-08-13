@@ -1,75 +1,68 @@
 {
-  "generatedAt": "12/08/2026 08:21 UTC",
+  "generatedAt": "13/08/2026 08:24 UTC",
   "items": [
     {
-      "title": "Live updates: Bitcoin at $63,600 as Japan's Metaplanet moves 3,881 BTC between wallets",
-      "summary": "Bitcoin atteint 63 600 dollars alors que la société japonaise Metaplanet transfère 3 881 BTC entre ses portefeuilles.",
+      "title": "Metaplanet denies selling bitcoin worth $320 million",
+      "summary": "Metaplanet dément avoir vendu pour 320 millions de dollars de bitcoin, affirmant que ces informations sont inexactes.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/12/live-updates-bitcoin-at-usd63-600-as-japan-s-metaplanet-moves-3-881-btc-between-wallets",
-      "publishedAt": "Wed, 12 Aug 2026 07:04:53 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/13/metaplanet-denies-selling-bitcoin-worth-usd320-million",
+      "publishedAt": "Thu, 13 Aug 2026 05:34:48 +0000"
     },
     {
-      "title": "Crypto.com rolls out tokenized stock derivatives as crypto exchanges push into equities",
-      "summary": "Crypto.com lance des produits dérivés sur actions tokenisées, marquant l'entrée des plateformes crypto dans le marché des actions traditionnelles.",
+      "title": "Bitcoin firms ask AI labs for same tools attackers already have",
+      "summary": "Des entreprises Bitcoin demandent aux laboratoires d'IA d'accéder aux mêmes outils que les attaquants pour renforcer leur sécurité.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/12/crypto-com-rolls-out-tokenized-stock-derivatives-as-crypto-exchanges-push-into-equities",
-      "publishedAt": "Wed, 12 Aug 2026 06:00:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/13/bitcoin-firms-ask-ai-labs-for-same-tools-attackers-already-have",
+      "publishedAt": "Thu, 13 Aug 2026 05:21:21 +0000"
     },
     {
-      "title": "Here's what bitcoin and ether traders are doing ahead of the binary U.S. CPI print",
-      "summary": "Les traders de Bitcoin et d'Ethereum ajustent leurs positions avant la publication des données américaines sur l'inflation (CPI), un indicateur clé pour les marchés crypto.",
+      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+      "summary": "La spéculation sur le Dogecoin revient aux niveaux d'octobre 2025 alors que son prix a chuté de 70%.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/12/here-s-what-bitcoin-and-ether-traders-are-doing-ahead-of-the-binary-u-s-cpi-print",
-      "publishedAt": "Wed, 12 Aug 2026 05:26:55 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+      "publishedAt": "Thu, 13 Aug 2026 04:06:16 +0000"
     },
     {
-      "title": "Harmony’s ONE dives 40% after an attack appears to mint tokens equal to quarter of supply",
-      "summary": "Harmony (ONE) chute de 40% après une attaque ayant apparemment permis la création de tokens équivalant à un quart de son offre en circulation.",
+      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+      "summary": "Le Bitcoin oscille autour de 63 500 dollars alors que les traders attendent les prochaines annonces de la Fed, après la publication des données sur l’inflation.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/12/harmony-s-one-falls-26-after-attacker-allegedly-mints-4-billion-tokens",
-      "publishedAt": "Wed, 12 Aug 2026 05:18:40 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+      "publishedAt": "Thu, 13 Aug 2026 03:39:06 +0000"
     },
     {
-      "title": "Dogecoin and BNB lead majors higher as bitcoin slips near $63,700",
-      "summary": "Dogecoin et BNB ont enregistré des hausses significatives, tandis que le bitcoin a légèrement reculé pour s'approcher des 63 700 dollars.",
+      "title": "Prediction markets should dial back faulty filings for incentives to boost trading: CFTC",
+      "summary": "Les marchés de prédiction devraient réduire les déclarations erronées pour inciter à la hausse des transactions, selon la CFTC.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/12/dogecoin-and-bnb-lead-majors-higher-as-bitcoin-slips-near-usd63-700",
-      "publishedAt": "Wed, 12 Aug 2026 04:53:46 +0000"
+      "url": "https://www.coindesk.com/policy/2026/08/12/prediction-markets-should-dial-back-faulty-filings-for-incentives-to-boost-trading-cftc",
+      "publishedAt": "Wed, 12 Aug 2026 23:16:53 +0000"
     },
     {
-      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-      "summary": "Des travailleurs nord-coréens en informatique ont rejoint une fausse startup crypto sans savoir que leurs actions étaient surveillées pour obtenir des renseignements.",
+      "title": "BitGo posts $19M Q2 loss despite 80% revenue surge to $4.3B",
+      "summary": "BitGo a enregistré une perte de 19 millions de dollars au deuxième trimestre malgré une augmentation de 80% de ses revenus à 4,3 milliards de dollars.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 12 Aug 2026 07:34:58 +0000"
+      "url": "https://cointelegraph.com/news/bitgo-q2-19-million-revenue-surge-4-3-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 13 Aug 2026 07:42:59 +0000"
     },
     {
-      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "summary": "Harmony travaille avec des exchanges pour geler des fonds et prépare un correctif après des allégations selon lesquelles 2,8 milliards de tokens ONE non autorisés ont été émis sur des plateformes de trading.",
+      "title": "Copper US arm becomes FINRA member, SEC-registered broker-dealer",
+      "summary": "Copper Markets US devient membre de la FINRA et courtier-négociant enregistré auprès de la SEC, offrant des services de garde qualifiés, de staking, de financement et de gré à gré.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 12 Aug 2026 06:02:52 +0000"
+      "url": "https://cointelegraph.com/news/copper-us-arm-joins-finra-after-sec-broker-dealer-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 13 Aug 2026 07:14:19 +0000"
     },
     {
-      "title": "CFTC invokes emergency powers to keep Kalshi operating in New York fight",
-      "summary": "La CFTC utilise ses pouvoirs d'urgence pour permettre à Kalshi de continuer à opérer à New York, dans le cadre d'un conflit juridique sur la réglementation des contrats sur événements.",
+      "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
+      "summary": "Le CIO de Bitwise prévoit que les mécanismes de capture de revenus se répandent dans les applications DeFi et les réseaux de couche 1 au cours des 12 à 24 prochains mois, ce qui pourrait doubler les valorisations des cryptomonnaies.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/cftc-kalshi-emergency-order-new-york-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 12 Aug 2026 04:53:26 +0000"
+      "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 13 Aug 2026 05:01:42 +0000"
     },
     {
-      "title": "Ravencoin hits record low as network exploit puts transactions at risk",
-      "summary": "Ravencoin atteint un niveau record à la baisse alors que des pools de minage contrôlant la majorité de son taux de hachage construisent une chaîne concurrente, risquant une réorganisation du réseau de trois jours.",
+      "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
+      "summary": "Le PDG de Metaplanet, Simon Gerovich, a démenti les rumeurs de vente de Bitcoin après un transfert de 5,014 BTC entre des adresses de garde pour environ 8 dollars de frais.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/ravencoin-rvn-record-low-consensus-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 12 Aug 2026 01:11:51 +0000"
-    },
-    {
-      "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
-      "summary": "Les régulateurs accusent Goliath Ventures d'avoir promis des rendements via des pools de liquidité crypto tout en utilisant les fonds pour payer les premiers investisseurs et financer le train de vie luxueux de son fondateur.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 12 Aug 2026 00:07:41 +0000"
+      "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 13 Aug 2026 04:15:26 +0000"
     }
   ]
 }
