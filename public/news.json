@@ -1,75 +1,68 @@
 {
-  "generatedAt": "17/08/2026 07:55 UTC",
+  "generatedAt": "18/08/2026 07:41 UTC",
   "items": [
     {
-      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
-      "summary": "Le marché des contrats à terme sur Bitcoin montre une concentration élevée avec peu de liquidités en sortie, ce qui pourrait entraîner une volatilité accrue en cas de mouvements massifs.",
+      "title": "The bitcoin price level where leveraged bulls could get whacked",
+      "summary": "Les niveaux de prix du Bitcoin pourraient entraîner la liquidation de positions longues à effet de levier en cas de correction.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
-      "publishedAt": "Mon, 17 Aug 2026 05:51:18 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
+      "publishedAt": "Tue, 18 Aug 2026 05:55:43 +0000"
     },
     {
-      "title": "XRP traders bet on a rebound as price slips to $1 and bearish chatter surges",
-      "summary": "Les traders de XRP anticipent un rebond après une baisse du prix à 1 dollar, malgré une augmentation des discussions pessimistes.",
+      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
+      "summary": "Le cours du XRP est passé sous 1 dollar pour la première fois depuis 2024, tandis qu'une banque sud-coréenne adopte la solution Ripple Payments.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/17/xrp-traders-bet-on-a-rebound-as-price-slips-to-usd1-and-bearish-chatter-surges",
-      "publishedAt": "Mon, 17 Aug 2026 04:43:03 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
+      "publishedAt": "Tue, 18 Aug 2026 05:34:32 +0000"
     },
     {
-      "title": "Bitcoin tops $64,000 in Asia morning hours as HYPE jumps 8% on the week",
-      "summary": "Bitcoin dépasse les 64 000 dollars en séance asiatique, avec une hausse de 8 % sur la semaine.",
+      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
+      "summary": "Monad, un concurrent d'Ethereum, a proposé à ses premiers investisseurs de racheter leurs parts pour jusqu'à 60 millions de dollars, mais la majorité a refusé.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/17/bitcoin-tops-usd64-000-in-asia-morning-hours-as-hype-jumps-8-on-the-week",
-      "publishedAt": "Mon, 17 Aug 2026 04:14:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
+      "publishedAt": "Tue, 18 Aug 2026 05:18:18 +0000"
     },
     {
-      "title": "The SEC meeting that wasn't: State of Crypto",
-      "summary": "La SEC a annulé une réunion prévue sur l'état de la crypto, sans explication officielle donnée.",
+      "title": "Bitcoin climbs above $64,000 while most majors slip",
+      "summary": "Bitcoin dépasse les 64 000 dollars tandis que la majorité des autres cryptomonnaies enregistrent des baisses.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/08/16/the-sec-meeting-that-wasn-t-state-of-crypto",
-      "publishedAt": "Sun, 16 Aug 2026 18:30:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
+      "publishedAt": "Tue, 18 Aug 2026 04:32:38 +0000"
     },
     {
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "summary": "Les investisseurs en crypto se concentrent de nouveau sur les fondamentaux des projets plutôt que sur les classements par capitalisation boursière. Cette tendance reflète une recherche de valeur intrinsèque et de viabilité à long terme.",
+      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
+      "summary": "Payward, la société mère de Kraken, rejoint le projet Glasswing d'Anthropic pour renforcer la sécurité dans le domaine de l'intelligence artificielle.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "publishedAt": "Sun, 16 Aug 2026 16:00:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
+      "publishedAt": "Mon, 17 Aug 2026 22:12:00 +0000"
     },
     {
-      "title": "Greenlane’s $70M BERA treasury ends Q2 valued at $16M",
-      "summary": "Le trésor de Greenlane composé de 70 millions de dollars en BERA s'est terminé au deuxième trimestre avec une valeur de 16 millions de dollars.",
+      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
+      "summary": "La Fondation Ethereum avertit que certains outils pourraient ne plus fonctionner avec la mise à jour Glamsterdam et encourage les développeurs à tester sur Plataberget avant son déploiement sur les autres testnets et le mainnet.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 17 Aug 2026 05:52:55 +0000"
+      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 05:12:18 +0000"
     },
     {
-      "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
-      "summary": "Chainalysis a intenté un procès contre le gouvernement américain concernant un contrat de 95 millions de dollars attribué à TRM Labs par l'ICE, mais les détails de la plainte restent confidentiels.",
+      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
+      "summary": "Jeonbuk Bank en Corée du Sud utilise la plateforme de Ripple pour les paiements transfrontaliers, mais les détails clés tels que la date de lancement et l'actif de règlement restent non divulgués.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/chainalysis-sues-us-over-ices-sole-source-contract-with-trm-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 17 Aug 2026 03:42:48 +0000"
+      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 04:11:02 +0000"
     },
     {
-      "title": "Data of 54,000 wallet users leaked, CLARITY odds just 10%: Hodler’s Digest",
-      "summary": "Des données de 54 000 utilisateurs de portefeuilles Trezor et SafePal ont été divulguées, augmentant les risques de tentatives de phishing, tandis que les chances d'adoption de la loi CLARITY sont estimées à 10%.",
+      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
+      "summary": "Edward Zimbardi, accusé d'avoir organisé une escroquerie de type Ponzi dans le domaine des cryptomonnaies d'un montant de 165 millions de dollars, fait face à des charges aux États-Unis après son expulsion de Fiji, où il est soupçonné d'avoir détourné des fonds d'investisseurs.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/data-of-54000-wallet-users-leaked-clarity-odds-just-10-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 16 Aug 2026 23:54:50 +0000"
+      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 03:21:26 +0000"
     },
     {
-      "title": "DefiLlama delayed mobile launch over phishing apps on Apple Store, founder says",
-      "summary": "Le lancement de l'application mobile de DeFiLlama a été retardé en raison d'applications de phishing sur l'Apple Store, selon son fondateur.",
+      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
+      "summary": "Binance bStocks est devenu le deuxième plus grand émetteur de tokens d'actions en seulement deux mois, tandis que des rumeurs internes entourant le fondateur de BitMart ont attiré l'attention avant la fermeture de la plateforme.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/defillama-delayed-app-launch-fake-phishing-apps-apple?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 16 Aug 2026 12:48:09 +0000"
-    },
-    {
-      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
-      "summary": "Les développeurs d'Ethereum vont réduire 66 propositions liées à la mise à jour Hegotá, qui vise à introduire plus de confidentialité native pour les applications Ethereum.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 16 Aug 2026 11:12:51 +0000"
+      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 01:28:37 +0000"
     }
   ]
 }
