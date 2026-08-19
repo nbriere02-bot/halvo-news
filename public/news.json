@@ -1,68 +1,61 @@
 {
-  "generatedAt": "18/08/2026 07:41 UTC",
+  "generatedAt": "19/08/2026 07:41 UTC",
   "items": [
     {
-      "title": "The bitcoin price level where leveraged bulls could get whacked",
-      "summary": "Les niveaux de prix du Bitcoin pourraient entraîner la liquidation de positions longues à effet de levier en cas de correction.",
+      "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
+      "summary": "Un exploit sur le protocole Maya a entraîné le drainage de bitcoins et d'autres actifs, faisant chuter la valeur du pool de 11 millions de dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-      "publishedAt": "Tue, 18 Aug 2026 05:55:43 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+      "publishedAt": "Wed, 19 Aug 2026 06:36:11 +0000"
     },
     {
-      "title": "XRP sinks below $1 for first time since 2024 as Korean bank adopts Ripple Payments",
-      "summary": "Le cours du XRP est passé sous 1 dollar pour la première fois depuis 2024, tandis qu'une banque sud-coréenne adopte la solution Ripple Payments.",
+      "title": "Bitcoin holds $64,000 and solana leads gains amid 7% Korean chip stock slide",
+      "summary": "Bitcoin maintient son niveau autour de 64 000 dollars tandis que Solana enregistre des gains malgré une baisse de 7 % des actions de puces coréennes.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/18/xrp-slips-below-usd1-even-as-korean-regional-bank-adopts-ripple-payments",
-      "publishedAt": "Tue, 18 Aug 2026 05:34:32 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+      "publishedAt": "Wed, 19 Aug 2026 04:25:42 +0000"
     },
     {
-      "title": "Monad, an Ethereum rival, offered early investors up to $60 million to cash out. Almost all said no",
-      "summary": "Monad, un concurrent d'Ethereum, a proposé à ses premiers investisseurs de racheter leurs parts pour jusqu'à 60 millions de dollars, mais la majorité a refusé.",
+      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
+      "summary": "L'ancien gouverneur de New York, Andrew Cuomo, alerte sur le retard des États-Unis dans l'adoption de régulations claires pour les cryptomonnaies, estimant qu'une législation doit impérativement être adoptée.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/18/monad-an-ethereum-rival-offered-early-investors-up-to-usd60-million-to-cash-out-almost-all-said-no",
-      "publishedAt": "Tue, 18 Aug 2026 05:18:18 +0000"
+      "url": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
+      "publishedAt": "Wed, 19 Aug 2026 01:35:36 +0000"
     },
     {
-      "title": "Bitcoin climbs above $64,000 while most majors slip",
-      "summary": "Bitcoin dépasse les 64 000 dollars tandis que la majorité des autres cryptomonnaies enregistrent des baisses.",
+      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
+      "summary": "Le PDG de Robinhood appelle les États-Unis à établir un cadre pour les actions tokenisées, alors que d'autres marchés progressent dans ce domaine.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/18/bitcoin-climbs-above-usd64-000-while-most-majors-slip",
-      "publishedAt": "Tue, 18 Aug 2026 04:32:38 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
+      "publishedAt": "Tue, 18 Aug 2026 23:11:12 +0000"
     },
     {
-      "title": "Kraken parent Payward joins Anthropic’s Project Glasswing for AI security push",
-      "summary": "Payward, la société mère de Kraken, rejoint le projet Glasswing d'Anthropic pour renforcer la sécurité dans le domaine de l'intelligence artificielle.",
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/17/kraken-parent-payward-joins-anthropic-s-project-glasswing-for-ai-security-push",
-      "publishedAt": "Mon, 17 Aug 2026 22:12:00 +0000"
-    },
-    {
-      "title": "Ethereum Foundation warns some tools may break with Glamsterdam upgrade",
-      "summary": "La Fondation Ethereum avertit que certains outils pourraient ne plus fonctionner avec la mise à jour Glamsterdam et encourage les développeurs à tester sur Plataberget avant son déploiement sur les autres testnets et le mainnet.",
+      "title": "MAYAChain halts network after estimated $1.7M exploit",
+      "summary": "Le réseau MAYAChain a été suspendu après une exploitation estimée à 1,7 million de dollars due à une série de six bugs, entraînant une chute de près de 89% du token CACAO.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ethereum-foundation-warns-some-tools-may-break-with-glamsterdam-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 05:12:18 +0000"
+      "url": "https://cointelegraph.com/news/maya-protocol-1-7m-exploit-network-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 05:13:54 +0000"
     },
     {
-      "title": "South Korea’s Jeonbuk Bank taps Ripple for cross-border payments",
-      "summary": "Jeonbuk Bank en Corée du Sud utilise la plateforme de Ripple pour les paiements transfrontaliers, mais les détails clés tels que la date de lancement et l'actif de règlement restent non divulgués.",
+      "title": "US accounting board FASB proposes conditions for stablecoins as cash equivalents",
+      "summary": "Le FASB propose que les stablecoins soient considérés comme des équivalents de trésorerie uniquement si les détenteurs ont des droits de rachat directs auprès de l'émetteur et si les réserves sont liquides à 100%.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/jeonbuk-bank-ripple-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 04:11:02 +0000"
+      "url": "https://cointelegraph.com/news/us-accounting-board-fasb-proposes-conditions-for-stablecoins-as-cash-equivalents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 19 Aug 2026 03:58:13 +0000"
     },
     {
-      "title": "Alleged $165M crypto Ponzi mastermind faces US charges after Fiji deportation",
-      "summary": "Edward Zimbardi, accusé d'avoir organisé une escroquerie de type Ponzi dans le domaine des cryptomonnaies d'un montant de 165 millions de dollars, fait face à des charges aux États-Unis après son expulsion de Fiji, où il est soupçonné d'avoir détourné des fonds d'investisseurs.",
+      "title": "SEC proposes new crypto rules in absence of CLARITY Act",
+      "summary": "La SEC propose de nouvelles règles pour les cryptomonnaies, incluant un \"safe harbor\" pour les entreprises et des exemptions pour l'émission de tokens.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/edward-zimbardi-165m-crypto-ponzi-fiji-deportation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 03:21:26 +0000"
+      "url": "https://cointelegraph.com/news/us-sec-crypto-rules-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 21:24:15 +0000"
     },
     {
-      "title": "‘Fabricated rumors’ about BitMart founder, Binance bStocks dominate: Asia Express",
-      "summary": "Binance bStocks est devenu le deuxième plus grand émetteur de tokens d'actions en seulement deux mois, tandis que des rumeurs internes entourant le fondateur de BitMart ont attiré l'attention avant la fermeture de la plateforme.",
+      "title": "FalconX, Interstice Connect Canton to Ethereum, Solana and Robinhood Chain",
+      "summary": "FalconX et Interstice relient Canton à Ethereum, Solana et Robinhood Chain pour connecter les marchés d'actifs tokenisés institutionnels avec la liquidité et l'activité de trading sur les principales blockchains publiques.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/fabricated-rumors-about-bitmart-founder-binance-bstocks-dominate-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 18 Aug 2026 01:28:37 +0000"
+      "url": "https://cointelegraph.com/news/interstice-falconx-cross-chain-swap-engine-canton-solana-ethereum-robinhood-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 18 Aug 2026 20:45:48 +0000"
     }
   ]
 }
