@@ -1,61 +1,68 @@
 {
-  "generatedAt": "29/08/2026 13:04 UTC",
+  "generatedAt": "30/08/2026 12:40 UTC",
   "items": [
     {
-      "title": "Tokenized assets are busier than the data shows",
-      "summary": "Les actifs tokenisés sont plus actifs que ne le suggèrent les données, avec une croissance significative des transactions et des utilisations dans divers secteurs financiers.\n\nTitre : Bitcoin ETFs See Record Inflows as Investor Interest Surges\n\nContenu : \nLes ETF Bitcoin ont enregistré des entrées record, reflétant un intérêt croissant des investisseurs pour les produits financiers liés au Bitcoin.\n\nTitre : Crypto Market Cap Surges Past $2.5 Trillion as Bitcoin and Ethereum Rally\n\nContenu : \nLa capitalisation boursière du marché crypto a dépassé les 2 500 milliards de dollars, portée par la hausse des cours du Bitcoin et de l'Ethereum.\n\nTitre : New Study Reve",
+      "title": "Crypto market makers are cashing in on bitcoin's rally - without betting on direction",
+      "summary": "Les teneurs de marché crypto profitent de la hausse du bitcoin en tirant parti des écarts de prix sans parier sur la direction du marché.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/opinion/2026/08/29/tokenized-assets-are-busier-than-the-data-shows",
-      "publishedAt": "Sat, 29 Aug 2026 13:00:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/08/28/crypto-market-makers-are-cashing-in-on-bitcoin-s-rally-without-betting-on-direction",
+      "publishedAt": "Sun, 30 Aug 2026 12:00:00 +0000"
     },
     {
-      "title": "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
-      "summary": "Des portefeuilles Bitcoin inactifs depuis 10 ans ont transféré 40 millions de dollars, la majorité évitant les plateformes d'échange.",
+      "title": "A $1.1 million crypto card hack crashed a neobank's token 49%",
+      "summary": "Un piratage de cartes crypto d'un montant de 1,1 million de dollars a provoqué une chute de 49 % du token d'une néobanque.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
-      "publishedAt": "Sat, 29 Aug 2026 04:30:00 +0000"
+      "url": "https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49",
+      "publishedAt": "Sat, 29 Aug 2026 23:49:17 +0000"
     },
     {
-      "title": "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
-      "summary": "Ripple travaille sur la préparation du XRP Ledger pour résister aux attaques des ordinateurs quantiques avant l'arrivée du \"Q-Day\".",
+      "title": "Ditching 'digital gold': BPI study suggests everyday Americans prefer control and micro-investing",
+      "summary": "Une étude de la Bitcoin Policy Institute révèle que les Américains préfèrent les micro-investissements et le contrôle direct sur leurs actifs plutôt que l'idée du Bitcoin comme \"or numérique\".",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
-      "publishedAt": "Sat, 29 Aug 2026 02:30:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/28/ditch-digital-gold-bpi-study-suggests-everyday-americans-prefer-control-and-micro-investing",
+      "publishedAt": "Sat, 29 Aug 2026 15:00:00 +0000"
     },
     {
-      "title": "Solana vote to double disinflation passes by a hair in dramatic finish",
-      "summary": "Une proposition visant à doubler le taux de désinflation de Solana a été adoptée de justesse lors d'un vote serré.",
+      "title": "Inside the high-stakes battle between digital dollars and Swift's massive money engine",
+      "summary": "La bataille entre les monnaies numériques et le système Swift s'intensifie, avec des enjeux majeurs pour les transactions financières mondiales. Les stablecoins et les CBDC pourraient remettre en question la domination de Swift dans les paiements internationaux.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/08/28/solana-vote-to-double-disinflation-passes-by-a-hair-in-dramatic-finish",
-      "publishedAt": "Fri, 28 Aug 2026 16:12:45 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test",
+      "publishedAt": "Sat, 29 Aug 2026 15:00:00 +0000"
     },
     {
-      "title": "Trump-promoted brand touts GOLD before token collapse",
-      "summary": "Des jetons liés à une marque promue par Trump ont vu leur valeur chuter de 99%, tandis que des portefeuilles associés à l'équipe ont vendu 224,5 millions de jetons.",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "summary": "Sber, la plus grande banque de Russie, prévoit d'accepter l'USDT et l'Ether en plus du Bitcoin comme garantie pour les prêts, alors que le pays introduit un cadre légal pour le trading de crypto.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 29 Aug 2026 10:53:41 +0000"
+      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 30 Aug 2026 09:55:00 +0000"
     },
     {
-      "title": "Stablecoins not credible for payments at scale, BIS chief says",
-      "summary": "Le directeur de la BIS, Pablo Hernández de Cos, a déclaré que les stablecoins manquent de crédibilité pour les paiements à grande échelle, tandis qu'une nouvelle étude du FSI souligne des différences marquées dans les règles des émetteurs.",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "summary": "Real Trump Coins nie avoir lancé le token GOLD, attribuant la responsabilité à des acteurs malveillants, tandis que des questions persistent concernant son compte X, les domaines associés et l'offre concentrée du token.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 29 Aug 2026 08:01:04 +0000"
+      "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 30 Aug 2026 08:04:56 +0000"
     },
     {
-      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-      "summary": "Les ETF Bitcoin aux États-Unis ont enregistré des sorties nettes de 201,8 millions de dollars vendredi, menées par ARK 21Shares, tandis que les actifs totaux des fonds sont redescendus sous les 100 milliards de dollars.",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "summary": "Polygon a révélé des failles de sécurité corrigées lors de récents hard forks, qui présentaient des risques de déni de service et de ressources pour les validateurs.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 29 Aug 2026 06:47:12 +0000"
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 20:28:51 +0000"
     },
     {
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
-      "summary": "Les validateurs de Solana ont approuvé une proposition pour doubler le taux de désinflation annuel de SOL, passant de 15% à 30%, réduisant ainsi l'émission future de SOL.",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "summary": "Le marché des actifs réels tokenisés sur Stellar a plus que quadruplé pour atteindre près de 4 milliards de dollars cette année.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 28 Aug 2026 19:53:12 +0000"
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 19:12:42 +0000"
+    },
+    {
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "summary": "Le volume de transfert d'actions tokenisées a augmenté de 415 % en 30 jours pour atteindre 29,5 milliards de dollars, tandis que les adresses actives et les détenteurs ont plus que doublé.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 29 Aug 2026 16:27:28 +0000"
     }
   ]
 }
