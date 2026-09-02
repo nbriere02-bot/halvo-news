@@ -1,61 +1,47 @@
 {
-  "generatedAt": "01/09/2026 12:27 UTC",
+  "generatedAt": "02/09/2026 12:01 UTC",
   "items": [
     {
-      "title": "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
-      "summary": "Singapour propose d'imposer aux émetteurs de stablecoins des réserves à 100% et d'interdire les rendements.",
+      "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
+      "summary": "Capital B prévoit d'ajouter 376 BTC à sa trésorerie Bitcoin après un investissement de 8,8 millions de dollars d'Adam Back.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
-      "publishedAt": "Tue, 01 Sep 2026 10:35:21 +0000"
+      "url": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
+      "publishedAt": "Wed, 02 Sep 2026 11:45:16 +0000"
     },
     {
-      "title": "Bitcoin consolidates near $78,000 as Arbitrum surges 30% on Robinhood Chain revenue",
-      "summary": "Bitcoin se stabilise autour de 78 000 $ tandis que le token Arbitrum progresse de 30 % suite à l'annonce de revenus générés par Robinhood Chain.",
+      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+      "summary": "Tether a gelé 42,4 millions d'USDT avant la réception d'un mandat américain, selon une plainte déposée contre l'entreprise.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-consolidates-near-usd78-000-as-arbitrum-surges-30-on-robinhood-chain-revenue",
-      "publishedAt": "Tue, 01 Sep 2026 10:29:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+      "publishedAt": "Wed, 02 Sep 2026 11:03:46 +0000"
     },
     {
-      "title": "Strategy spends $635M buying back STRC as perpetual preferred stock lags $100 par",
-      "summary": "Strategy a dépensé 635 millions de dollars pour racheter des tokens STRC alors que son action privilégiée perpétuelle se négocie en dessous de 100 dollars.",
+      "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
+      "summary": "Le Bitcoin chute sous les 76 500 dollars dans un contexte de tensions géopolitiques après des frappes américaines en Iran, faisant monter le prix du pétrole au-dessus de 93 dollars.",
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/09/01/strategy-spends-usd635m-buying-back-strc-as-perpetual-preferred-stock-lags-usd100-par",
-      "publishedAt": "Tue, 01 Sep 2026 09:29:33 +0000"
+      "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
+      "publishedAt": "Wed, 02 Sep 2026 10:50:38 +0000"
     },
     {
-      "title": "Lazarus Group-linked addresses move $30M through Hyperliquid",
-      "summary": "Des adresses liées au groupe Lazarus ont transféré 30 millions de dollars en actifs numériques via Hyperliquid, quelques semaines après l'annonce des régulateurs sur leur surveillance.",
+      "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
+      "summary": "La Thaïlande adopte une règle de voyage crypto exigeant des opérateurs d'actifs numériques qu'ils vérifient le contrôle des portefeuilles auto-hébergés et conservent les données de transaction pendant cinq ans.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/lazarus-group-move-30m-hyperliquid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 12:01:08 +0000"
+      "url": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 10:56:15 +0000"
     },
     {
-      "title": "London Stock Exchange partners with Kraken parent for tokenized UK stocks: FT",
-      "summary": "Le London Stock Exchange collabore avec la maison mère de Kraken pour proposer des actions britanniques tokenisées, avec une exposition 24h/5j.",
+      "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
+      "summary": "L'industrie crypto, dont Grayscale et a16z, demande à la SEC de ne pas appliquer de restrictions globales aux ETF innovants et de maintenir les règles de classification existantes.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 10:56:41 +0000"
+      "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 09:48:49 +0000"
     },
     {
-      "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
-      "summary": "Bitfinex Securities liste cinq notes adossées à des actions via le fonds ORO II du Luxembourg, échangeables contre dollars, USDT et Bitcoin pour les investisseurs non américains éligibles.",
+      "title": "Bitcoin ETFs notch best month of 2026 as BTC gains 25% in August",
+      "summary": "Les ETF Bitcoin spot américains ont réduit leurs sorties nettes de 66% depuis le début de l'année alors que le Bitcoin a progressé d'environ 25% en août, tandis que les ETF Ether sont passés en positif à 732 millions de dollars et les ETF XRP ont atteint 502 millions.",
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 10:00:00 +0000"
-    },
-    {
-      "title": "Singapore weighs recognizing some foreign-issued stablecoins",
-      "summary": "Singapour envisage d'autoriser certains stablecoins émis à l'étranger dans son cadre réglementaire, réévaluant sa décision initiale de limiter ce cadre aux émetteurs locaux.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 09:55:11 +0000"
-    },
-    {
-      "title": "Trump Jr.-linked 1789 Capital leads Polymarket’s $1B raise: Report",
-      "summary": "1789 Capital, liée à Donald Trump Jr., mène une levée de fonds de 1 milliard de dollars pour Polymarket, valorisant la plateforme à 21 milliards de dollars.",
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/trump-jr-linked-fund-invest-300m-polymarket-1b-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 01 Sep 2026 07:47:13 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-best-month-2026-btc-up-25-august?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 02 Sep 2026 07:59:43 +0000"
     }
   ]
 }
