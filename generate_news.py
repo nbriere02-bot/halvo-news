@@ -35,6 +35,11 @@ RSS_FEEDS = [
     "https://decrypt.co/feed",
 ]
 
+# Certains flux (Cointelegraph, Decrypt) répondent 403 à l'identifiant par défaut de feedparser
+# depuis les serveurs GitHub : on se présente comme un navigateur.
+USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
 MAX_ARTICLES_PER_FEED = 5
 MAX_TOTAL_ARTICLES = 10
 
@@ -53,8 +58,10 @@ def fetch_raw_articles():
     """Récupère les articles bruts depuis les flux RSS, sans les résumer encore."""
     articles = []
     for feed_url in RSS_FEEDS:
-        parsed = feedparser.parse(feed_url)
+        parsed = feedparser.parse(feed_url, agent=USER_AGENT)
         source_name = parsed.feed.get("title", feed_url)
+        print(f"Flux {feed_url} : HTTP {parsed.get('status', '?')}, {len(parsed.entries)} entrées"
+              + (f" (erreur : {parsed.bozo_exception})" if parsed.get("bozo") else ""))
         for entry in parsed.entries[:MAX_ARTICLES_PER_FEED]:
             articles.append({
                 "title": entry.get("title", "").strip(),
@@ -106,6 +113,11 @@ def main():
 
     client = Mistral(api_key=api_key)
     raw_articles = fetch_raw_articles()
+    print(f"{len(raw_articles)} articles récupérés depuis les flux RSS.")
+    if not raw_articles:
+        # Ne rien publier plutôt qu'un fichier vide : l'ancien news.json reste en ligne et le run apparaît en échec.
+        print("ERREUR : aucun article récupéré (flux bloqués ou indisponibles).", file=sys.stderr)
+        sys.exit(1)
 
     items = []
     for article in raw_articles:
@@ -119,6 +131,11 @@ def main():
             "url": article["url"],
             "publishedAt": article["published"],
         })
+
+    print(f"{len(items)} articles résumés sur {len(raw_articles)}.")
+    if not items:
+        print("ERREUR : aucun résumé produit (clé Mistral invalide ou modèles indisponibles ?).", file=sys.stderr)
+        sys.exit(1)
 
     digest = {
         "generatedAt": datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M UTC"),
