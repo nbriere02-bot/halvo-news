@@ -1,4 +1,47 @@
 {
-  "generatedAt": "05/10/2026 15:42 UTC",
-  "items": []
+  "generatedAt": "06/10/2026 15:48 UTC",
+  "items": [
+    {
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "summary": "Arbitrum rejoint le groupe Global Dollar mené par Paxos pour développer des stablecoins en dollars numériques.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "publishedAt": "Tue, 06 Oct 2026 13:02:33 +0000"
+    },
+    {
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "summary": "Bitcoin dépasse brièvement les 86 000 dollars dans un contexte de repli des prix du pétrole et des rendements obligataires.",
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "publishedAt": "Tue, 06 Oct 2026 10:35:49 +0000"
+    },
+    {
+      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
+      "summary": "Ripple étend son partenariat avec Brevan Howard en proposant des services de prime brokerage, compensation et financement pour les fonds gérés par ce gestionnaire d'actifs alternatifs de 35 milliards de dollars.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 06 Oct 2026 15:24:51 +0000"
+    },
+    {
+      "title": "Ethereum’s Glamsterdam upgrade launches on Sepolia testnet",
+      "summary": "Ethereum déploie la mise à jour Glamsterdam sur le testnet Sepolia, dernière étape avant son activation sur le mainnet pour améliorer l'efficacité et la scalabilité.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/ethereums-glamsterdam-upgrade-launches-on-sepolia-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 06 Oct 2026 14:00:00 +0000"
+    },
+    {
+      "title": "OKX exchange raises fresh capital at $25B valuation",
+      "summary": "OKX a levé des fonds non divulgués lors d'une extension de tour de financement, portant sa valorisation à 25 milliards de dollars, menée par la maison mère du New York Stock Exchange.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 06 Oct 2026 13:32:32 +0000"
+    },
+    {
+      "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+      "summary": "Des flux de capitaux pourraient revenir vers la crypto après une pause dans la hausse des actions liées à l'IA, selon Raoul Pal, qui évoque aussi un impact positif des agents IA sur Ethereum et Solana.",
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 06 Oct 2026 13:30:00 +0000"
+    }
+  ]
 }
