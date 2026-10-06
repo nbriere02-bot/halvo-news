@@ -22,6 +22,7 @@ GitHub Actions (gratuit, pas de serveur à gérer) — voir
 
 import json
 import os
+import re
 import sys
 import time
 from datetime import datetime, timezone
@@ -53,11 +54,15 @@ MAX_TOTAL_ARTICLES = 10
 # on retombe sur un modèle plus petit si le premier choix est indisponible/quota atteint.
 MODELES_PAR_PRIORITE = ["mistral-large-2512", "mistral-medium-2505", "mistral-small-2506"]
 
-SYSTEM_PROMPT = """Tu résumes des articles d'actualité crypto en français, en 1-2 phrases
-maximum, factuel et neutre. Pas d'opinion, pas de conseil financier, pas de sensationnalisme.
-Réponds UNIQUEMENT avec le résumé en texte brut : pas de markdown, pas de lien, pas de
-mention de la source (elle est déjà affichée séparément), pas de guillemets autour du texte.
-Si l'article n'est pas vraiment lié à la crypto/Bitcoin, réponds exactement "SKIP"."""
+LANGUES = ["fr", "en", "es", "de", "pt-BR", "hi"]
+
+SYSTEM_PROMPT = """Tu résumes des articles d'actualité crypto, factuel et neutre, en 1-2 phrases
+maximum par langue. Pas d'opinion, pas de conseil financier, pas de sensationnalisme.
+Pas de markdown, pas de lien, pas de mention de la source (elle est affichée séparément).
+Réponds UNIQUEMENT avec un objet JSON valide ayant exactement ces clés, chacune contenant le même
+résumé dans la langue correspondante : "fr" (français), "en" (anglais), "es" (espagnol),
+"de" (allemand), "pt-BR" (portugais du Brésil), "hi" (hindi, écriture devanagari).
+Si l'article n'est pas vraiment lié à la crypto/Bitcoin, réponds exactement SKIP (sans JSON)."""
 
 
 def fetch_raw_articles():
@@ -79,8 +84,8 @@ def fetch_raw_articles():
     return articles[:MAX_TOTAL_ARTICLES]
 
 
-def summarize_article(client: Mistral, article: dict) -> str | None:
-    """Résume un article via Mistral, avec cascade de modèles en cas d'échec."""
+def summarize_article(client: Mistral, article: dict) -> dict | None:
+    """Résume un article dans les 6 langues via Mistral (un seul appel), avec cascade de modèles en cas d'échec."""
     prompt = f"Titre : {article['title']}\n\nContenu : {article['raw_summary']}"
 
     last_error = None
@@ -93,17 +98,24 @@ def summarize_article(client: Mistral, article: dict) -> str | None:
                         {"role": "system", "content": SYSTEM_PROMPT},
                         {"role": "user", "content": prompt},
                     ],
-                    max_tokens=150,
+                    max_tokens=900,
+                    response_format={"type": "json_object"},
                 )
                 text = response.choices[0].message.content.strip()
-                if text == "SKIP" or not text:
+                if text.strip('"') == "SKIP" or not text:
                     return None
-                # Filet de sécurité : au cas où le modèle laisse quand même passer un lien
-                # markdown ou une mention "Source :" malgré la consigne du prompt.
-                import re
-                text = re.sub(r'\n*Source\s*:.*$', '', text, flags=re.IGNORECASE | re.DOTALL).strip()
-                text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)  # [texte](lien) -> texte
-                return text
+                data = json.loads(text)
+                if isinstance(data, dict) and str(data.get("fr", "")).strip().upper() == "SKIP":
+                    return None
+                out = {}
+                for lang in LANGUES:
+                    v = data.get(lang)
+                    if not isinstance(v, str) or not v.strip():
+                        raise ValueError(f"langue manquante : {lang}")
+                    # Filet de sécurité : lien markdown ou mention "Source :" malgré la consigne.
+                    v = re.sub(r'\n*Source\s*:.*$', '', v, flags=re.IGNORECASE | re.DOTALL).strip()
+                    out[lang] = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', v)
+                return out
             except Exception as e:
                 last_error = e
                 if "429" in str(e) and attempt < len(ATTENTE_429):
@@ -147,7 +159,8 @@ def main():
         echecs = 0
         items.append({
             "title": article["title"],
-            "summary": summary,
+            "summary": summary["fr"],     # français (compat. anciennes versions de l'app)
+            "summaries": summary,         # fr, en, es, de, pt-BR, hi : l'app choisit selon sa langue
             "source": article["source"],
             "url": article["url"],
             "publishedAt": article["published"],
