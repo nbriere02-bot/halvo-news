@@ -23,6 +23,7 @@ GitHub Actions (gratuit, pas de serveur à gérer) — voir
 import json
 import os
 import sys
+import time
 from datetime import datetime, timezone
 
 import feedparser
@@ -39,6 +40,11 @@ RSS_FEEDS = [
 # depuis les serveurs GitHub : on se présente comme un navigateur.
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+
+# Limite de débit Mistral (erreur 429) : pause entre deux articles, puis attentes croissantes avant de réessayer.
+PAUSE_ENTRE_ARTICLES = 3  # secondes
+ATTENTE_429 = [10, 30, 60]  # secondes
+ECHECS_CONSECUTIFS_MAX = 3  # on arrête le run si Mistral échoue sur autant d'articles d'affilée
 
 MAX_ARTICLES_PER_FEED = 5
 MAX_TOTAL_ARTICLES = 10
@@ -79,27 +85,34 @@ def summarize_article(client: Mistral, article: dict) -> str | None:
 
     last_error = None
     for model in MODELES_PAR_PRIORITE:
-        try:
-            response = client.chat.complete(
-                model=model,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": prompt},
-                ],
-                max_tokens=150,
-            )
-            text = response.choices[0].message.content.strip()
-            if text == "SKIP" or not text:
-                return None
-            # Filet de sécurité : au cas où le modèle laisse quand même passer un lien
-            # markdown ou une mention "Source :" malgré la consigne du prompt.
-            import re
-            text = re.sub(r'\n*Source\s*:.*$', '', text, flags=re.IGNORECASE | re.DOTALL).strip()
-            text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)  # [texte](lien) -> texte
-            return text
-        except Exception as e:
-            last_error = e
-            continue  # tente le modèle suivant de la cascade
+        for attempt in range(len(ATTENTE_429) + 1):
+            try:
+                response = client.chat.complete(
+                    model=model,
+                    messages=[
+                        {"role": "system", "content": SYSTEM_PROMPT},
+                        {"role": "user", "content": prompt},
+                    ],
+                    max_tokens=150,
+                )
+                text = response.choices[0].message.content.strip()
+                if text == "SKIP" or not text:
+                    return None
+                # Filet de sécurité : au cas où le modèle laisse quand même passer un lien
+                # markdown ou une mention "Source :" malgré la consigne du prompt.
+                import re
+                text = re.sub(r'\n*Source\s*:.*$', '', text, flags=re.IGNORECASE | re.DOTALL).strip()
+                text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', text)  # [texte](lien) -> texte
+                return text
+            except Exception as e:
+                last_error = e
+                if "429" in str(e) and attempt < len(ATTENTE_429):
+                    # Quota atteint : on patiente puis on réessaie le même modèle.
+                    wait = ATTENTE_429[attempt]
+                    print(f"  {model} : limite de débit (429), nouvel essai dans {wait} s", file=sys.stderr)
+                    time.sleep(wait)
+                    continue
+                break  # autre erreur, ou essais épuisés : on passe au modèle suivant de la cascade
 
     print(f"Tous les modèles ont échoué pour '{article['title']}': {last_error}", file=sys.stderr)
     return None
@@ -120,10 +133,18 @@ def main():
         sys.exit(1)
 
     items = []
-    for article in raw_articles:
+    echecs = 0
+    for i, article in enumerate(raw_articles):
+        if i:
+            time.sleep(PAUSE_ENTRE_ARTICLES)
         summary = summarize_article(client, article)
         if summary is None:
+            echecs += 1
+            if echecs >= ECHECS_CONSECUTIFS_MAX and not items:
+                print("Mistral échoue sur les premiers articles : arrêt du run.", file=sys.stderr)
+                break
             continue
+        echecs = 0
         items.append({
             "title": article["title"],
             "summary": summary,
