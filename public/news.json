@@ -1,16 +1,31 @@
 {
-  "generatedAt": "10/10/2026 13:26 UTC",
+  "generatedAt": "11/10/2026 13:53 UTC",
   "items": [
+    {
+      "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+      "summary": "Le FMI constate une demande croissante pour les actions tokenisées mais souligne que le marché reste volatile et peu liquide.",
+      "summaries": {
+        "fr": "Le FMI constate une demande croissante pour les actions tokenisées mais souligne que le marché reste volatile et peu liquide.",
+        "en": "The IMF finds growing demand for tokenized stocks but notes the market remains volatile and illiquid.",
+        "es": "El FMI observa una demanda creciente por acciones tokenizadas, pero señala que el mercado sigue siendo volátil e ilíquido.",
+        "de": "Der IWF stellt eine wachsende Nachfrage nach tokenisierten Aktien fest, weist jedoch auf die Volatilität und Illiquidität des Marktes hin.",
+        "pt-BR": "O FMI identifica uma demanda crescente por ações tokenizadas, mas destaca que o mercado continua volátil e ilíquido.",
+        "hi": "आईएमएफ ने टोकनाइज्ड स्टॉक्स की मांग में वृद्धि पाई है, लेकिन बाजार को अभी भी अस्थिर और कम तरल बताया है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+      "publishedAt": "Sun, 11 Oct 2026 13:00:00 +0000"
+    },
     {
       "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
       "summary": "Un an après le krach éclair du 10/10, la liquidité du Bitcoin et de l'Ethereum s'est rétablie, mais les altcoins restent exposés à des risques.",
       "summaries": {
         "fr": "Un an après le krach éclair du 10/10, la liquidité du Bitcoin et de l'Ethereum s'est rétablie, mais les altcoins restent exposés à des risques.",
         "en": "One year after the 10/10 flash crash, Bitcoin and Ethereum liquidity has recovered, but altcoins still face risks.",
-        "es": "Un año después del desplome relámpago del 10/10, la liquidez de Bitcoin y Ethereum se ha recuperado, pero los altcoins siguen enfrentando riesgos.",
+        "es": "Un año después del crac relámpago del 10/10, la liquidez de Bitcoin y Ethereum se ha recuperado, pero los altcoins siguen enfrentando riesgos.",
         "de": "Ein Jahr nach dem Flash-Crash am 10.10 hat sich die Liquidität von Bitcoin und Ethereum erholt, aber Altcoins sind weiterhin Risiken ausgesetzt.",
-        "pt-BR": "Um ano após o flash crash de 10/10, a liquidez do Bitcoin e do Ethereum se recuperou, mas as altcoins ainda enfrentam riscos.",
-        "hi": "१०/१० के फ्लैश क्रैश के एक साल बाद, बिटकॉइन और एथेरियम की तरलता बहाल हो गई है, लेकिन अन्य क्रिप्टोकरेंसी अभी भी जोखिमों का सामना कर रही हैं।"
+        "pt-BR": "Um ano após o flash crash de 10/10, a liquidez do Bitcoin e do Ethereum se recuperou, mas os altcoins ainda enfrentam riscos.",
+        "hi": "१०/१० के फ्लैश क्रैश के एक साल बाद, बिटकॉइन और एथेरियम की तरलता बहाल हो गई है, लेकिन अल्टकॉइन अभी भी जोखिमों का सामना कर रहे हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
@@ -18,14 +33,14 @@
     },
     {
       "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
-      "summary": "Les matières premières tokenisées élargissent leur champ au-delà de l'or, avec l'émergence de prêts et de marchés liés au pétrole.",
+      "summary": "Les matières premières tokenisées élargissent leur champ d'application au-delà de l'or, incluant désormais le prêt et le pétrole pour diversifier les marchés.",
       "summaries": {
-        "fr": "Les matières premières tokenisées élargissent leur champ au-delà de l'or, avec l'émergence de prêts et de marchés liés au pétrole.",
-        "en": "Tokenized commodities are expanding beyond gold, with lending and oil markets opening new opportunities.",
-        "es": "Las materias primas tokenizadas amplían su alcance más allá del oro, con préstamos y mercados de petróleo abriendo nuevas oportunidades.",
-        "de": "Tokenisierte Rohstoffe erweitern ihr Spektrum über Gold hinaus, wobei Kreditvergabe und Öl neue Märkte erschließen.",
-        "pt-BR": "As commodities tokenizadas estão se expandindo além do ouro, com empréstimos e mercados de petróleo abrindo novas oportunidades.",
-        "hi": "टोकनाइज्ड कमोडिटीज़ अब सोने से आगे बढ़कर ऋण और तेल बाज़ारों में नए अवसर खोल रही हैं।"
+        "fr": "Les matières premières tokenisées élargissent leur champ d'application au-delà de l'or, incluant désormais le prêt et le pétrole pour diversifier les marchés.",
+        "en": "Tokenized commodities are expanding beyond gold, now including lending and oil to diversify markets.",
+        "es": "Las materias primas tokenizadas amplían su alcance más allá del oro, incluyendo ahora préstamos y petróleo para diversificar los mercados.",
+        "de": "Tokenisierte Rohstoffe erweitern ihr Spektrum über Gold hinaus und umfassen nun Kreditvergabe und Öl, um Märkte zu diversifizieren.",
+        "pt-BR": "As commodities tokenizadas estão se expandindo além do ouro, incluindo agora empréstimos e petróleo para diversificar os mercados.",
+        "hi": "टोकनाइज्ड कमोडिटीज़ अब सोने से आगे बढ़कर ऋण और तेल को शामिल कर रही हैं ताकि बाज़ारों में विविधता लाई जा सके।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
@@ -33,14 +48,14 @@
     },
     {
       "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
-      "summary": "Un an après un krach éclair ayant effacé 19 milliards de dollars, le secteur crypto s'interroge sur les leçons tirées pour éviter de nouvelles instabilités.",
+      "summary": "Un an après un krach éclair ayant effacé 19 milliards de dollars de la valeur du Bitcoin, l'industrie crypto évalue les leçons tirées pour renforcer la stabilité et la résilience.",
       "summaries": {
-        "fr": "Un an après un krach éclair ayant effacé 19 milliards de dollars, le secteur crypto s'interroge sur les leçons tirées pour éviter de nouvelles instabilités.",
-        "en": "One year after a flash crash wiped out $19 billion, the crypto sector reflects on lessons learned to prevent future instability.",
-        "es": "Un año después de un desplome relámpago que borró 19 mil millones de dólares, el sector crypto evalúa qué lecciones ha aprendido para evitar inestabilidades futuras.",
-        "de": "Ein Jahr nach einem Flash-Crash, der 19 Milliarden Dollar vernichtete, fragt sich der Kryptosektor, welche Lehren gezogen wurden, um zukünftige Instabilitäten zu vermeiden.",
-        "pt-BR": "Um ano após um crash relâmpago que apagou 19 bilhões de dólares, o setor de cripto avalia quais lições foram aprendidas para evitar novas instabilidades.",
-        "hi": "एक फ्लैश क्रैश के एक साल बाद जिसमें 19 अरब डॉलर का नुकसान हुआ, क्रिप्टो सेक्टर सोच रहा है कि भविष्य में अस्थिरता से बचने के लिए क्या सबक सीखे गए हैं।"
+        "fr": "Un an après un krach éclair ayant effacé 19 milliards de dollars de la valeur du Bitcoin, l'industrie crypto évalue les leçons tirées pour renforcer la stabilité et la résilience.",
+        "en": "One year after a flash crash wiped $19 billion from Bitcoin's value, the crypto industry assesses lessons learned to improve stability and resilience.",
+        "es": "Un año después de un desplome repentino que eliminó 19 mil millones de dólares del valor de Bitcoin, la industria cripto evalúa las lecciones aprendidas para mejorar la estabilidad y resiliencia.",
+        "de": "Ein Jahr nach einem Blitzcrash, der Bitcoin 19 Milliarden Dollar an Wert kostete, bewertet die Krypto-Branche die gewonnenen Erkenntnisse zur Verbesserung von Stabilität und Widerstandsfähigkeit.",
+        "pt-BR": "Um ano após uma queda repentina que apagou 19 bilhões de dólares do valor do Bitcoin, o setor de cripto avalia as lições aprendidas para melhorar a estabilidade e resiliência.",
+        "hi": "बिटकॉइन के मूल्य से 19 अरब डॉलर मिटाने वाले फ्लैश क्रैश के एक साल बाद, क्रिप्टो उद्योग स्थिरता और लचीलापन बढ़ाने के लिए सीखे गए सबक का मूल्यांकन कर रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
@@ -51,30 +66,15 @@
       "summary": "La volatilité du Bitcoin a diminué, mais les variations de prix extrêmes sont plus fréquentes qu'en 2018.",
       "summaries": {
         "fr": "La volatilité du Bitcoin a diminué, mais les variations de prix extrêmes sont plus fréquentes qu'en 2018.",
-        "en": "Bitcoin's volatility has decreased, but extreme price swings are more frequent than in 2018.",
+        "en": "Bitcoin's volatility has decreased, yet extreme price swings occur more frequently than in 2018.",
         "es": "La volatilidad del Bitcoin ha disminuido, pero los cambios extremos de precio son más frecuentes que en 2018.",
-        "de": "Die Volatilität von Bitcoin ist gesunken, aber extreme Preisschwankungen sind häufiger als 2018.",
-        "pt-BR": "A volatilidade do Bitcoin diminuiu, mas as oscilações extremas de preço são mais frequentes do que em 2018.",
+        "de": "Die Volatilität von Bitcoin ist gesunken, doch extreme Preisschwankungen treten häufiger auf als 2018.",
+        "pt-BR": "A volatilidade do Bitcoin diminuiu, mas oscilações extremas de preço são mais frequentes do que em 2018.",
         "hi": "बिटकॉइन की अस्थिरता में कमी आई है, लेकिन 2018 की तुलना में अत्यधिक मूल्य उतार-चढ़ाव अधिक बार हो रहे हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
       "publishedAt": "Sat, 10 Oct 2026 05:43:00 +0000"
-    },
-    {
-      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
-      "summary": "La chaîne Robinhood connaît un ralentissement, avec une baisse de plus de 40 % des transactions et des frais affectant les échanges.",
-      "summaries": {
-        "fr": "La chaîne Robinhood connaît un ralentissement, avec une baisse de plus de 40 % des transactions et des frais affectant les échanges.",
-        "en": "Robinhood Chain experiences a slowdown, with transactions dropping over 40% and fees impacting trading.",
-        "es": "La cadena de Robinhood sufre una desaceleración, con una caída de más del 40 % en transacciones y comisiones afectando las operaciones.",
-        "de": "Die Robinhood Chain erlebt eine Verlangsamung, wobei die Transaktionen um über 40 % sinken und Gebühren den Handel beeinträchtigen.",
-        "pt-BR": "A Robinhood Chain enfrenta uma desaceleração, com transações caindo mais de 40% e taxas afetando as negociações.",
-        "hi": "रॉबिनहुड चेन में मंदी आई है, लेन-देन में 40% से अधिक की गिरावट और शुल्क व्यापार को प्रभावित कर रहे हैं।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
-      "publishedAt": "Sat, 10 Oct 2026 04:44:35 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -85,71 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 12:30:00 +0000"
+      "publishedAt": "Sun, 11 Oct 2026 12:45:00 +0000"
+    },
+    {
+      "title": "Coldcard says it’s investigating how phishing link appeared on its X account",
+      "summary": "Coldcard enquête sur l'apparition d'un lien de phishing sur son compte X et recommande aux utilisateurs de ne pas interagir avec celui-ci.",
+      "summaries": {
+        "fr": "Coldcard enquête sur l'apparition d'un lien de phishing sur son compte X et recommande aux utilisateurs de ne pas interagir avec celui-ci.",
+        "en": "Coldcard is investigating how a phishing link appeared on its X account and advised users not to interact with it.",
+        "es": "Coldcard está investigando cómo apareció un enlace de phishing en su cuenta de X y recomendó a los usuarios no interactuar con él.",
+        "de": "Coldcard untersucht, wie ein Phishing-Link auf seinem X-Konto erschien, und riet Nutzern, nicht darauf zu reagieren.",
+        "pt-BR": "Coldcard está investigando como um link de phishing apareceu em sua conta no X e orientou usuários a não interagirem com ele.",
+        "hi": "कोल्डकार्ड अपने एक्स अकाउंट पर फ़िशिंग लिंक के प्रकट होने की जाँच कर रहा है और उपयोगकर्ताओं को इससे इंटरैक्ट न करने की सलाह दी है।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 10:22:44 +0000"
+    },
+    {
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "summary": "Ledger confirme l'implantation non autorisée d'un composant matériel chez un revendeur en Asie du Sud-Est, avec des pertes potentielles dépassant 86 millions de dollars.",
+      "summaries": {
+        "fr": "Ledger confirme l'implantation non autorisée d'un composant matériel chez un revendeur en Asie du Sud-Est, avec des pertes potentielles dépassant 86 millions de dollars.",
+        "en": "Ledger confirmed an unauthorized hardware implant at a single reseller in Southeast Asia, with potential losses exceeding $86 million.",
+        "es": "Ledger confirmó la implantación no autorizada de un componente de hardware en un revendedor en el sudeste asiático, con pérdidas potenciales que superan los 86 millones de dólares.",
+        "de": "Ledger bestätigte einen unautorisierten Hardware-Eingriff bei einem einzelnen Händler in Südostasien, mit möglichen Verlusten von über 86 Millionen Dollar.",
+        "pt-BR": "A Ledger confirmou a implantação não autorizada de um componente de hardware em um revendedor no Sudeste Asiático, com perdas potenciais superiores a 86 milhões de dólares.",
+        "hi": "लेजर ने दक्षिण पूर्व एशिया में एक रीसेलर के हार्डवेयर में अनधिकृत इम्प्लांट की पुष्टि की, संभावित नुकसान 86 मिलियन डॉलर से अधिक हो सकता है।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 09:01:51 +0000"
+    },
+    {
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "summary": "La CFTC propose des mesures pour distinguer les marchés de prédiction des jeux d'argent, pouvant mener à un conflit juridique sur la juridiction fédérale et étatique aux États-Unis.",
+      "summaries": {
+        "fr": "La CFTC propose des mesures pour distinguer les marchés de prédiction des jeux d'argent, pouvant mener à un conflit juridique sur la juridiction fédérale et étatique aux États-Unis.",
+        "en": "The CFTC proposes measures to differentiate prediction markets from gambling, potentially leading to a legal battle over federal and state jurisdiction in the US.",
+        "es": "La CFTC propone medidas para diferenciar los mercados de predicción de los juegos de azar, lo que podría desencadenar una batalla legal sobre la jurisdicción federal y estatal en EE.UU.",
+        "de": "Die CFTC schlägt Maßnahmen vor, um Prognosemärkte von Glücksspiel zu trennen, was zu einem Rechtsstreit über die Zuständigkeit von Bund und Ländern in den USA führen könnte.",
+        "pt-BR": "A CFTC propõe medidas para diferenciar mercados de previsão de jogos de azar, podendo levar a uma batalha judicial sobre jurisdição federal e estadual nos EUA.",
+        "hi": "सीएफटीसी ने भविष्यवाणी बाजारों को जुए से अलग करने के लिए प्रस्ताव पेश किए हैं, जो अमेरिका में संघीय और राज्य अधिकार क्षेत्र पर कानूनी संघर्ष का कारण बन सकता है।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 11 Oct 2026 07:44:51 +0000"
     },
     {
       "title": "Justin Sun says Tron’s post-quantum cryptography has gone live on testnet",
-      "summary": "Justin Sun annonce que la cryptographie post-quantique de Tron est désormais active sur le testnet, prête à être déployée sur le mainnet.",
+      "summary": "Justin Sun annonce que la cryptographie post-quantique de Tron est désormais active sur le testnet, prête pour un déploiement sur le mainnet.",
       "summaries": {
-        "fr": "Justin Sun annonce que la cryptographie post-quantique de Tron est désormais active sur le testnet, prête à être déployée sur le mainnet.",
-        "en": "Justin Sun announces that Tron’s post-quantum cryptography is now live on the testnet, ready for mainnet deployment.",
+        "fr": "Justin Sun annonce que la cryptographie post-quantique de Tron est désormais active sur le testnet, prête pour un déploiement sur le mainnet.",
+        "en": "Justin Sun announces that Tron's post-quantum cryptography is now live on the testnet, ready for mainnet deployment.",
         "es": "Justin Sun anuncia que la criptografía post-cuántica de Tron ya está activa en la testnet, lista para implementarse en la mainnet.",
-        "de": "Justin Sun gibt bekannt, dass die Post-Quantum-Kryptographie von Tron nun im Testnetz live ist und jederzeit für das Mainnet bereitsteht.",
-        "pt-BR": "Justin Sun anuncia que a criptografia pós-quântica da Tron está ativa na testnet, pronta para ser implantada na mainnet.",
-        "hi": "जस्टिन सन ने घोषणा की कि ट्रॉन की पोस्ट-क्वांटम क्रिप्टोग्राफी अब टेस्टनेट पर लाइव है, और मेननेट पर तैनाती के लिए तैयार है।"
+        "de": "Justin Sun gibt bekannt, dass die Post-Quantum-Kryptographie von Tron nun im Testnetz live ist und bereit für das Mainnet ist.",
+        "pt-BR": "Justin Sun anuncia que a criptografia pós-quântica da Tron está ativa na testnet, pronta para implantação na mainnet.",
+        "hi": "जस्टिन सन ने घोषणा की कि ट्रॉन की पोस्ट-क्वांटम क्रिप्टोग्राफी अब टेस्टनेट पर लाइव है और मेननेट पर तैनाती के लिए तैयार है।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "publishedAt": "Sat, 10 Oct 2026 11:52:14 +0000"
-    },
-    {
-      "title": "Tech chief says EU can fend off rogue AI risk: Report",
-      "summary": "Un responsable technologique affirme que l'UE peut atténuer les risques liés à une IA incontrôlable, dans un contexte de craintes accrues après des incidents chez OpenAI et Anthropic.",
-      "summaries": {
-        "fr": "Un responsable technologique affirme que l'UE peut atténuer les risques liés à une IA incontrôlable, dans un contexte de craintes accrues après des incidents chez OpenAI et Anthropic.",
-        "en": "A tech chief states the EU can mitigate risks from rogue AI, amid growing concerns following incidents at OpenAI and Anthropic.",
-        "es": "Un ejecutivo tecnológico afirma que la UE puede mitigar los riesgos de una IA descontrolada, tras incidentes en OpenAI y Anthropic.",
-        "de": "Ein Technologiechef erklärt, die EU könne Risiken durch außer Kontrolle geratene KI eindämmen, nach Vorfällen bei OpenAI und Anthropic.",
-        "pt-BR": "Um executivo de tecnologia afirma que a UE pode mitigar riscos de IA descontrolada, após incidentes em OpenAI e Anthropic.",
-        "hi": "एक तकनीकी प्रमुख के अनुसार, यूरोपीय संघ ओपनएआई और एंथ्रोपिक में घटनाओं के बाद अनियंत्रित एआई के जोखिमों को कम कर सकता है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 08:41:06 +0000"
-    },
-    {
-      "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
-      "summary": "Meanwhile, une assurance-vie en Bitcoin soutenue par Sam Altman, lève des fonds supplémentaires en raison d'une demande internationale accrue pour ses polices d'assurance, dans un contexte d'instabilité macroéconomique.",
-      "summaries": {
-        "fr": "Meanwhile, une assurance-vie en Bitcoin soutenue par Sam Altman, lève des fonds supplémentaires en raison d'une demande internationale accrue pour ses polices d'assurance, dans un contexte d'instabilité macroéconomique.",
-        "en": "Meanwhile, a Bitcoin life insurer backed by Sam Altman, raises additional funds due to increased international demand for its insurance policies amid macroeconomic instability.",
-        "es": "Meanwhile, una aseguradora de vida en Bitcoin respaldada por Sam Altman, recauda más fondos debido a una mayor demanda internacional por sus pólizas de seguro en un contexto de inestabilidad macroeconómica.",
-        "de": "Meanwhile, eine von Sam Altman unterstützte Bitcoin-Lebensversicherung, sammelt weitere Mittel ein, da die internationale Nachfrage nach ihren Versicherungspolicen angesichts makroökonomischer Instabilität steigt.",
-        "pt-BR": "Meanwhile, uma seguradora de vida em Bitcoin apoiada por Sam Altman, levanta mais fundos devido ao aumento da demanda internacional por suas apólices de seguro em meio à instabilidade macroeconômica.",
-        "hi": "सैम ऑल्टमैन द्वारा समर्थित बिटकॉइन जीवन बीमा कंपनी, मीनवाइल, व्यापक आर्थिक अस्थिरता के बीच अपनी बीमा पॉलिसियों की अंतरराष्ट्रीय मांग बढ़ने के कारण अतिरिक्त धन जुटाती है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 10 Oct 2026 07:10:43 +0000"
-    },
-    {
-      "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
-      "summary": "Le département du Trésor américain prévoit de saisir pour 1 milliard de dollars en cryptomonnaies liées à l'Iran cette semaine dans le cadre des sanctions.",
-      "summaries": {
-        "fr": "Le département du Trésor américain prévoit de saisir pour 1 milliard de dollars en cryptomonnaies liées à l'Iran cette semaine dans le cadre des sanctions.",
-        "en": "The US Treasury Department plans to seize $1 billion in crypto linked to Iran this week as part of sanctions enforcement.",
-        "es": "El Departamento del Tesoro de EE.UU. planea incautar 1.000 millones de dólares en criptomonedas vinculadas a Irán esta semana como parte de las sanciones.",
-        "de": "Das US-Finanzministerium plant diese Woche, Kryptowährungen im Wert von 1 Milliarde Dollar zu beschlagnahmen, die mit dem Iran in Verbindung stehen, im Rahmen von Sanktionen.",
-        "pt-BR": "O Departamento do Tesouro dos EUA planeja apreender US$ 1 bilhão em criptomoedas ligadas ao Irã esta semana como parte das sanções.",
-        "hi": "अमेरिकी ट्रेजरी विभाग इस सप्ताह ईरान से जुड़ी 1 अरब डॉलर की क्रिप्टोकरेंसी जब्त करने की योजना बना रहा है, जो प्रतिबंधों के हिस्से के रूप में है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 09 Oct 2026 20:39:17 +0000"
     }
   ]
 }
