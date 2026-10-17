@@ -1,15 +1,60 @@
 {
-  "generatedAt": "16/10/2026 12:12 UTC",
+  "generatedAt": "17/10/2026 11:30 UTC",
   "items": [
     {
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "summary": "Des traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
+      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+      "summary": "L'IA Claude a résolu un problème mathématique vieux de 25 ans posé par la NSA, marquant une avancée notable en cryptographie.",
       "summaries": {
-        "fr": "Des traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
+        "fr": "L'IA Claude a résolu un problème mathématique vieux de 25 ans posé par la NSA, marquant une avancée notable en cryptographie.",
+        "en": "AI Claude solved a 25-year-old NSA mathematical problem, marking a significant cryptography breakthrough.",
+        "es": "La IA Claude resolvió un problema matemático de 25 años planteado por la NSA, marcando un avance importante en criptografía.",
+        "de": "Die KI Claude hat ein 25 Jahre altes mathematisches Problem der NSA gelöst und damit einen bedeutenden Durchbruch in der Kryptographie erzielt.",
+        "pt-BR": "A IA Claude resolveu um problema matemático de 25 anos proposto pela NSA, marcando um avanço significativo em criptografia.",
+        "hi": "एआई क्लॉड ने एनएसए द्वारा प्रस्तुत 25 साल पुराने गणितीय समस्या का समाधान किया, जो क्रिप्टोग्राफी में एक महत्वपूर्ण सफलता है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+      "publishedAt": "Sat, 17 Oct 2026 06:39:48 +0000"
+    },
+    {
+      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
+      "summary": "Les bitcoins de l'ère Satoshi pourraient être vulnérables face aux avancées en informatique quantique, notamment après la percée de Google avec Willow.",
+      "summaries": {
+        "fr": "Les bitcoins de l'ère Satoshi pourraient être vulnérables face aux avancées en informatique quantique, notamment après la percée de Google avec Willow.",
+        "en": "Satoshi-era bitcoins may be at greater risk from quantum computing advancements, particularly after Google's Willow breakthrough.",
+        "es": "Los bitcoins de la era Satoshi podrían ser más vulnerables ante los avances en computación cuántica, especialmente tras el avance de Google con Willow.",
+        "de": "Bitcoins aus der Satoshi-Ära könnten durch Fortschritte in der Quantencomputertechnologie, insbesondere nach Googles Willow-Durchbruch, stärker gefährdet sein.",
+        "pt-BR": "Bitcoins da era Satoshi podem estar mais vulneráveis a avanços em computação quântica, especialmente após o avanço do Google com o Willow.",
+        "hi": "सातोशी-युग के बिटकॉइन गूगल के नए विलो ब्रेकथ्रू के बाद क्वांटम खतरे का अधिक सामना कर सकते हैं।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
+      "publishedAt": "Sat, 17 Oct 2026 02:30:00 +0000"
+    },
+    {
+      "title": "Big Tech's AI auditors will only see what they're shown",
+      "summary": "Les auditeurs en IA des grandes entreprises technologiques ne pourront évaluer que les données qui leur sont présentées, soulevant des questions sur la transparence des systèmes.",
+      "summaries": {
+        "fr": "Les auditeurs en IA des grandes entreprises technologiques ne pourront évaluer que les données qui leur sont présentées, soulevant des questions sur la transparence des systèmes.",
+        "en": "Big Tech's AI auditors will only be able to assess the data they are shown, raising concerns about system transparency.",
+        "es": "Los auditores de IA de las grandes tecnológicas solo podrán evaluar los datos que se les muestren, lo que plantea dudas sobre la transparencia de los sistemas.",
+        "de": "KI-Auditoren großer Tech-Unternehmen können nur die Daten bewerten, die ihnen gezeigt werden, was Fragen zur Transparenz der Systeme aufwirft.",
+        "pt-BR": "Os auditores de IA das grandes empresas de tecnologia só poderão avaliar os dados que lhes forem apresentados, levantando questões sobre a transparência dos sistemas.",
+        "hi": "बड़ी टेक कंपनियों के एआई ऑडिटर केवल वही डेटा देख पाएंगे जो उन्हें दिखाया जाएगा, जिससे सिस्टम की पारदर्शिता पर सवाल उठते हैं।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+      "publishedAt": "Fri, 16 Oct 2026 14:58:22 +0000"
+    },
+    {
+      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+      "summary": "Les traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
+      "summaries": {
+        "fr": "Les traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
         "en": "Traders will soon be able to bet on whether Coinbase, Robinhood, and Marathon meet their financial targets using derivatives.",
-        "es": "Pronto los traders podrán apostar si Coinbase, Robinhood y Marathon alcanzarán sus objetivos financieros mediante derivados.",
+        "es": "Los traders pronto podrán apostar sobre si Coinbase, Robinhood y Marathon alcanzarán sus objetivos financieros mediante derivados.",
         "de": "Trader können bald darauf wetten, ob Coinbase, Robinhood und Marathon ihre finanziellen Ziele erreichen, indem sie Derivate nutzen.",
-        "pt-BR": "Em breve, traders poderão apostar se a Coinbase, Robinhood e Marathon atingirão suas metas financeiras usando derivativos.",
+        "pt-BR": "Em breve, traders poderão apostar se Coinbase, Robinhood e Marathon atingirão suas metas financeiras usando derivativos.",
         "hi": "ट्रेडर्स जल्द ही कॉइनबेस, रॉबिनहुड और मैराथन के वित्तीय लक्ष्यों को हासिल करने पर दांव लगा सकेंगे, डेरिवेटिव्स का उपयोग करके।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -18,138 +63,93 @@
     },
     {
       "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "summary": "Circle étend son stablecoin USDC à 40 nouveaux marchés en réponse à la demande mondiale croissante.",
+      "summary": "Circle étend ses services à 40 nouveaux marchés en réponse à la demande croissante de stablecoins à l'échelle mondiale.",
       "summaries": {
-        "fr": "Circle étend son stablecoin USDC à 40 nouveaux marchés en réponse à la demande mondiale croissante.",
-        "en": "Circle expands its USDC stablecoin to 40 new markets due to growing global demand.",
-        "es": "Circle amplía su stablecoin USDC a 40 nuevos mercados ante la creciente demanda global.",
-        "de": "Circle erweitert seinen USDC-Stablecoin auf 40 neue Märkte aufgrund der weltweit steigenden Nachfrage.",
-        "pt-BR": "Circle expande seu stablecoin USDC para 40 novos mercados devido à crescente demanda global.",
-        "hi": "सर्किल ने वैश्विक मांग बढ़ने के कारण अपने यूएसडीसी स्टेबलकॉइन को 40 नए बाजारों में विस्तारित किया है।"
+        "fr": "Circle étend ses services à 40 nouveaux marchés en réponse à la demande croissante de stablecoins à l'échelle mondiale.",
+        "en": "Circle is expanding its services to 40 new markets due to increasing global demand for stablecoins.",
+        "es": "Circle amplía sus servicios a 40 nuevos mercados ante la creciente demanda global de stablecoins.",
+        "de": "Circle erweitert seine Dienstleistungen auf 40 neue Märkte aufgrund der weltweit steigenden Nachfrage nach Stablecoins.",
+        "pt-BR": "Circle está expandindo seus serviços para 40 novos mercados devido à crescente demanda global por stablecoins.",
+        "hi": "स्टेबलकॉइन की वैश्विक मांग बढ़ने के कारण सर्किल 40 नए बाजारों में अपने सेवाओं का विस्तार कर रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
       "publishedAt": "Fri, 16 Oct 2026 10:54:35 +0000"
     },
     {
-      "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
-      "summary": "Une alliance Quantum se forme pour répondre aux avertissements selon lesquels 6,4 millions de bitcoins pourraient être menacés par les ordinateurs quantiques à l'avenir.",
+      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "summary": "Circle, émetteur de stablecoins, envisage d'étendre ses activités dans 40 marchés émergents, notamment en Asie du Sud-Est, en Amérique latine, en Afrique et au Moyen-Orient, en raison d'une demande croissante.",
       "summaries": {
-        "fr": "Une alliance Quantum se forme pour répondre aux avertissements selon lesquels 6,4 millions de bitcoins pourraient être menacés par les ordinateurs quantiques à l'avenir.",
-        "en": "A Quantum Alliance is forming in response to warnings that 6.4 million bitcoins could face future threats from quantum computers.",
-        "es": "Se forma una Alianza Cuántica ante advertencias de que 6,4 millones de bitcoins podrían enfrentar amenazas futuras por computadoras cuánticas.",
-        "de": "Eine Quantum Alliance bildet sich angesichts von Warnungen, dass 6,4 Millionen Bitcoins zukünftig durch Quantencomputer bedroht sein könnten.",
-        "pt-BR": "Uma Aliança Quântica está se formando em resposta a alertas de que 6,4 milhões de bitcoins podem enfrentar ameaças futuras de computadores quânticos.",
-        "hi": "क्वांटम कंप्यूटरों से भविष्य में खतरे का सामना कर रहे 64 लाख बिटकॉइन को लेकर एक क्वांटम एलायंस का गठन हो रहा है।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
-      "publishedAt": "Fri, 16 Oct 2026 10:52:26 +0000"
-    },
-    {
-      "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
-      "summary": "Un token représentant des actions Tesla a connu une hausse après qu'Elon Musk a dévoilé un prototype de Roadster volant propulsé par SpaceX.",
-      "summaries": {
-        "fr": "Un token représentant des actions Tesla a connu une hausse après qu'Elon Musk a dévoilé un prototype de Roadster volant propulsé par SpaceX.",
-        "en": "A tokenized version of Tesla shares surged after Elon Musk unveiled a SpaceX-powered flying Roadster prototype.",
-        "es": "Un token que representa acciones de Tesla aumentó tras la presentación de un prototipo de Roadster volador impulsado por SpaceX de Elon Musk.",
-        "de": "Ein tokenisierter Tesla-Aktienwert stieg, nachdem Elon Musk einen SpaceX-betriebenen fliegenden Roadster-Prototyp vorstellte.",
-        "pt-BR": "Um token de ações da Tesla subiu após Elon Musk revelar um protótipo do Roadster voador movido por tecnologia da SpaceX.",
-        "hi": "एलन मस्क द्वारा स्पेसएक्स-संचालित उड़ने वाली रोडस्टर प्रोटोटाइप का अनावरण करने के बाद टेस्ला के टोकनाइज्ड शेयरों में उछाल आया।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
-      "publishedAt": "Fri, 16 Oct 2026 10:48:49 +0000"
-    },
-    {
-      "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
-      "summary": "Les altcoins surpassent le Bitcoin alors que Celestia bondit de 16%, tandis que Warsh reste discret sur les projets de taux d'intérêt.",
-      "summaries": {
-        "fr": "Les altcoins surpassent le Bitcoin alors que Celestia bondit de 16%, tandis que Warsh reste discret sur les projets de taux d'intérêt.",
-        "en": "Altcoins outperform Bitcoin as Celestia surges 16%, while Warsh remains silent on interest-rate plans.",
-        "es": "Las altcoins superan al Bitcoin mientras Celestia sube un 16%, y Warsh no comenta los planes de tasas de interés.",
-        "de": "Altcoins übertreffen Bitcoin, da Celestia um 16% steigt, während Warsh zu Zinsplänen schweigt.",
-        "pt-BR": "Altcoins superam o Bitcoin com Celestia subindo 16%, enquanto Warsh não se pronuncia sobre planos de taxas de juros.",
-        "hi": "सेलेस्टिया में 16% की वृद्धि के साथ ऑल्टकॉइन बिटकॉइन से आगे निकल गए, जबकि वार्श ब्याज दर योजनाओं पर चुप रहे।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
-      "publishedAt": "Fri, 16 Oct 2026 10:41:03 +0000"
-    },
-    {
-      "title": "Solana’s Liu says Shanghai event postponed over registration surge",
-      "summary": "La présidente de la Solana Foundation, Lily Liu, a annoncé le report d'un événement à Shanghai en raison d'une affluence quadruplée dépassant la limite autorisée.",
-      "summaries": {
-        "fr": "La présidente de la Solana Foundation, Lily Liu, a annoncé le report d'un événement à Shanghai en raison d'une affluence quadruplée dépassant la limite autorisée.",
-        "en": "Solana Foundation President Lily Liu announced the postponement of a Shanghai event due to registrations quadrupling, exceeding the authorized attendance limit.",
-        "es": "La presidenta de la Solana Foundation, Lily Liu, anunció el aplazamiento de un evento en Shanghái debido a que las inscripciones se cuadruplicaron, superando el límite autorizado.",
-        "de": "Die Präsidentin der Solana Foundation, Lily Liu, gab die Verschiebung einer Veranstaltung in Shanghai bekannt, da sich die Anmeldungen vervierfachten und das genehmigte Teilnehmerlimit überschritten.",
-        "pt-BR": "A presidente da Solana Foundation, Lily Liu, anunciou o adiamento de um evento em Xangai devido ao aumento quadruplicado de inscrições, excedendo o limite autorizado de participantes.",
-        "hi": "सोलाना फाउंडेशन की अध्यक्ष लिली लियू ने शंघाई में एक कार्यक्रम को स्थगित करने की घोषणा की, क्योंकि पंजीकरण चार गुना बढ़ गए और अधिकृत उपस्थिति सीमा को पार कर गए।"
+        "fr": "Circle, émetteur de stablecoins, envisage d'étendre ses activités dans 40 marchés émergents, notamment en Asie du Sud-Est, en Amérique latine, en Afrique et au Moyen-Orient, en raison d'une demande croissante.",
+        "en": "Circle, a stablecoin issuer, plans to expand into 40 developing markets, including Southeast Asia, Latin America, Africa, and the Middle East, due to rising demand.",
+        "es": "Circle, emisor de stablecoins, planea expandirse a 40 mercados en desarrollo, como el sudeste asiático, América Latina, África y Oriente Medio, debido a la creciente demanda.",
+        "de": "Circle, ein Stablecoin-Emittent, plant die Expansion in 40 Schwellenmärkte, darunter Südostasien, Lateinamerika, Afrika und der Nahe Osten, aufgrund steigender Nachfrage.",
+        "pt-BR": "Circle, emissora de stablecoins, planeja expandir para 40 mercados emergentes, incluindo Sudeste Asiático, América Latina, África e Oriente Médio, devido à crescente demanda.",
+        "hi": "स्टेबलकॉइन जारीकर्ता सर्कल 40 विकासशील बाजारों में प्रवेश करने की योजना बना रहा है, जिसमें दक्षिण पूर्व एशिया, लैटिन अमेरिका, अफ्रीका और मध्य पूर्व शामिल हैं, जहाँ मांग बढ़ रही है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 11:22:47 +0000"
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 10:00:07 +0000"
     },
     {
-      "title": "CONNECT recap: Liquidity is tokenization’s next challenge, everyday stablecoins",
-      "summary": "Les intervenants de l'événement CONNECT à Singapour ont discuté des défis de liquidité pour la tokenisation et de l'avenir des stablecoins pour les paiements quotidiens.",
+      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+      "summary": "Christine Lagarde, présidente de la BCE, affirme que l'économie de la zone euro est résiliente et annonce l'arrivée imminente d'un euro numérique pour stimuler l'innovation dans les paiements.",
       "summaries": {
-        "fr": "Les intervenants de l'événement CONNECT à Singapour ont discuté des défis de liquidité pour la tokenisation et de l'avenir des stablecoins pour les paiements quotidiens.",
-        "en": "Panelists at the CONNECT event in Singapore discussed liquidity challenges in tokenization and the future of everyday stablecoin payments.",
-        "es": "Los panelistas en el evento CONNECT en Singapur debatieron sobre los desafíos de liquidez en la tokenización y el futuro de los pagos con stablecoins cotidianos.",
-        "de": "Teilnehmer der CONNECT-Veranstaltung in Singapur diskutierten über Liquiditätsherausforderungen bei der Tokenisierung und die Zukunft von alltäglichen Stablecoin-Zahlungen.",
-        "pt-BR": "Painelistas no evento CONNECT em Singapura discutiram os desafios de liquidez na tokenização e o futuro dos pagamentos diários com stablecoins.",
-        "hi": "सिंगापुर में कनेक्ट इवेंट के पैनलिस्टों ने टोकनाइजेशन में तरलता की चुनौतियों और रोजमर्रा के स्टेबलकॉइन भुगतान के भविष्य पर चर्चा की।"
+        "fr": "Christine Lagarde, présidente de la BCE, affirme que l'économie de la zone euro est résiliente et annonce l'arrivée imminente d'un euro numérique pour stimuler l'innovation dans les paiements.",
+        "en": "ECB President Christine Lagarde states the euro-area economy is resilient and announces the imminent launch of a digital euro to boost innovation in retail payments.",
+        "es": "Christine Lagarde, presidenta del BCE, afirma que la economía de la zona euro es resiliente y anuncia la inminente llegada de un euro digital para fomentar la innovación en pagos minoristas.",
+        "de": "EZB-Präsidentin Christine Lagarde erklärt, die Wirtschaft der Eurozone sei widerstandsfähig, und kündigt die baldige Einführung eines digitalen Euro an, um Innovationen im Zahlungsverkehr zu fördern.",
+        "pt-BR": "Christine Lagarde, presidente do BCE, afirma que a economia da zona do euro é resiliente e anuncia a iminente chegada de um euro digital para estimular a inovação em pagamentos.",
+        "hi": "ईसीबी की अध्यक्ष क्रिस्टीन लेगार्ड ने कहा कि यूरो क्षेत्र की अर्थव्यवस्था लचीली है और डिजिटल यूरो जल्द ही आएगा, जो खुदरा भुगतानों में नवाचार को बढ़ावा देगा।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 10:27:18 +0000"
+      "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 08:32:11 +0000"
     },
     {
-      "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
-      "summary": "Un outil d'analyse de CryptoQuant suggère que le prix du Bitcoin pourrait retester une moyenne mobile clé sur 20 mois avant d'atteindre de nouveaux sommets historiques.",
+      "title": "Bitget to discontinue services for some users in one-off exercise",
+      "summary": "Bitget va cesser ses services pour certains utilisateurs lors d'une opération ponctuelle, tout en assurant que les fonds restent sécurisés et que la plateforme continue de fonctionner.",
       "summaries": {
-        "fr": "Un outil d'analyse de CryptoQuant suggère que le prix du Bitcoin pourrait retester une moyenne mobile clé sur 20 mois avant d'atteindre de nouveaux sommets historiques.",
-        "en": "A CryptoQuant analysis tool indicates Bitcoin's price may retest a key 20-month moving average before reaching new all-time highs.",
-        "es": "Una herramienta de análisis de CryptoQuant sugiere que el precio de Bitcoin podría volver a probar una media móvil clave de 20 meses antes de alcanzar nuevos máximos históricos.",
-        "de": "Ein Analysetool von CryptoQuant deutet darauf hin, dass der Bitcoin-Preis eine wichtige 20-Monats-Durchschnittslinie erneut testen könnte, bevor er neue Rekordhöhen erreicht.",
-        "pt-BR": "Uma ferramenta de análise da CryptoQuant sugere que o preço do Bitcoin pode retestar uma média móvel chave de 20 meses antes de atingir novas máximas históricas.",
-        "hi": "क्रिप्टोक्वांट के एक विश्लेषण टूल के अनुसार, बिटकॉइन की कीमत नए रिकॉर्ड उच्च स्तर पर पहुंचने से पहले 20 महीने की एक प्रमुख चलती औसत रेखा को फिर से परख सकती है।"
+        "fr": "Bitget va cesser ses services pour certains utilisateurs lors d'une opération ponctuelle, tout en assurant que les fonds restent sécurisés et que la plateforme continue de fonctionner.",
+        "en": "Bitget will discontinue services for some users in a one-time exercise, ensuring user funds remain safe and the exchange continues operating.",
+        "es": "Bitget suspenderá los servicios para algunos usuarios en un ejercicio puntual, garantizando que los fondos estén seguros y la plataforma siga operando.",
+        "de": "Bitget wird im Rahmen einer einmaligen Maßnahme einige Nutzerkonten schließen, versichert jedoch, dass die Gelder sicher sind und der Handel weiterläuft.",
+        "pt-BR": "A Bitget encerrará serviços para alguns usuários em uma ação pontual, garantindo que os fundos permanecem seguros e a exchange continua operando.",
+        "hi": "बिटगेट कुछ उपयोगकर्ताओं के लिए एक बार की कवायद में सेवाएं बंद करेगा, जबकि यह सुनिश्चित करता है कि उपयोगकर्ताओं के फंड सुरक्षित हैं और एक्सचेंज चालू रहेगा।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 09:22:13 +0000"
+      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 07:26:57 +0000"
     },
     {
-      "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
-      "summary": "Capital B annonce une perte de 78 millions de dollars au premier semestre 2026, principalement due à une dépréciation de ses actifs Bitcoin.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Récapitulatif des tendances et événements quotidiens influençant le prix du Bitcoin, la blockchain, la DeFi, le Web3 et la régulation des cryptomonnaies.",
       "summaries": {
-        "fr": "Capital B annonce une perte de 78 millions de dollars au premier semestre 2026, principalement due à une dépréciation de ses actifs Bitcoin.",
-        "en": "Capital B reports a $78 million loss in H1 2026, largely driven by a Bitcoin impairment charge.",
-        "es": "Capital B registra una pérdida de 78 millones de dólares en el primer semestre de 2026, impulsada principalmente por una depreciación de sus activos en Bitcoin.",
-        "de": "Capital B meldet einen Verlust von 78 Millionen Dollar im ersten Halbjahr 2026, hauptsächlich aufgrund einer Wertminderung seiner Bitcoin-Bestände.",
-        "pt-BR": "Capital B registra um prejuízo de 78 milhões de dólares no primeiro semestre de 2026, impulsionado principalmente por uma desvalorização de seus ativos em Bitcoin.",
-        "hi": "कैपिटल बी ने 2026 के पहले छमाही में 78 मिलियन डॉलर का नुकसान दर्ज किया, जो मुख्य रूप से बिटकॉइन के मूल्य में गिरावट के कारण हुआ।"
+        "fr": "Récapitulatif des tendances et événements quotidiens influençant le prix du Bitcoin, la blockchain, la DeFi, le Web3 et la régulation des cryptomonnaies.",
+        "en": "Summary of daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3, and crypto regulation.",
+        "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
+        "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
+        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 07:59:46 +0000"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 19:17:04 +0000"
     },
     {
-      "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
-      "summary": "Un juge a rejeté la demande de la CFTC et de Gemini d'annuler un accord de règlement de 5 millions de dollars, estimant que les changements de priorités et les allégations de mauvaise conduite étaient insuffisants.",
+      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+      "summary": "Des comités d'action politique liés à la crypto ont dépensé plus de 52 millions de dollars pour s'opposer à la réélection du sénateur Sherrod Brown en Ohio.",
       "summaries": {
-        "fr": "Un juge a rejeté la demande de la CFTC et de Gemini d'annuler un accord de règlement de 5 millions de dollars, estimant que les changements de priorités et les allégations de mauvaise conduite étaient insuffisants.",
-        "en": "A judge rejected the CFTC and Gemini's bid to undo a $5 million settlement, ruling that changes in enforcement priorities and misconduct allegations were insufficient.",
-        "es": "Un juez rechazó la solicitud de la CFTC y Gemini para anular un acuerdo de 5 millones de dólares, considerando insuficientes los cambios en prioridades y las acusaciones de mala conducta.",
-        "de": "Ein Richter lehnte den Antrag der CFTC und Gemini ab, eine 5-Millionen-Dollar-Vergleichsvereinbarung aufzuheben, da Änderungen der Durchsetzungsprioritäten und Vorwürfe von Fehlverhalten nicht ausreichten.",
-        "pt-BR": "Um juiz rejeitou o pedido da CFTC e da Gemini para anular um acordo de 5 milhões de dólares, considerando insuficientes as mudanças nas prioridades de fiscalização e alegações de má conduta.",
-        "hi": "एक न्यायाधीश ने CFTC और जेमिनी के 5 मिलियन डॉलर के समझौते को रद्द करने के अनुरोध को खारिज कर दिया, यह मानते हुए कि प्रवर्तन प्राथमिकताओं में बदलाव और कदाचार के आरोप अपर्याप्त थे।"
+        "fr": "Des comités d'action politique liés à la crypto ont dépensé plus de 52 millions de dollars pour s'opposer à la réélection du sénateur Sherrod Brown en Ohio.",
+        "en": "Crypto-aligned PACs have spent over $52 million to oppose Senator Sherrod Brown's re-election in Ohio.",
+        "es": "Comités de acción política alineados con las criptomonedas han gastado más de 52 millones de dólares para oponerse a la reelección del senador Sherrod Brown en Ohio.",
+        "de": "Krypto-nahe PACs haben über 52 Millionen Dollar ausgegeben, um die Wiederwahl von Senator Sherrod Brown in Ohio zu verhindern.",
+        "pt-BR": "Comitês de ação política alinhados com criptoativos gastaram mais de 52 milhões de dólares para se opor à reeleição do senador Sherrod Brown em Ohio.",
+        "hi": "क्रिप्टो से जुड़े पीएसी ने ओहायो में सीनेटर शेरोड ब्राउन के पुनर्निर्वाचन का विरोध करने के लिए 52 मिलियन डॉलर से अधिक खर्च किए हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 07:43:29 +0000"
+      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 16 Oct 2026 17:30:09 +0000"
     }
   ]
 }
