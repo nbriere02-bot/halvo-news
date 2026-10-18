@@ -1,125 +1,125 @@
 {
-  "generatedAt": "17/10/2026 11:30 UTC",
+  "generatedAt": "18/10/2026 12:00 UTC",
   "items": [
     {
-      "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
-      "summary": "L'IA Claude a résolu un problème mathématique vieux de 25 ans posé par la NSA, marquant une avancée notable en cryptographie.",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "summary": "Des paris sur des actions de puces ont perdu 52 millions de dollars en 10 minutes alors que Wall Street était fermé.",
       "summaries": {
-        "fr": "L'IA Claude a résolu un problème mathématique vieux de 25 ans posé par la NSA, marquant une avancée notable en cryptographie.",
-        "en": "AI Claude solved a 25-year-old NSA mathematical problem, marking a significant cryptography breakthrough.",
-        "es": "La IA Claude resolvió un problema matemático de 25 años planteado por la NSA, marcando un avance importante en criptografía.",
-        "de": "Die KI Claude hat ein 25 Jahre altes mathematisches Problem der NSA gelöst und damit einen bedeutenden Durchbruch in der Kryptographie erzielt.",
-        "pt-BR": "A IA Claude resolveu um problema matemático de 25 anos proposto pela NSA, marcando um avanço significativo em criptografia.",
-        "hi": "एआई क्लॉड ने एनएसए द्वारा प्रस्तुत 25 साल पुराने गणितीय समस्या का समाधान किया, जो क्रिप्टोग्राफी में एक महत्वपूर्ण सफलता है।"
+        "fr": "Des paris sur des actions de puces ont perdu 52 millions de dollars en 10 minutes alors que Wall Street était fermé.",
+        "en": "Chip-stock bets lost $52 million in 10 minutes while Wall Street was closed.",
+        "es": "Apuestas en acciones de chips perdieron 52 millones de dólares en 10 minutos con Wall Street cerrado.",
+        "de": "Wetten auf Chip-Aktien verloren 52 Millionen Dollar in 10 Minuten, während die Wall Street geschlossen war.",
+        "pt-BR": "Apostas em ações de chips perderam 52 milhões de dólares em 10 minutos com Wall Street fechada.",
+        "hi": "वॉल स्ट्रीट बंद होने के दौरान चिप स्टॉक्स पर दांव लगाने से 10 मिनट में 52 मिलियन डॉलर का नुकसान हुआ।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
-      "publishedAt": "Sat, 17 Oct 2026 06:39:48 +0000"
+      "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "publishedAt": "Sun, 18 Oct 2026 07:13:32 +0000"
     },
     {
-      "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google’s new Willow breakthrough",
-      "summary": "Les bitcoins de l'ère Satoshi pourraient être vulnérables face aux avancées en informatique quantique, notamment après la percée de Google avec Willow.",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "summary": "Circle défend l'économie de son stablecoin USDC face à la concurrence qui attire ses partenaires en offrant des parts plus importantes.",
       "summaries": {
-        "fr": "Les bitcoins de l'ère Satoshi pourraient être vulnérables face aux avancées en informatique quantique, notamment après la percée de Google avec Willow.",
-        "en": "Satoshi-era bitcoins may be at greater risk from quantum computing advancements, particularly after Google's Willow breakthrough.",
-        "es": "Los bitcoins de la era Satoshi podrían ser más vulnerables ante los avances en computación cuántica, especialmente tras el avance de Google con Willow.",
-        "de": "Bitcoins aus der Satoshi-Ära könnten durch Fortschritte in der Quantencomputertechnologie, insbesondere nach Googles Willow-Durchbruch, stärker gefährdet sein.",
-        "pt-BR": "Bitcoins da era Satoshi podem estar mais vulneráveis a avanços em computação quântica, especialmente após o avanço do Google com o Willow.",
-        "hi": "सातोशी-युग के बिटकॉइन गूगल के नए विलो ब्रेकथ्रू के बाद क्वांटम खतरे का अधिक सामना कर सकते हैं।"
+        "fr": "Circle défend l'économie de son stablecoin USDC face à la concurrence qui attire ses partenaires en offrant des parts plus importantes.",
+        "en": "Circle defends USDC's economics as competitors lure its partners by offering larger revenue shares.",
+        "es": "Circle defiende la economía de su stablecoin USDC mientras competidores atraen a sus socios con mayores participaciones.",
+        "de": "Circle verteidigt die Wirtschaftlichkeit von USDC, während Konkurrenten seine Partner mit höheren Anteilen umwerben.",
+        "pt-BR": "Circle defende a economia do USDC enquanto concorrentes atraem seus parceiros com maiores participações nos lucros.",
+        "hi": "सर्किल अपने स्टेबलकॉइन यूएसडीसी की अर्थव्यवस्था का बचाव कर रहा है जबकि प्रतिद्वंद्वी इसके साझेदारों को बड़े हिस्से की पेशकश करके आकर्षित कर रहे हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough",
-      "publishedAt": "Sat, 17 Oct 2026 02:30:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "publishedAt": "Sun, 18 Oct 2026 01:06:35 +0000"
     },
     {
-      "title": "Big Tech's AI auditors will only see what they're shown",
-      "summary": "Les auditeurs en IA des grandes entreprises technologiques ne pourront évaluer que les données qui leur sont présentées, soulevant des questions sur la transparence des systèmes.",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "summary": "Goldman Sachs, Wells Fargo et Morgan Stanley considèrent la tokenisation comme une opportunité de croissance plutôt qu'une menace pour leurs activités.",
       "summaries": {
-        "fr": "Les auditeurs en IA des grandes entreprises technologiques ne pourront évaluer que les données qui leur sont présentées, soulevant des questions sur la transparence des systèmes.",
-        "en": "Big Tech's AI auditors will only be able to assess the data they are shown, raising concerns about system transparency.",
-        "es": "Los auditores de IA de las grandes tecnológicas solo podrán evaluar los datos que se les muestren, lo que plantea dudas sobre la transparencia de los sistemas.",
-        "de": "KI-Auditoren großer Tech-Unternehmen können nur die Daten bewerten, die ihnen gezeigt werden, was Fragen zur Transparenz der Systeme aufwirft.",
-        "pt-BR": "Os auditores de IA das grandes empresas de tecnologia só poderão avaliar os dados que lhes forem apresentados, levantando questões sobre a transparência dos sistemas.",
-        "hi": "बड़ी टेक कंपनियों के एआई ऑडिटर केवल वही डेटा देख पाएंगे जो उन्हें दिखाया जाएगा, जिससे सिस्टम की पारदर्शिता पर सवाल उठते हैं।"
+        "fr": "Goldman Sachs, Wells Fargo et Morgan Stanley considèrent la tokenisation comme une opportunité de croissance plutôt qu'une menace pour leurs activités.",
+        "en": "Goldman Sachs, Wells Fargo, and Morgan Stanley view tokenization as a growth opportunity rather than a threat to their businesses.",
+        "es": "Goldman Sachs, Wells Fargo y Morgan Stanley ven la tokenización como una oportunidad de crecimiento y no como una amenaza para sus negocios.",
+        "de": "Goldman Sachs, Wells Fargo und Morgan Stanley sehen in der Tokenisierung eine Wachstumschance und keine Bedrohung für ihr Geschäft.",
+        "pt-BR": "Goldman Sachs, Wells Fargo e Morgan Stanley enxergam a tokenização como uma oportunidade de crescimento, e não como uma ameaça aos seus negócios.",
+        "hi": "गोल्डमैन सैक्स, वेल्स फार्गो और मॉर्गन स्टेनली टोकनाइजेशन को अपने व्यवसाय के लिए एक विकास अवसर के रूप में देखते हैं, न कि खतरे के रूप में।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
-      "publishedAt": "Fri, 16 Oct 2026 14:58:22 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "publishedAt": "Sat, 17 Oct 2026 17:00:00 +0000"
     },
     {
-      "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
-      "summary": "Les traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "summary": "Citrini anticipe une forte croissance de la tokenisation, mais la question clé reste de savoir qui en tirera profit.",
       "summaries": {
-        "fr": "Les traders pourront bientôt parier sur l'atteinte des objectifs financiers de Coinbase, Robinhood et Marathon via des produits dérivés.",
-        "en": "Traders will soon be able to bet on whether Coinbase, Robinhood, and Marathon meet their financial targets using derivatives.",
-        "es": "Los traders pronto podrán apostar sobre si Coinbase, Robinhood y Marathon alcanzarán sus objetivos financieros mediante derivados.",
-        "de": "Trader können bald darauf wetten, ob Coinbase, Robinhood und Marathon ihre finanziellen Ziele erreichen, indem sie Derivate nutzen.",
-        "pt-BR": "Em breve, traders poderão apostar se Coinbase, Robinhood e Marathon atingirão suas metas financeiras usando derivativos.",
-        "hi": "ट्रेडर्स जल्द ही कॉइनबेस, रॉबिनहुड और मैराथन के वित्तीय लक्ष्यों को हासिल करने पर दांव लगा सकेंगे, डेरिवेटिव्स का उपयोग करके।"
+        "fr": "Citrini anticipe une forte croissance de la tokenisation, mais la question clé reste de savoir qui en tirera profit.",
+        "en": "Citrini expects a tokenization boom, with the main question being who will benefit from it.",
+        "es": "Citrini prevé un auge en la tokenización, pero la pregunta clave es quién se beneficiará.",
+        "de": "Citrini erwartet einen Boom bei der Tokenisierung, doch die zentrale Frage ist, wer davon profitieren wird.",
+        "pt-BR": "Citrini prevê um boom na tokenização, mas a questão principal é quem se beneficiará.",
+        "hi": "सिट्रिनी टोकनाइजेशन में तेजी की उम्मीद करता है, लेकिन मुख्य सवाल यह है कि इसका लाभ कौन उठाएगा।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
-      "publishedAt": "Fri, 16 Oct 2026 11:15:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "publishedAt": "Sat, 17 Oct 2026 15:00:00 +0000"
     },
     {
-      "title": "Circle targets 40 new markets as stablecoin demand grows globally",
-      "summary": "Circle étend ses services à 40 nouveaux marchés en réponse à la demande croissante de stablecoins à l'échelle mondiale.",
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "summary": "Polygon acquiert Coinme pour pénétrer le secteur des paiements dominé par Visa et Stripe, élargissant son utilisation dans les transactions financières.",
       "summaries": {
-        "fr": "Circle étend ses services à 40 nouveaux marchés en réponse à la demande croissante de stablecoins à l'échelle mondiale.",
-        "en": "Circle is expanding its services to 40 new markets due to increasing global demand for stablecoins.",
-        "es": "Circle amplía sus servicios a 40 nuevos mercados ante la creciente demanda global de stablecoins.",
-        "de": "Circle erweitert seine Dienstleistungen auf 40 neue Märkte aufgrund der weltweit steigenden Nachfrage nach Stablecoins.",
-        "pt-BR": "Circle está expandindo seus serviços para 40 novos mercados devido à crescente demanda global por stablecoins.",
-        "hi": "स्टेबलकॉइन की वैश्विक मांग बढ़ने के कारण सर्किल 40 नए बाजारों में अपने सेवाओं का विस्तार कर रहा है।"
+        "fr": "Polygon acquiert Coinme pour pénétrer le secteur des paiements dominé par Visa et Stripe, élargissant son utilisation dans les transactions financières.",
+        "en": "Polygon acquires Coinme to enter the payments sector dominated by Visa and Stripe, expanding its use in financial transactions.",
+        "es": "Polygon adquiere Coinme para ingresar al sector de pagos dominado por Visa y Stripe, ampliando su uso en transacciones financieras.",
+        "de": "Polygon übernimmt Coinme, um in den von Visa und Stripe dominierten Zahlungssektor einzusteigen und seine Nutzung in Finanztransaktionen auszubauen.",
+        "pt-BR": "Polygon adquire a Coinme para entrar no setor de pagamentos dominado pela Visa e Stripe, expandindo seu uso em transações financeiras.",
+        "hi": "पॉलीगॉन ने वीज़ा और स्ट्राइप के दबदबे वाले भुगतान क्षेत्र में प्रवेश के लिए कॉइनमी का अधिग्रहण किया, वित्तीय लेनदेन में अपने उपयोग का विस्तार किया।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
-      "publishedAt": "Fri, 16 Oct 2026 10:54:35 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "publishedAt": "Sat, 17 Oct 2026 14:00:00 +0000"
     },
     {
-      "title": "Circle’s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "summary": "Circle, émetteur de stablecoins, envisage d'étendre ses activités dans 40 marchés émergents, notamment en Asie du Sud-Est, en Amérique latine, en Afrique et au Moyen-Orient, en raison d'une demande croissante.",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "summary": "Le pont crypto de Cysic a été suspendu après un mint non autorisé de 10 millions de tokens CYS, sans impact sur le mainnet ou d'autres systèmes.",
       "summaries": {
-        "fr": "Circle, émetteur de stablecoins, envisage d'étendre ses activités dans 40 marchés émergents, notamment en Asie du Sud-Est, en Amérique latine, en Afrique et au Moyen-Orient, en raison d'une demande croissante.",
-        "en": "Circle, a stablecoin issuer, plans to expand into 40 developing markets, including Southeast Asia, Latin America, Africa, and the Middle East, due to rising demand.",
-        "es": "Circle, emisor de stablecoins, planea expandirse a 40 mercados en desarrollo, como el sudeste asiático, América Latina, África y Oriente Medio, debido a la creciente demanda.",
-        "de": "Circle, ein Stablecoin-Emittent, plant die Expansion in 40 Schwellenmärkte, darunter Südostasien, Lateinamerika, Afrika und der Nahe Osten, aufgrund steigender Nachfrage.",
-        "pt-BR": "Circle, emissora de stablecoins, planeja expandir para 40 mercados emergentes, incluindo Sudeste Asiático, América Latina, África e Oriente Médio, devido à crescente demanda.",
-        "hi": "स्टेबलकॉइन जारीकर्ता सर्कल 40 विकासशील बाजारों में प्रवेश करने की योजना बना रहा है, जिसमें दक्षिण पूर्व एशिया, लैटिन अमेरिका, अफ्रीका और मध्य पूर्व शामिल हैं, जहाँ मांग बढ़ रही है।"
+        "fr": "Le pont crypto de Cysic a été suspendu après un mint non autorisé de 10 millions de tokens CYS, sans impact sur le mainnet ou d'autres systèmes.",
+        "en": "Cysic's crypto bridge was halted following an unauthorized mint of 10 million CYS tokens, with no impact on the mainnet or other systems.",
+        "es": "El puente cripto de Cysic fue detenido tras una acuñación no autorizada de 10 millones de tokens CYS, sin afectar la mainnet u otros sistemas.",
+        "de": "Die Crypto-Brücke von Cysic wurde nach einer unautorisierten Prägung von 10 Millionen CYS-Tokens gestoppt, ohne Auswirkungen auf das Mainnet oder andere Systeme.",
+        "pt-BR": "A ponte crypto da Cysic foi interrompida após uma cunhagem não autorizada de 10 milhões de tokens CYS, sem impacto na mainnet ou outros sistemas.",
+        "hi": "साइसिक के क्रिप्टो ब्रिज को अनधिकृत रूप से 10 मिलियन CYS टोकन मिंट होने के बाद रोक दिया गया, जिसमें मेननेट या अन्य सिस्टम पर कोई प्रभाव नहीं पड़ा।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 17 Oct 2026 10:00:07 +0000"
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 18 Oct 2026 10:43:12 +0000"
     },
     {
-      "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-      "summary": "Christine Lagarde, présidente de la BCE, affirme que l'économie de la zone euro est résiliente et annonce l'arrivée imminente d'un euro numérique pour stimuler l'innovation dans les paiements.",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "summary": "Un suspect chinois, impliqué dans un réseau criminel international de 75 millions de dollars utilisant des échanges de cryptomonnaies et de devises, a été arrêté à Bangkok.",
       "summaries": {
-        "fr": "Christine Lagarde, présidente de la BCE, affirme que l'économie de la zone euro est résiliente et annonce l'arrivée imminente d'un euro numérique pour stimuler l'innovation dans les paiements.",
-        "en": "ECB President Christine Lagarde states the euro-area economy is resilient and announces the imminent launch of a digital euro to boost innovation in retail payments.",
-        "es": "Christine Lagarde, presidenta del BCE, afirma que la economía de la zona euro es resiliente y anuncia la inminente llegada de un euro digital para fomentar la innovación en pagos minoristas.",
-        "de": "EZB-Präsidentin Christine Lagarde erklärt, die Wirtschaft der Eurozone sei widerstandsfähig, und kündigt die baldige Einführung eines digitalen Euro an, um Innovationen im Zahlungsverkehr zu fördern.",
-        "pt-BR": "Christine Lagarde, presidente do BCE, afirma que a economia da zona do euro é resiliente e anuncia a iminente chegada de um euro digital para estimular a inovação em pagamentos.",
-        "hi": "ईसीबी की अध्यक्ष क्रिस्टीन लेगार्ड ने कहा कि यूरो क्षेत्र की अर्थव्यवस्था लचीली है और डिजिटल यूरो जल्द ही आएगा, जो खुदरा भुगतानों में नवाचार को बढ़ावा देगा।"
+        "fr": "Un suspect chinois, impliqué dans un réseau criminel international de 75 millions de dollars utilisant des échanges de cryptomonnaies et de devises, a été arrêté à Bangkok.",
+        "en": "A Chinese suspect involved in a $75 million international crime network using cryptocurrency and foreign currency exchanges was arrested in Bangkok.",
+        "es": "Un sospechoso chino, involucrado en una red criminal internacional de 75 millones de dólares que utilizaba intercambios de criptomonedas y divisas, fue arrestado en Bangkok.",
+        "de": "Ein chinesischer Verdächtiger, der in ein internationales kriminelles Netzwerk im Wert von 75 Millionen Dollar mit Krypto- und Devisengeschäften verwickelt war, wurde in Bangkok festgenommen.",
+        "pt-BR": "Um suspeito chinês envolvido em uma rede criminosa internacional de 75 milhões de dólares, utilizando trocas de criptomoedas e moedas estrangeiras, foi preso em Bangkok.",
+        "hi": "एक चीनी संदिग्ध, जो 75 मिलियन डॉलर के अंतरराष्ट्रीय अपराध नेटवर्क में क्रिप्टोकरेंसी और विदेशी मुद्रा विनिमय का उपयोग कर रहा था, को बैंकॉक में गिरफ्तार किया गया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 17 Oct 2026 08:32:11 +0000"
+      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 18 Oct 2026 09:14:26 +0000"
     },
     {
-      "title": "Bitget to discontinue services for some users in one-off exercise",
-      "summary": "Bitget va cesser ses services pour certains utilisateurs lors d'une opération ponctuelle, tout en assurant que les fonds restent sécurisés et que la plateforme continue de fonctionner.",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "summary": "Tether devient investisseur stratégique d'AIsa, clôturant un tour de financement d'extension qui porte le total des fonds levés à plus de 9 millions de dollars.",
       "summaries": {
-        "fr": "Bitget va cesser ses services pour certains utilisateurs lors d'une opération ponctuelle, tout en assurant que les fonds restent sécurisés et que la plateforme continue de fonctionner.",
-        "en": "Bitget will discontinue services for some users in a one-time exercise, ensuring user funds remain safe and the exchange continues operating.",
-        "es": "Bitget suspenderá los servicios para algunos usuarios en un ejercicio puntual, garantizando que los fondos estén seguros y la plataforma siga operando.",
-        "de": "Bitget wird im Rahmen einer einmaligen Maßnahme einige Nutzerkonten schließen, versichert jedoch, dass die Gelder sicher sind und der Handel weiterläuft.",
-        "pt-BR": "A Bitget encerrará serviços para alguns usuários em uma ação pontual, garantindo que os fundos permanecem seguros e a exchange continua operando.",
-        "hi": "बिटगेट कुछ उपयोगकर्ताओं के लिए एक बार की कवायद में सेवाएं बंद करेगा, जबकि यह सुनिश्चित करता है कि उपयोगकर्ताओं के फंड सुरक्षित हैं और एक्सचेंज चालू रहेगा।"
+        "fr": "Tether devient investisseur stratégique d'AIsa, clôturant un tour de financement d'extension qui porte le total des fonds levés à plus de 9 millions de dollars.",
+        "en": "Tether backs AIsa as a strategic investor, completing a seed extension round that raises the company's total funding to over $9 million.",
+        "es": "Tether se convierte en inversor estratégico de AIsa, completando una ronda de extensión que eleva su financiación total a más de 9 millones de dólares.",
+        "de": "Tether unterstützt AIsa als strategischer Investor und schließt eine Seed-Erweiterungsrunde ab, die die Gesamtfinanzierung auf über 9 Millionen Dollar erhöht.",
+        "pt-BR": "Tether se torna investidor estratégico da AIsa, concluindo uma rodada de extensão que eleva o financiamento total da empresa para mais de 9 milhões de dólares.",
+        "hi": "टेथर ने एआईसा में रणनीतिक निवेशक के रूप में निवेश किया, जिससे सीड एक्सटेंशन राउंड पूरा हुआ और कुल फंडिंग 9 मिलियन डॉलर से अधिक हो गई।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 17 Oct 2026 07:26:57 +0000"
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 18 Oct 2026 06:26:53 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -130,26 +130,26 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "क्रिप्टोकरेंसी में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 19:17:04 +0000"
+      "publishedAt": "Sat, 17 Oct 2026 13:29:00 +0000"
     },
     {
-      "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
-      "summary": "Des comités d'action politique liés à la crypto ont dépensé plus de 52 millions de dollars pour s'opposer à la réélection du sénateur Sherrod Brown en Ohio.",
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "summary": "Solana n'a signalé aucune panne majeure de son réseau principal depuis deux ans, mais Fidelity souligne la nécessité de surveiller les concentrations en mise, hébergement et logiciels clients.",
       "summaries": {
-        "fr": "Des comités d'action politique liés à la crypto ont dépensé plus de 52 millions de dollars pour s'opposer à la réélection du sénateur Sherrod Brown en Ohio.",
-        "en": "Crypto-aligned PACs have spent over $52 million to oppose Senator Sherrod Brown's re-election in Ohio.",
-        "es": "Comités de acción política alineados con las criptomonedas han gastado más de 52 millones de dólares para oponerse a la reelección del senador Sherrod Brown en Ohio.",
-        "de": "Krypto-nahe PACs haben über 52 Millionen Dollar ausgegeben, um die Wiederwahl von Senator Sherrod Brown in Ohio zu verhindern.",
-        "pt-BR": "Comitês de ação política alinhados com criptoativos gastaram mais de 52 milhões de dólares para se opor à reeleição do senador Sherrod Brown em Ohio.",
-        "hi": "क्रिप्टो से जुड़े पीएसी ने ओहायो में सीनेटर शेरोड ब्राउन के पुनर्निर्वाचन का विरोध करने के लिए 52 मिलियन डॉलर से अधिक खर्च किए हैं।"
+        "fr": "Solana n'a signalé aucune panne majeure de son réseau principal depuis deux ans, mais Fidelity souligne la nécessité de surveiller les concentrations en mise, hébergement et logiciels clients.",
+        "en": "Solana has reported no mainnet outages in two years, but Fidelity highlights the need to monitor stake, hosting, and client software concentrations.",
+        "es": "Solana no ha reportado caídas en su red principal en dos años, pero Fidelity señala la necesidad de vigilar las concentraciones en participación, alojamiento y software de clientes.",
+        "de": "Solana hatte in den letzten zwei Jahren keine Ausfälle des Mainnets, aber Fidelity empfiehlt, die Konzentrationen bei Staking, Hosting und Client-Software zu beobachten.",
+        "pt-BR": "Solana não registrou nenhuma queda em sua mainnet há dois anos, mas a Fidelity destaca a necessidade de monitorar concentrações em staking, hospedagem e softwares de clientes.",
+        "hi": "सोलाना ने पिछले दो वर्षों में अपनी मेननेट में कोई बड़ी रुकावट नहीं देखी है, लेकिन फिडेलिटी के अनुसार, स्टेकिंग, होस्टिंग और क्लाइंट सॉफ़्टवेयर में सांद्रता पर नज़र रखने की आवश्यकता है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 16 Oct 2026 17:30:09 +0000"
+      "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 17 Oct 2026 13:01:00 +0000"
     }
   ]
 }
