@@ -1,65 +1,80 @@
 {
-  "generatedAt": "28/10/2026 13:55 UTC",
+  "generatedAt": "29/10/2026 14:01 UTC",
   "items": [
     {
-      "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
-      "summary": "DTCC, pilier de Wall Street, collabore avec des grandes banques pour intégrer des titres d'une valeur de 30 000 milliards de dollars sur la blockchain.",
+      "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+      "summary": "Un nouveau modèle quantique réduirait de 17 fois le matériel nécessaire pour casser les clés Bitcoin, selon une étude récente.",
       "summaries": {
-        "fr": "DTCC, pilier de Wall Street, collabore avec des grandes banques pour intégrer des titres d'une valeur de 30 000 milliards de dollars sur la blockchain.",
-        "en": "DTCC, a Wall Street backbone, collaborates with major banks to bring $30 trillion in securities closer to blockchain integration.",
-        "es": "DTCC, columna vertebral de Wall Street, colabora con grandes bancos para integrar valores por 30 billones de dólares en blockchain.",
-        "de": "DTCC, ein zentraler Akteur an der Wall Street, arbeitet mit großen Banken zusammen, um Wertpapiere im Wert von 30 Billionen Dollar näher an die Blockchain zu bringen.",
-        "pt-BR": "A DTCC, espinha dorsal de Wall Street, colabora com grandes bancos para integrar títulos no valor de 30 trilhões de dólares à blockchain.",
-        "hi": "वॉल स्ट्रीट की रीढ़ डीटीसीसी ने प्रमुख बैंकों के साथ मिलकर 30 ट्रिलियन डॉलर के प्रतिभूतियों को ब्लॉकचेन के करीब लाने के लिए सहयोग किया है।"
+        "fr": "Un nouveau modèle quantique réduirait de 17 fois le matériel nécessaire pour casser les clés Bitcoin, selon une étude récente.",
+        "en": "A new quantum model could reduce the hardware needed to break Bitcoin keys by 17 times, according to recent research.",
+        "es": "Un nuevo modelo cuántico reduciría 17 veces el hardware necesario para romper las claves de Bitcoin, según un estudio reciente.",
+        "de": "Ein neues Quantenmodell könnte die benötigte Hardware zum Knacken von Bitcoin-Schlüsseln um das 17-fache reduzieren, so eine aktuelle Studie.",
+        "pt-BR": "Um novo modelo quântico poderia reduzir em 17 vezes o hardware necessário para quebrar chaves do Bitcoin, segundo estudo recente.",
+        "hi": "हाल के एक अध्ययन के अनुसार, एक नया क्वांटम मॉडल बिटकॉइन कुंजियों को तोड़ने के लिए आवश्यक हार्डवेयर को 17 गुना कम कर सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
-      "publishedAt": "Wed, 28 Oct 2026 13:14:37 +0000"
+      "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+      "publishedAt": "Thu, 29 Oct 2026 13:55:42 +0000"
     },
     {
-      "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
-      "summary": "JPMorgan, Coca-Cola et Dell ont refusé de participer au projet de trading d'actions tokenisées proposé par OKX et ICE.",
+      "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
+      "summary": "Walmart et Eli Lilly s'opposent aux projets de tokenisation d'actions proposés par OKX et ICE, rejoignant une résistance croissante.",
       "summaries": {
-        "fr": "JPMorgan, Coca-Cola et Dell ont refusé de participer au projet de trading d'actions tokenisées proposé par OKX et ICE.",
-        "en": "JPMorgan, Coca-Cola, and Dell declined to participate in OKX and ICE's tokenized stock trading initiative.",
-        "es": "JPMorgan, Coca-Cola y Dell rechazaron participar en el plan de trading de acciones tokenizadas propuesto por OKX e ICE.",
-        "de": "JPMorgan, Coca-Cola und Dell lehnten die Teilnahme am tokenisierten Aktienhandelsplan von OKX und ICE ab.",
-        "pt-BR": "JPMorgan, Coca-Cola e Dell recusaram participar do plano de negociação de ações tokenizadas proposto pela OKX e ICE.",
-        "hi": "जेपीमॉर्गन, कोका-कोला और डेल ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक ट्रेडिंग योजना में भाग लेने से इनकार कर दिया।"
+        "fr": "Walmart et Eli Lilly s'opposent aux projets de tokenisation d'actions proposés par OKX et ICE, rejoignant une résistance croissante.",
+        "en": "Walmart and Eli Lilly join growing opposition to OKX and ICE's plans for tokenized stocks.",
+        "es": "Walmart y Eli Lilly se unen a la creciente oposición a los planes de tokenización de acciones de OKX e ICE.",
+        "de": "Walmart und Eli Lilly schließen sich der wachsenden Ablehnung der Pläne von OKX und ICE für tokenisierte Aktien an.",
+        "pt-BR": "Walmart e Eli Lilly se juntam à crescente oposição aos planos de tokenização de ações da OKX e ICE.",
+        "hi": "वॉलमार्ट और एली लिली ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक योजनाओं के खिलाफ बढ़ते विरोध में शामिल हुए।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
-      "publishedAt": "Wed, 28 Oct 2026 12:59:36 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+      "publishedAt": "Thu, 29 Oct 2026 13:39:18 +0000"
     },
     {
-      "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
-      "summary": "Les développeurs du XRP Ledger proposent de créer des portefeuilles sans XRP pour faciliter les paiements en stablecoins.",
+      "title": "A new framework for tokenized asset tracking",
+      "summary": "Un nouveau cadre est proposé pour le suivi des actifs tokenisés, visant à améliorer la transparence et l'efficacité des transactions.",
       "summaries": {
-        "fr": "Les développeurs du XRP Ledger proposent de créer des portefeuilles sans XRP pour faciliter les paiements en stablecoins.",
-        "en": "XRP Ledger developers propose creating wallets with zero XRP to streamline stablecoin payments.",
-        "es": "Los desarrolladores de XRP Ledger proponen crear carteras sin XRP para facilitar pagos con stablecoins.",
-        "de": "Entwickler des XRP Ledgers schlagen vor, Wallets ohne XRP für Stablecoin-Zahlungen zu erstellen.",
-        "pt-BR": "Desenvolvedores do XRP Ledger propõem criar carteiras sem XRP para facilitar pagamentos com stablecoins.",
-        "hi": "एक्सआरपी लेजर के डेवलपर्स ने स्टेबलकॉइन भुगतान के लिए शून्य एक्सआरपी वाले वॉलेट बनाने का प्रस्ताव रखा है।"
+        "fr": "Un nouveau cadre est proposé pour le suivi des actifs tokenisés, visant à améliorer la transparence et l'efficacité des transactions.",
+        "en": "A new framework for tracking tokenized assets has been introduced to enhance transparency and transaction efficiency.",
+        "es": "Se presenta un nuevo marco para el seguimiento de activos tokenizados, con el objetivo de mejorar la transparencia y eficiencia de las transacciones.",
+        "de": "Ein neuer Rahmen für die Verfolgung tokenisierter Vermögenswerte wurde vorgestellt, um Transparenz und Transaktionseffizienz zu verbessern.",
+        "pt-BR": "Um novo framework para rastreamento de ativos tokenizados foi proposto para aumentar a transparência e eficiência das transações.",
+        "hi": "टोकनाइज्ड एसेट्स की ट्रैकिंग के लिए एक नया ढांचा प्रस्तावित किया गया है, जिसका उद्देश्य लेनदेन में पारदर्शिता और दक्षता बढ़ाना है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
-      "publishedAt": "Wed, 28 Oct 2026 11:52:14 +0000"
+      "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
+      "publishedAt": "Thu, 29 Oct 2026 12:57:51 +0000"
     },
     {
-      "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
-      "summary": "Le Bitcoin repasse au-dessus de 81 000 $ alors que la hausse des puces en Asie profite aux cryptomonnaies, le token Pepe bondissant de 9 %.",
+      "title": "Tokenized stock venue on Canton could beat OKX–ICE to first trade under SEC framework",
+      "summary": "Une plateforme de titres tokenisés sur Canton pourrait réaliser la première transaction sous le cadre réglementaire de la SEC, devançant OKX et ICE.",
       "summaries": {
-        "fr": "Le Bitcoin repasse au-dessus de 81 000 $ alors que la hausse des puces en Asie profite aux cryptomonnaies, le token Pepe bondissant de 9 %.",
-        "en": "Bitcoin rebounds above $81,000 as the Asian chip rally benefits cryptocurrencies, with Pepe token surging 9%.",
-        "es": "Bitcoin recupera los 81.000 $ mientras el rally de chips en Asia impulsa a las criptomonedas, con el token Pepe subiendo un 9%.",
-        "de": "Bitcoin steigt wieder über 81.000 $, da der Chip-Rally in Asien den Kryptowährungen zugutekommt, wobei der Pepe-Token um 9 % steigt.",
-        "pt-BR": "Bitcoin volta a superar US$ 81.000 com o rali de chips na Ásia beneficiando as criptomoedas, enquanto o token Pepe sobe 9%.",
-        "hi": "बिटकॉइन $81,000 से ऊपर वापस आया क्योंकि एशिया में चिप्स की रैली ने क्रिप्टोकरेंसी को फायदा पहुंचाया, पेपे टोकन में 9% की वृद्धि हुई।"
+        "fr": "Une plateforme de titres tokenisés sur Canton pourrait réaliser la première transaction sous le cadre réglementaire de la SEC, devançant OKX et ICE.",
+        "en": "A tokenized stock venue on Canton may execute the first trade under the SEC's regulatory framework, ahead of OKX and ICE.",
+        "es": "Una plataforma de acciones tokenizadas en Canton podría realizar la primera operación bajo el marco regulatorio de la SEC, adelantando a OKX e ICE.",
+        "de": "Ein tokenisierter Aktienhandelsplatz auf Canton könnte den ersten Handel unter dem SEC-Regulierungsrahmen vor OKX und ICE durchführen.",
+        "pt-BR": "Uma plataforma de ações tokenizadas no Canton pode realizar a primeira negociação sob o marco regulatório da SEC, à frente da OKX e da ICE.",
+        "hi": "कैंटन पर टोकनाइज्ड स्टॉक प्लेटफॉर्म SEC के नियामक ढांचे के तहत OKX और ICE से पहले पहली ट्रेडिंग कर सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
-      "publishedAt": "Wed, 28 Oct 2026 11:32:31 +0000"
+      "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+      "publishedAt": "Thu, 29 Oct 2026 12:51:48 +0000"
+    },
+    {
+      "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+      "summary": "Les États-Unis ont sanctionné des ressortissants russes pour avoir blanchi des millions en cryptomonnaies au profit de travailleurs nord-coréens en informatique.",
+      "summaries": {
+        "fr": "Les États-Unis ont sanctionné des ressortissants russes pour avoir blanchi des millions en cryptomonnaies au profit de travailleurs nord-coréens en informatique.",
+        "en": "The U.S. has sanctioned Russian nationals for laundering millions in crypto on behalf of North Korean IT workers.",
+        "es": "Estados Unidos sancionó a nacionales rusos por lavar millones en criptomonedas para trabajadores norcoreanos de TI.",
+        "de": "Die USA haben russische Staatsbürger sanktioniert, die Millionen in Kryptowährungen für nordkoreanische IT-Arbeiter gewaschen haben.",
+        "pt-BR": "Os EUA sancionaram cidadãos russos por lavar milhões em criptomoedas para trabalhadores norte-coreanos de TI.",
+        "hi": "अमेरिका ने उत्तर कोरियाई आईटी कर्मचारियों के लिए लाखों क्रिप्टोकरेंसी की हेराफेरी करने वाले रूसी नागरिकों पर प्रतिबंध लगाया है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
+      "publishedAt": "Thu, 29 Oct 2026 12:18:20 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -70,71 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 13:35:44 +0000"
+      "publishedAt": "Thu, 29 Oct 2026 13:51:06 +0000"
     },
     {
-      "title": "Cybersecurity’s Black October: How to protect yourself",
-      "summary": "Octobre marqué par des cyberattaques accrues, notamment via l'IA, avec des conseils pour renforcer la sécurité en ligne, y compris pour les actifs crypto.",
+      "title": "Brazil’s Halloween eve crypto deadline brings more tricks than treats",
+      "summary": "Les plateformes d'échange de cryptomonnaies au Brésil doivent respecter une échéance ce vendredi, mais des exigences coûteuses et des incertitudes réglementaires compliquent leur conformité.",
       "summaries": {
-        "fr": "Octobre marqué par des cyberattaques accrues, notamment via l'IA, avec des conseils pour renforcer la sécurité en ligne, y compris pour les actifs crypto.",
-        "en": "October sees a surge in cyberattacks, including AI-driven threats, with guidance on enhancing online security, including for crypto assets.",
-        "es": "Octubre registra un aumento de ciberataques, incluidos los impulsados por IA, con recomendaciones para mejorar la seguridad en línea, incluso para activos cripto.",
-        "de": "Im Oktober häufen sich Cyberangriffe, darunter KI-gestützte Bedrohungen, mit Tipps zur Verbesserung der Online-Sicherheit, einschließlich Krypto-Assets.",
-        "pt-BR": "Outubro é marcado por um aumento de ciberataques, incluindo ameaças impulsionadas por IA, com orientações para melhorar a segurança online, inclusive para ativos cripto.",
-        "hi": "अक्टूबर में साइबर हमलों में वृद्धि हुई है, जिसमें एआई-संचालित खतरे शामिल हैं, और इसमें क्रिप्टो संपत्तियों सहित ऑनलाइन सुरक्षा सुधारने के सुझाव दिए गए हैं।"
+        "fr": "Les plateformes d'échange de cryptomonnaies au Brésil doivent respecter une échéance ce vendredi, mais des exigences coûteuses et des incertitudes réglementaires compliquent leur conformité.",
+        "en": "Brazil’s crypto exchanges must meet a Friday deadline, but costly requirements and regulatory uncertainties are complicating compliance.",
+        "es": "Las plataformas de intercambio de criptomonedas en Brasil enfrentan un plazo este viernes, pero requisitos costosos y preguntas regulatorias sin responder complican el cumplimiento.",
+        "de": "Brasiliens Krypto-Börsen müssen bis Freitag eine Frist einhalten, doch teure Anforderungen und regulatorische Unklarheiten erschweren die Einhaltung.",
+        "pt-BR": "As exchanges de criptoativos no Brasil enfrentam um prazo nesta sexta-feira, mas requisitos custosos e dúvidas regulatórias complicam a conformidade.",
+        "hi": "ब्राज़ील में क्रिप्टो एक्सचेंजों को शुक्रवार की समय सीमा का सामना करना पड़ रहा है, लेकिन महंगी आवश्यकताएँ और अनसुलझे विनियामक सवाल अनुपालन को जटिल बना रहे हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 13:30:00 +0000"
+      "url": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 13:30:00 +0000"
     },
     {
-      "title": "DTCC unit launches tokenization services",
-      "summary": "DTCC lance des services de tokenisation pour faciliter l'adoption des titres tokenisés.",
+      "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+      "summary": "USDT arrive sur Bitcoin avec des transactions privées et rapides via le Lightning Network, cherchant à rivaliser avec Ethereum et Tron.",
       "summaries": {
-        "fr": "DTCC lance des services de tokenisation pour faciliter l'adoption des titres tokenisés.",
-        "en": "DTCC introduces tokenization services to streamline the adoption of tokenized securities.",
-        "es": "DTCC lanza servicios de tokenización para impulsar la adopción de valores tokenizados.",
-        "de": "DTCC führt Tokenisierungsdienste ein, um die Einführung tokenisierter Wertpapiere zu erleichtern.",
-        "pt-BR": "DTCC lança serviços de tokenização para impulsionar a adoção de títulos tokenizados.",
-        "hi": "डीटीसीसी ने टोकनाइज्ड सिक्योरिटीज़ को अपनाने के लिए टोकनाइजेशन सेवाओं की शुरुआत की।"
+        "fr": "USDT arrive sur Bitcoin avec des transactions privées et rapides via le Lightning Network, cherchant à rivaliser avec Ethereum et Tron.",
+        "en": "USDT is launching on Bitcoin with private and Lightning-fast transactions, aiming to compete with Ethereum and Tron.",
+        "es": "USDT llegará a Bitcoin con transacciones privadas y rápidas a través de Lightning Network, compitiendo con Ethereum y Tron.",
+        "de": "USDT kommt mit privaten und Lightning-schnellen Transaktionen zu Bitcoin, um mit Ethereum und Tron zu konkurrieren.",
+        "pt-BR": "USDT será lançado no Bitcoin com transações privadas e rápidas via Lightning Network, buscando competir com Ethereum e Tron.",
+        "hi": "यूएसडीटी बिटकॉइन पर निजी और लाइटनिंग-फास्ट लेनदेन के साथ आ रहा है, जो एथेरियम और ट्रॉन के साथ प्रतिस्पर्धा करने का लक्ष्य रखता है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 13:19:00 +0000"
+      "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 13:30:00 +0000"
     },
     {
-      "title": "Settlement concerns prompt Euronext to halt CoinShares’ Zcash ETP ahead of debut",
-      "summary": "Euronext a suspendu le lancement de l'ETP Zcash de CoinShares en raison de préoccupations liées aux exigences opérationnelles de règlement.",
+      "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+      "summary": "Polygon étend son Open Money Stack à Solana après son déploiement sur Tron et l'acquisition de Coinme.",
       "summaries": {
-        "fr": "Euronext a suspendu le lancement de l'ETP Zcash de CoinShares en raison de préoccupations liées aux exigences opérationnelles de règlement.",
-        "en": "Euronext halted CoinShares' Zcash ETP debut due to operational settlement requirement concerns.",
-        "es": "Euronext suspendió el lanzamiento del ETP de Zcash de CoinShares por preocupaciones sobre requisitos operativos de liquidación.",
-        "de": "Euronext stoppte den Start des CoinShares Zcash-ETP aufgrund von Bedenken hinsichtlich operativer Abwicklungsanforderungen.",
-        "pt-BR": "A Euronext suspendeu o lançamento do ETP de Zcash da CoinShares devido a preocupações com requisitos operacionais de liquidação.",
-        "hi": "यूरोनेक्स ने सेटलमेंट संबंधी परिचालन आवश्यकताओं की चिंताओं के कारण कॉइनशेयर्स के जेकैश ईटीपी की शुरुआत को रोक दिया।"
+        "fr": "Polygon étend son Open Money Stack à Solana après son déploiement sur Tron et l'acquisition de Coinme.",
+        "en": "Polygon expands its Open Money Stack to Solana following its rollout on Tron and the acquisition of Coinme.",
+        "es": "Polygon amplía su Open Money Stack a Solana tras su implementación en Tron y la adquisición de Coinme.",
+        "de": "Polygon erweitert seinen Open Money Stack auf Solana nach der Einführung auf Tron und der Übernahme von Coinme.",
+        "pt-BR": "Polygon expande seu Open Money Stack para Solana após implementação na Tron e aquisição da Coinme.",
+        "hi": "पॉलीगॉन ने ट्रॉन पर रोलआउट और कॉइनमी के अधिग्रहण के बाद सोलाना पर अपने ओपन मनी स्टैक का विस्तार किया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 11:24:07 +0000"
+      "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 13:00:00 +0000"
     },
     {
-      "title": "Mirae Asset Securities issues tokenized notes on Solana",
-      "summary": "Mirae Asset Securities a émis des obligations tokenisées sur Solana via sa filiale de Hong Kong, dans le cadre d'un programme de 3 milliards de dollars destiné aux investisseurs institutionnels.",
+      "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+      "summary": "Chainalysis a retracé des conversions de cryptomonnaies nord-coréennes en liquidités via l'exchange Garantex, lié à des sanctions américaines.",
       "summaries": {
-        "fr": "Mirae Asset Securities a émis des obligations tokenisées sur Solana via sa filiale de Hong Kong, dans le cadre d'un programme de 3 milliards de dollars destiné aux investisseurs institutionnels.",
-        "en": "Mirae Asset Securities issued tokenized notes on Solana through its Hong Kong unit as part of a $3 billion program targeting institutional investors.",
-        "es": "Mirae Asset Securities emitió bonos tokenizados en Solana a través de su filial en Hong Kong, dentro de un programa de 3 mil millones de dólares para inversores institucionales.",
-        "de": "Mirae Asset Securities hat über seine Hongkonger Tochtergesellschaft tokenisierte Schuldverschreibungen auf Solana im Rahmen eines 3-Milliarden-Dollar-Programms für institutionelle Anleger ausgegeben.",
-        "pt-BR": "A Mirae Asset Securities emitiu notas tokenizadas na Solana por meio de sua unidade em Hong Kong, como parte de um programa de 3 bilhões de dólares voltado para investidores institucionais.",
-        "hi": "मिराए एसेट सिक्योरिटीज ने अपने हांगकांग यूनिट के माध्यम से सोलाना पर टोकनाइज्ड नोट्स जारी किए, जो 3 बिलियन डॉलर के कार्यक्रम के तहत संस्थागत निवेशकों के लिए हैं।"
+        "fr": "Chainalysis a retracé des conversions de cryptomonnaies nord-coréennes en liquidités via l'exchange Garantex, lié à des sanctions américaines.",
+        "en": "Chainalysis traced North Korean crypto cash-outs through the Garantex exchange, linked to US sanctions.",
+        "es": "Chainalysis rastreó retiros de criptomonedas norcoreanas a través del exchange Garantex, vinculado a sanciones estadounidenses.",
+        "de": "Chainalysis verfolgte nordkoreanische Krypto-Auszahlungen über die Börse Garantex, die mit US-Sanktionen in Verbindung steht.",
+        "pt-BR": "A Chainalysis rastreou saques de criptomoedas norte-coreanas através da exchange Garantex, ligada a sanções dos EUA.",
+        "hi": "चेनएनालिसिस ने उत्तर कोरियाई क्रिप्टोकरेंसी के नकदीकरण को गैरंटेक्स एक्सचेंज के माध्यम से ट्रैक किया, जो अमेरिकी प्रतिबंधों से जुड़ा है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 28 Oct 2026 11:05:33 +0000"
+      "url": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 29 Oct 2026 12:38:03 +0000"
     }
   ]
 }
