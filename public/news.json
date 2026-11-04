@@ -1,95 +1,80 @@
 {
-  "generatedAt": "03/11/2026 14:56 UTC",
+  "generatedAt": "04/11/2026 15:16 UTC",
   "items": [
     {
-      "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
-      "summary": "Binance révèle que le piratage de 6,3 milliards de dollars a commencé par un faux entretien d'embauche utilisé pour installer un logiciel malveillant.",
+      "title": "The election changes Washington. The work on crypto continues",
+      "summary": "Les résultats des élections aux États-Unis n'interrompent pas les travaux législatifs en cours sur la régulation des cryptomonnaies.",
       "summaries": {
-        "fr": "Binance révèle que le piratage de 6,3 milliards de dollars a commencé par un faux entretien d'embauche utilisé pour installer un logiciel malveillant.",
-        "en": "Binance states that the $6.3 billion hack originated from a fake job interview used to deploy malware.",
-        "es": "Binance indica que el hackeo de 6.300 millones de dólares comenzó con una falsa entrevista de trabajo para instalar malware.",
-        "de": "Binance erklärt, dass der 6,3-Milliarden-Dollar-Hack mit einem gefälschten Vorstellungsgespräch begann, um Schadsoftware zu installieren.",
-        "pt-BR": "Binance afirma que o hacke de 6,3 bilhões de dólares começou com uma falsa entrevista de emprego usada para instalar malware.",
-        "hi": "बिनेंस के अनुसार, 6.3 अरब डॉलर के हैक की शुरुआत एक नकली नौकरी के साक्षात्कार से हुई, जिसका उपयोग मैलवेयर इंस्टॉल करने के लिए किया गया।"
+        "fr": "Les résultats des élections aux États-Unis n'interrompent pas les travaux législatifs en cours sur la régulation des cryptomonnaies.",
+        "en": "U.S. election results do not halt ongoing legislative efforts to regulate cryptocurrencies.",
+        "es": "Los resultados electorales en EE.UU. no detienen los esfuerzos legislativos en curso para regular las criptomonedas.",
+        "de": "Die Wahlergebnisse in den USA unterbrechen die laufenden gesetzgeberischen Arbeiten zur Regulierung von Kryptowährungen nicht.",
+        "pt-BR": "Os resultados das eleições nos EUA não interrompem os esforços legislativos em andamento para regular as criptomoedas.",
+        "hi": "अमेरिका में चुनाव के नतीजे क्रिप्टोकरेंसी को विनियमित करने के लिए चल रहे विधायी प्रयासों को बाधित नहीं करते।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
-      "publishedAt": "Tue, 03 Nov 2026 14:53:19 +0000"
+      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+      "publishedAt": "Wed, 04 Nov 2026 14:25:12 +0000"
     },
     {
-      "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
-      "summary": "La Corée du Sud interroge ses principales banques sur l'impact potentiel d'un piratage majeur de cryptomonnaies sur leurs activités.",
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "summary": "Bitcoin et les actions ont fortement rebondi après une chute nocturne, suite à la victoire démocrate qualifiée de 'Blue Wave'.",
       "summaries": {
-        "fr": "La Corée du Sud interroge ses principales banques sur l'impact potentiel d'un piratage majeur de cryptomonnaies sur leurs activités.",
-        "en": "South Korea is asking its major banks about the potential impact of a significant crypto hack on their operations.",
-        "es": "Corea del Sur pregunta a sus principales bancos sobre el impacto potencial de un gran hackeo de criptomonedas en sus operaciones.",
-        "de": "Südkorea fragt seine größten Banken nach den möglichen Auswirkungen eines großen Krypto-Hacks auf ihre Geschäfte.",
-        "pt-BR": "A Coreia do Sul está perguntando aos seus maiores bancos sobre o impacto potencial de um grande hackeamento de criptomoedas em suas operações.",
-        "hi": "दक्षिण कोरिया अपने प्रमुख बैंकों से पूछ रहा है कि एक बड़े क्रिप्टो हैक का उनके संचालन पर क्या प्रभाव पड़ सकता है।"
+        "fr": "Bitcoin et les actions ont fortement rebondi après une chute nocturne, suite à la victoire démocrate qualifiée de 'Blue Wave'.",
+        "en": "Bitcoin and stocks surged, recovering from an overnight plunge following the Democratic 'Blue Wave' victory.",
+        "es": "Bitcoin y las acciones registraron fuertes ganancias, revirtiendo una caída nocturna tras la victoria demócrata llamada 'Blue Wave'.",
+        "de": "Bitcoin und Aktien erholten sich stark nach einem nächtlichen Einbruch infolge des demokratischen 'Blue Wave'-Siegs.",
+        "pt-BR": "Bitcoin e ações tiveram grandes ganhos, revertendo uma queda noturna após a vitória democrata chamada de 'Onda Azul'.",
+        "hi": "बिटकॉइन और शेयरों में तेजी आई, रातभर की गिरावट के बाद डेमोक्रेटिक 'ब्लू वेव' जीत के बाद उछाल देखा गया।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
-      "publishedAt": "Tue, 03 Nov 2026 14:42:30 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "publishedAt": "Wed, 04 Nov 2026 14:00:53 +0000"
     },
     {
-      "title": "CZ warns of more AI-driven hacks following Binance’s historic $6.4 billion heist",
-      "summary": "Le PDG de Binance, CZ, met en garde contre une augmentation des piratages utilisant l'IA après le vol historique de 6,4 milliards de dollars sur la plateforme.",
+      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+      "summary": "Le gestionnaire d'actifs mondial Schroders lance un fonds obligataire des marchés émergents sur la blockchain Solana.",
       "summaries": {
-        "fr": "Le PDG de Binance, CZ, met en garde contre une augmentation des piratages utilisant l'IA après le vol historique de 6,4 milliards de dollars sur la plateforme.",
-        "en": "Binance CEO CZ warns of a rise in AI-driven hacks following the platform's historic $6.4 billion heist.",
-        "es": "El CEO de Binance, CZ, advierte sobre un aumento de hackeos impulsados por IA tras el histórico robo de 6.400 millones de dólares en la plataforma.",
-        "de": "Binance-CEO CZ warnt vor zunehmenden KI-gestützten Hackerangriffen nach dem historischen Diebstahl von 6,4 Milliarden Dollar auf der Plattform.",
-        "pt-BR": "O CEO da Binance, CZ, alerta sobre um aumento de ataques hackers impulsionados por IA após o roubo histórico de 6,4 bilhões de dólares na plataforma.",
-        "hi": "बिनेंस के सीईओ सीजेड ने प्लेटफॉर्म पर हुए 6.4 अरब डॉलर के ऐतिहासिक चोरी के बाद एआई-संचालित हैक में वृद्धि की चेतावनी दी है।"
+        "fr": "Le gestionnaire d'actifs mondial Schroders lance un fonds obligataire des marchés émergents sur la blockchain Solana.",
+        "en": "Global asset manager Schroders introduces an emerging market bond fund on the Solana blockchain.",
+        "es": "El gestor de activos global Schroders lanza un fondo de bonos de mercados emergentes en la blockchain Solana.",
+        "de": "Der globale Vermögensverwalter Schroders bringt einen Anleihenfonds für Schwellenländer auf die Solana-Blockchain.",
+        "pt-BR": "A gestora global de ativos Schroders lança um fundo de títulos de mercados emergentes na blockchain Solana.",
+        "hi": "वैश्विक संपत्ति प्रबंधक श्रोडर्स सोलाना ब्लॉकचेन पर उभरते बाजारों के बॉन्ड फंड को लॉन्च कर रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
-      "publishedAt": "Tue, 03 Nov 2026 14:22:09 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+      "publishedAt": "Wed, 04 Nov 2026 13:00:00 +0000"
     },
     {
-      "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
-      "summary": "LO:TECH lève 12 millions de dollars pour étendre ses activités de trading crypto aux États-Unis et en Asie.",
+      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+      "summary": "Le token RUNE de THORChain a augmenté de 10% alors que des pirates nord-coréens reprennent le blanchiment de fonds volés sur Binance.",
       "summaries": {
-        "fr": "LO:TECH lève 12 millions de dollars pour étendre ses activités de trading crypto aux États-Unis et en Asie.",
-        "en": "LO:TECH raises $12 million to expand its crypto trading operations into the U.S. and Asia.",
-        "es": "LO:TECH recauda 12 millones de dólares para expandir sus operaciones de trading de criptomonedas en EE.UU. y Asia.",
-        "de": "LO:TECH sammelt 12 Millionen Dollar, um den Kryptohandel in den USA und Asien auszubauen.",
-        "pt-BR": "LO:TECH arrecada 12 milhões de dólares para expandir suas operações de trading de cripto nos EUA e na Ásia.",
-        "hi": "एलओ:टेक ने अमेरिका और एशिया में क्रिप्टो ट्रेडिंग का विस्तार करने के लिए 12 मिलियन डॉलर जुटाए।"
+        "fr": "Le token RUNE de THORChain a augmenté de 10% alors que des pirates nord-coréens reprennent le blanchiment de fonds volés sur Binance.",
+        "en": "THORChain's RUNE token surged 10% as North Korean hackers resumed laundering funds stolen from Binance.",
+        "es": "El token RUNE de THORChain subió un 10% mientras hackers norcoreanos reanudaron el lavado de fondos robados de Binance.",
+        "de": "Der RUNE-Token von THORChain stieg um 10%, während nordkoreanische Hacker das Waschen von gestohlenen Geldern von Binance wieder aufnahmen.",
+        "pt-BR": "O token RUNE da THORChain subiu 10% enquanto hackers norte-coreanos retomaram a lavagem de fundos roubados da Binance.",
+        "hi": "थॉरचेन का रून टोकन 10% बढ़ा जब उत्तर कोरियाई हैकर्स ने बिनेंस से चुराए गए फंड की लॉन्ड्रिंग फिर से शुरू की।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
-      "publishedAt": "Tue, 03 Nov 2026 14:00:00 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+      "publishedAt": "Wed, 04 Nov 2026 12:49:56 +0000"
     },
     {
-      "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
-      "summary": "Binance a enregistré des sorties nettes de 5,3 milliards de dollars après un piratage record, mais son PDG affirme que la reprise est en cours.",
+      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
+      "summary": "Circle dépasse les attentes de revenus mais annonce une réduction de 5 % de ses effectifs.",
       "summaries": {
-        "fr": "Binance a enregistré des sorties nettes de 5,3 milliards de dollars après un piratage record, mais son PDG affirme que la reprise est en cours.",
-        "en": "Binance experienced $5.3 billion in net outflows following a record hack, with the CEO stating recovery efforts are underway.",
-        "es": "Binance registró salidas netas de 5.300 millones de dólares tras un hackeo récord, pero su CEO afirma que la recuperación está en marcha.",
-        "de": "Binance verzeichnete Nettoabflüsse in Höhe von 5,3 Milliarden Dollar nach einem Rekord-Hack, der CEO erklärte jedoch, die Erholung sei im Gange.",
-        "pt-BR": "A Binance registrou saídas líquidas de 5,3 bilhões de dólares após um hack recorde, mas o CEO afirmou que a recuperação está em andamento.",
-        "hi": "बिनेंस में रिकॉर्ड हैक के बाद 5.3 अरब डॉलर की शुद्ध निकासी हुई, सीईओ ने कहा कि सुधार कार्य जारी है।"
+        "fr": "Circle dépasse les attentes de revenus mais annonce une réduction de 5 % de ses effectifs.",
+        "en": "Circle exceeds earnings expectations with strong revenue but cuts 5% of its workforce.",
+        "es": "Circle supera las expectativas de ingresos pero recorta el 5 % de su plantilla.",
+        "de": "Circle übertrifft die Gewinnerwartungen bei starken Einnahmen, baut aber 5 % der Belegschaft ab.",
+        "pt-BR": "Circle supera expectativas de lucro com receita forte, mas corta 5% de sua força de trabalho.",
+        "hi": "सर्कल ने मजबूत राजस्व के साथ कमाई की उम्मीदों को पार किया, लेकिन अपने 5% कर्मचारियों की छंटनी की।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
-      "publishedAt": "Tue, 03 Nov 2026 12:57:28 +0000"
-    },
-    {
-      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
-      "summary": "Les groupes crypto ont dépensé environ 176 millions de dollars avant les élections de mi-mandat américaines de 2026, avec le contrôle du Congrès et l'avenir de la législation crypto en jeu.",
-      "summaries": {
-        "fr": "Les groupes crypto ont dépensé environ 176 millions de dollars avant les élections de mi-mandat américaines de 2026, avec le contrôle du Congrès et l'avenir de la législation crypto en jeu.",
-        "en": "Crypto groups spent around $176 million ahead of the 2026 US midterms, with control of Congress and the future of crypto legislation at stake.",
-        "es": "Grupos de criptomonedas gastaron alrededor de 176 millones de dólares antes de las elecciones de mitad de período en EE.UU. de 2026, con el control del Congreso y el futuro de la legislación sobre cripto en juego.",
-        "de": "Krypto-Gruppen gaben vor den US-Zwischenwahlen 2026 etwa 176 Millionen Dollar aus, wobei die Kontrolle über den Kongress und die Zukunft der Krypto-Gesetzgebung auf dem Spiel stehen.",
-        "pt-BR": "Grupos de cripto gastaram cerca de 176 milhões de dólares antes das eleições de meio de mandato dos EUA em 2026, com o controle do Congresso e o futuro da legislação de cripto em jogo.",
-        "hi": "2026 के अमेरिकी मध्यावधि चुनावों से पहले क्रिप्टो समूहों ने लगभग 176 मिलियन डॉलर खर्च किए, जिसमें कांग्रेस का नियंत्रण और क्रिप्टो कानून का भविष्य दांव पर है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 13:53:07 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+      "publishedAt": "Wed, 04 Nov 2026 12:33:54 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -100,56 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक प्रवृत्तियों और घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 13:50:51 +0000"
+      "publishedAt": "Wed, 04 Nov 2026 13:47:43 +0000"
     },
     {
-      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
-      "summary": "La Bourse de Moscou prévoit de lancer le trading de Bitcoin, Ether et USDT en décembre sous la nouvelle loi russe, avec des limites d'achat annuelles pour les investisseurs non qualifiés.",
+      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+      "summary": "La France propose une obligation de déclaration pour les détenteurs de cryptomonnaies en auto-custodie d'une valeur d'au moins 100 000 euros, sous réserve d'approbation budgétaire.",
       "summaries": {
-        "fr": "La Bourse de Moscou prévoit de lancer le trading de Bitcoin, Ether et USDT en décembre sous la nouvelle loi russe, avec des limites d'achat annuelles pour les investisseurs non qualifiés.",
-        "en": "The Moscow Exchange plans to launch Bitcoin, Ether, and USDT trading in December under Russia's new law, with annual purchase limits for non-qualified investors.",
-        "es": "La Bolsa de Moscú plane lanzar el trading de Bitcoin, Ether y USDT en diciembre bajo la nueva ley rusa, con límites anuales de compra para inversores no cualificados.",
-        "de": "Die Moskauer Börse plant, im Dezember den Handel mit Bitcoin, Ether und USDT gemäß dem neuen russischen Gesetz einzuführen, mit jährlichen Kaufbeschränkungen für nicht qualifizierte Anleger.",
-        "pt-BR": "A Bolsa de Moscou planeja lançar a negociação de Bitcoin, Ether e USDT em dezembro sob a nova lei russa, com limites anuais de compra para investidores não qualificados.",
-        "hi": "मॉस्को एक्सचेंज दिसंबर में रूस के नए कानून के तहत बिटकॉइन, एथर और यूएसडीटी ट्रेडिंग शुरू करने की योजना बना रहा है, जिसमें गैर-योग्य निवेशकों के लिए वार्षिक खरीद सीमाएँ होंगी।"
+        "fr": "La France propose une obligation de déclaration pour les détenteurs de cryptomonnaies en auto-custodie d'une valeur d'au moins 100 000 euros, sous réserve d'approbation budgétaire.",
+        "en": "France proposes a reporting requirement for self-custodied crypto holdings worth at least 100,000 euros, pending budget approval.",
+        "es": "Francia propone un requisito de declaración para criptoactivos en autocustodia valorados en al menos 100.000 euros, sujeto a aprobación presupuestaria.",
+        "de": "Frankreich schlägt eine Meldepflicht für selbst verwahrte Kryptowährungen im Wert von mindestens 100.000 Euro vor, vorbehaltlich der Haushaltsgenehmigung.",
+        "pt-BR": "A França propõe uma obrigação de declaração para criptoativos em autocustódia no valor de pelo menos 100.000 euros, sujeita à aprovação orçamentária.",
+        "hi": "फ़्रांस ने 100,000 यूरो या उससे अधिक मूल्य के स्व-संरक्षित क्रिप्टो पर रिपोर्टिंग का समर्थन किया है, बजट प्रक्रिया की मंजूरी बाकी है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 13:15:47 +0000"
+      "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 13:44:52 +0000"
     },
     {
-      "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
-      "summary": "Le token NEAR chute de 7% après l'adoption d'une proposition réduisant de 11,8 millions l'émission annuelle de tokens sur deux ans, soit environ 45 millions de dollars.",
+      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
+      "summary": "Le cours du CC de Canton a augmenté de 4% après qu'un avis du personnel de la SEC le considère comme une 'marchandise numérique', sans que cela ne constitue une décision juridique contraignante.",
       "summaries": {
-        "fr": "Le token NEAR chute de 7% après l'adoption d'une proposition réduisant de 11,8 millions l'émission annuelle de tokens sur deux ans, soit environ 45 millions de dollars.",
-        "en": "The NEAR token drops 7% after a proposal to reduce annual token issuance by 11.8 million over two years, worth about $45 million, passes.",
-        "es": "El token NEAR cae un 7% tras aprobarse una propuesta para reducir la emisión anual de tokens en 11,8 millones durante dos años, valorados en unos 45 millones de dólares.",
-        "de": "Der NEAR-Token fällt um 7%, nachdem ein Vorschlag zur Reduzierung der jährlichen Token-Ausgabe um 11,8 Millionen über zwei Jahre, im Wert von etwa 45 Millionen Dollar, angenommen wurde.",
-        "pt-BR": "O token NEAR cai 7% após a aprovação de uma proposta para reduzir a emissão anual de tokens em 11,8 milhões ao longo de dois anos, avaliados em cerca de 45 milhões de dólares.",
-        "hi": "एनईएआर टोकन में 7% की गिरावट आई क्योंकि वार्षिक टोकन जारी करने में कटौती का प्रस्ताव पारित हो गया, जिससे दो वर्षों में 11.8 मिलियन टोकन की कमी आएगी, जिसकी कीमत आज के मूल्य पर लगभग 45 मिलियन डॉलर है।"
+        "fr": "Le cours du CC de Canton a augmenté de 4% après qu'un avis du personnel de la SEC le considère comme une 'marchandise numérique', sans que cela ne constitue une décision juridique contraignante.",
+        "en": "Canton’s CC rose 4% after SEC staff viewed it as a 'digital commodity' in a no-action letter, though this is not a binding legal ruling.",
+        "es": "El CC de Canton subió un 4% tras ser considerado una 'materia prima digital' por el personal de la SEC, aunque no es un fallo legal vinculante.",
+        "de": "Der Kurs von Cantons CC stieg um 4%, nachdem Mitarbeiter der SEC es in einem No-Action-Letter als 'digitales Gut' einstuften, was jedoch keine verbindliche rechtliche Entscheidung darstellt.",
+        "pt-BR": "O CC de Canton subiu 4% após a equipe da SEC considerá-lo uma 'commodity digital', embora isso não seja uma decisão legal vinculante.",
+        "hi": "कैंटन के सीसी में 4% की वृद्धि हुई जब एसईसी के कर्मचारियों ने इसे 'डिजिटल कमोडिटी' माना, हालांकि यह कोई बाध्यकारी कानूनी निर्णय नहीं है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 12:30:13 +0000"
+      "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 12:12:15 +0000"
     },
     {
-      "title": "Binance’s net inflows turn positive at $2.3B as withdrawals expand",
-      "summary": "Binance enregistre des entrées nettes positives de 2,3 milliards de dollars après des retraits massifs, suite à la réouverture des accès aux fonds post-piratage de 6,3 milliards.",
+      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
+      "summary": "Zach Pandl de Grayscale estime que le piratage de Binance, record à 6,3 milliards de dollars, pourrait n'être qu'un revers temporaire pour les cryptomonnaies, soulignant les mesures de sécurité institutionnelles.",
       "summaries": {
-        "fr": "Binance enregistre des entrées nettes positives de 2,3 milliards de dollars après des retraits massifs, suite à la réouverture des accès aux fonds post-piratage de 6,3 milliards.",
-        "en": "Binance reports $2.3 billion in net inflows after heavy withdrawals, following the restoration of fund access post a $6.3 billion hack.",
-        "es": "Binance registra entradas netas de 2.300 millones de dólares tras retiros masivos, luego de restablecer el acceso a fondos tras un hackeo de 6.300 millones.",
-        "de": "Binance verzeichnet Nettozuflüsse von 2,3 Mrd. Dollar nach starken Abflüssen, nachdem der Zugang zu Geldern nach einem Hack von 6,3 Mrd. Dollar wiederhergestellt wurde.",
-        "pt-BR": "Binance registra entradas líquidas de 2,3 bilhões de dólares após saques massivos, após restaurar o acesso aos fundos após um hack de 6,3 bilhões.",
-        "hi": "बिनेंस ने 6.3 अरब डॉलर के हैक के बाद फंड एक्सेस बहाल होने के बाद भारी निकासी के बाद 2.3 अरब डॉलर का शुद्ध प्रवाह दर्ज किया।"
+        "fr": "Zach Pandl de Grayscale estime que le piratage de Binance, record à 6,3 milliards de dollars, pourrait n'être qu'un revers temporaire pour les cryptomonnaies, soulignant les mesures de sécurité institutionnelles.",
+        "en": "Grayscale's Zach Pandl suggests the $6.3 billion Binance hack may only be a temporary setback for crypto, emphasizing institutional custody safeguards.",
+        "es": "Zach Pandl de Grayscale considera que el hackeo récord de Binance por 6.300 millones de dólares podría ser solo un contratiempo temporal para las criptomonedas, destacando las medidas de custodia institucional.",
+        "de": "Zach Pandl von Grayscale sieht den 6,3-Milliarden-Dollar-Hack bei Binance möglicherweise nur als vorübergehenden Rückschlag für Krypto und betont institutionelle Verwahrungssicherheiten.",
+        "pt-BR": "Zach Pandl da Grayscale afirma que o hack recorde de 6,3 bilhões de dólares na Binance pode ser apenas um revés temporário para as criptomoedas, destacando as salvaguardas de custódia institucional.",
+        "hi": "ग्रेस्केल के ज़ैक पैंडल का मानना है कि 6.3 अरब डॉलर के बिनेंस हैक से क्रिप्टोकरेंसी को केवल अस्थायी झटका लगा है, उन्होंने संस्थागत कस्टडी सुरक्षा उपायों पर जोर दिया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Tue, 03 Nov 2026 11:32:02 +0000"
+      "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 11:11:57 +0000"
+    },
+    {
+      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
+      "summary": "Justin Sun demande des sanctions de 264 000 $ contre World Liberty pour une divulgation aux Émirats arabes unis et prévoit de relancer son procès pour gel de tokens en Californie.",
+      "summaries": {
+        "fr": "Justin Sun demande des sanctions de 264 000 $ contre World Liberty pour une divulgation aux Émirats arabes unis et prévoit de relancer son procès pour gel de tokens en Californie.",
+        "en": "Justin Sun seeks $264K in sanctions against World Liberty over a UAE disclosure and plans to refile his token-freeze lawsuit in California state court.",
+        "es": "Justin Sun solicita sanciones de 264.000 $ contra World Liberty por una divulgación en los Emiratos Árabes Unidos y planea volver a presentar su demanda para congelar tokens en California.",
+        "de": "Justin Sun fordert 264.000 $ Sanktionen gegen World Liberty wegen einer Offenlegung in den VAE und plant, seine Klage auf Einfrieren von Token in Kalifornien neu einzureichen.",
+        "pt-BR": "Justin Sun busca sanções de US$ 264 mil contra a World Liberty por uma divulgação nos Emirados Árabes Unidos e planeja reapresentar sua ação judicial para congelamento de tokens na Califórnia.",
+        "hi": "जस्टिन सन यूएई में प्रकटीकरण को लेकर वर्ल्ड लिबर्टी के खिलाफ 264,000 डॉलर का जुर्माना चाहते हैं और कैलिफोर्निया में अपने टोकन-फ्रीज मुकदमे को फिर से दायर करने की योजना बना रहे हैं।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Wed, 04 Nov 2026 10:30:42 +0000"
     }
   ]
 }
