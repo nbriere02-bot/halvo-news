@@ -1,80 +1,80 @@
 {
-  "generatedAt": "04/11/2026 15:16 UTC",
+  "generatedAt": "05/11/2026 15:17 UTC",
   "items": [
     {
-      "title": "The election changes Washington. The work on crypto continues",
-      "summary": "Les résultats des élections aux États-Unis n'interrompent pas les travaux législatifs en cours sur la régulation des cryptomonnaies.",
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+      "summary": "Le PDG de Gate.io affirme que les plateformes d'échange de cryptomonnaies doivent démontrer leur capacité à survivre à une cyberattaque similaire à celle subie par Binance.",
       "summaries": {
-        "fr": "Les résultats des élections aux États-Unis n'interrompent pas les travaux législatifs en cours sur la régulation des cryptomonnaies.",
-        "en": "U.S. election results do not halt ongoing legislative efforts to regulate cryptocurrencies.",
-        "es": "Los resultados electorales en EE.UU. no detienen los esfuerzos legislativos en curso para regular las criptomonedas.",
-        "de": "Die Wahlergebnisse in den USA unterbrechen die laufenden gesetzgeberischen Arbeiten zur Regulierung von Kryptowährungen nicht.",
-        "pt-BR": "Os resultados das eleições nos EUA não interrompem os esforços legislativos em andamento para regular as criptomoedas.",
-        "hi": "अमेरिका में चुनाव के नतीजे क्रिप्टोकरेंसी को विनियमित करने के लिए चल रहे विधायी प्रयासों को बाधित नहीं करते।"
+        "fr": "Le PDG de Gate.io affirme que les plateformes d'échange de cryptomonnaies doivent démontrer leur capacité à survivre à une cyberattaque similaire à celle subie par Binance.",
+        "en": "Gate.io's CEO states that crypto exchanges must prove they can survive a hack similar to Binance's.",
+        "es": "El CEO de Gate.io afirma que los exchanges de criptomonedas deben demostrar que pueden sobrevivir a un hackeo como el de Binance.",
+        "de": "Der CEO von Gate.io erklärt, dass Krypto-Börsen beweisen müssen, dass sie einen Hack wie den von Binance überstehen können.",
+        "pt-BR": "O CEO da Gate.io afirma que as exchanges de criptomoedas devem provar que conseguem sobreviver a um hack semelhante ao da Binance.",
+        "hi": "गेट.आईओ के सीईओ का कहना है कि क्रिप्टो एक्सचेंजों को यह साबित करना होगा कि वे बिनेंस जैसी हैकिंग से बच सकते हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
-      "publishedAt": "Wed, 04 Nov 2026 14:25:12 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+      "publishedAt": "Thu, 05 Nov 2026 14:21:50 +0000"
     },
     {
-      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-      "summary": "Bitcoin et les actions ont fortement rebondi après une chute nocturne, suite à la victoire démocrate qualifiée de 'Blue Wave'.",
+      "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+      "summary": "Payward, société mère de Kraken, et ses clients ont acheté des tokens AAVE dans le cadre d'un investissement dans la finance décentralisée (DeFi).",
       "summaries": {
-        "fr": "Bitcoin et les actions ont fortement rebondi après une chute nocturne, suite à la victoire démocrate qualifiée de 'Blue Wave'.",
-        "en": "Bitcoin and stocks surged, recovering from an overnight plunge following the Democratic 'Blue Wave' victory.",
-        "es": "Bitcoin y las acciones registraron fuertes ganancias, revirtiendo una caída nocturna tras la victoria demócrata llamada 'Blue Wave'.",
-        "de": "Bitcoin und Aktien erholten sich stark nach einem nächtlichen Einbruch infolge des demokratischen 'Blue Wave'-Siegs.",
-        "pt-BR": "Bitcoin e ações tiveram grandes ganhos, revertendo uma queda noturna após a vitória democrata chamada de 'Onda Azul'.",
-        "hi": "बिटकॉइन और शेयरों में तेजी आई, रातभर की गिरावट के बाद डेमोक्रेटिक 'ब्लू वेव' जीत के बाद उछाल देखा गया।"
+        "fr": "Payward, société mère de Kraken, et ses clients ont acheté des tokens AAVE dans le cadre d'un investissement dans la finance décentralisée (DeFi).",
+        "en": "Payward, the parent company of Kraken, and its clients purchased AAVE tokens as part of a DeFi investment push.",
+        "es": "Payward, matriz de Kraken, y sus clientes compraron tokens AAVE como parte de una inversión en finanzas descentralizadas (DeFi).",
+        "de": "Payward, die Muttergesellschaft von Kraken, und ihre Kunden haben AAVE-Tokens im Rahmen einer Investition in dezentrale Finanzen (DeFi) gekauft.",
+        "pt-BR": "Payward, controladora da Kraken, e seus clientes compraram tokens AAVE como parte de um investimento em finanças descentralizadas (DeFi).",
+        "hi": "क्रैकेन की मूल कंपनी पेवर्ड और उसके ग्राहकों ने डेफी निवेश के हिस्से के रूप में एएवीई टोकन खरीदे।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
-      "publishedAt": "Wed, 04 Nov 2026 14:00:53 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+      "publishedAt": "Thu, 05 Nov 2026 14:00:00 +0000"
     },
     {
-      "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
-      "summary": "Le gestionnaire d'actifs mondial Schroders lance un fonds obligataire des marchés émergents sur la blockchain Solana.",
+      "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+      "summary": "Google pourrait prendre une participation dans le mineur de Bitcoin TeraWulf, évalué à 19 milliards de dollars, dans le cadre d'un projet d'IA si Anthropic fait défaut.",
       "summaries": {
-        "fr": "Le gestionnaire d'actifs mondial Schroders lance un fonds obligataire des marchés émergents sur la blockchain Solana.",
-        "en": "Global asset manager Schroders introduces an emerging market bond fund on the Solana blockchain.",
-        "es": "El gestor de activos global Schroders lanza un fondo de bonos de mercados emergentes en la blockchain Solana.",
-        "de": "Der globale Vermögensverwalter Schroders bringt einen Anleihenfonds für Schwellenländer auf die Solana-Blockchain.",
-        "pt-BR": "A gestora global de ativos Schroders lança um fundo de títulos de mercados emergentes na blockchain Solana.",
-        "hi": "वैश्विक संपत्ति प्रबंधक श्रोडर्स सोलाना ब्लॉकचेन पर उभरते बाजारों के बॉन्ड फंड को लॉन्च कर रहा है।"
+        "fr": "Google pourrait prendre une participation dans le mineur de Bitcoin TeraWulf, évalué à 19 milliards de dollars, dans le cadre d'un projet d'IA si Anthropic fait défaut.",
+        "en": "Google may take a stake in Bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults.",
+        "es": "Google podría tomar una participación en el proyecto de IA de 19 mil millones de dólares del minero de Bitcoin TeraWulf si Anthropic incumple.",
+        "de": "Google könnte eine Beteiligung am 19-Milliarden-Dollar-KI-Projekt des Bitcoin-Miners TeraWulf übernehmen, falls Anthropic ausfällt.",
+        "pt-BR": "O Google pode assumir uma participação no projeto de IA de US$ 19 bilhões da mineradora de Bitcoin TeraWulf se a Anthropic entrar em default.",
+        "hi": "यदि एंथ्रोपिक डिफॉल्ट करता है, तो गूगल बिटकॉइन माइनर टेरावुल्फ के 19 बिलियन डॉलर के एआई प्रोजेक्ट में हिस्सेदारी ले सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
-      "publishedAt": "Wed, 04 Nov 2026 13:00:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+      "publishedAt": "Thu, 05 Nov 2026 13:29:40 +0000"
     },
     {
-      "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-      "summary": "Le token RUNE de THORChain a augmenté de 10% alors que des pirates nord-coréens reprennent le blanchiment de fonds volés sur Binance.",
+      "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+      "summary": "Binance a restreint l'accès à SignalPlus après un avertissement de sécurité et invite ses utilisateurs à vérifier leurs comptes.",
       "summaries": {
-        "fr": "Le token RUNE de THORChain a augmenté de 10% alors que des pirates nord-coréens reprennent le blanchiment de fonds volés sur Binance.",
-        "en": "THORChain's RUNE token surged 10% as North Korean hackers resumed laundering funds stolen from Binance.",
-        "es": "El token RUNE de THORChain subió un 10% mientras hackers norcoreanos reanudaron el lavado de fondos robados de Binance.",
-        "de": "Der RUNE-Token von THORChain stieg um 10%, während nordkoreanische Hacker das Waschen von gestohlenen Geldern von Binance wieder aufnahmen.",
-        "pt-BR": "O token RUNE da THORChain subiu 10% enquanto hackers norte-coreanos retomaram a lavagem de fundos roubados da Binance.",
-        "hi": "थॉरचेन का रून टोकन 10% बढ़ा जब उत्तर कोरियाई हैकर्स ने बिनेंस से चुराए गए फंड की लॉन्ड्रिंग फिर से शुरू की।"
+        "fr": "Binance a restreint l'accès à SignalPlus après un avertissement de sécurité et invite ses utilisateurs à vérifier leurs comptes.",
+        "en": "Binance has restricted access to SignalPlus following a security warning and urges users to review their accounts.",
+        "es": "Binance ha restringido el acceso a SignalPlus tras una advertencia de seguridad e insta a los usuarios a revisar sus cuentas.",
+        "de": "Binance hat den Zugang zu SignalPlus nach einer Sicherheitswarnung eingeschränkt und fordert Nutzer auf, ihre Konten zu überprüfen.",
+        "pt-BR": "A Binance restringiu o acesso ao SignalPlus após um alerta de segurança e pede aos usuários que verifiquem suas contas.",
+        "hi": "सुरक्षा चेतावनी के बाद बिनेंस ने सिग्नलप्लस तक पहुंच को प्रतिबंधित कर दिया है और उपयोगकर्ताओं से अपने खातों की जांच करने का आग्रह किया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
-      "publishedAt": "Wed, 04 Nov 2026 12:49:56 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+      "publishedAt": "Thu, 05 Nov 2026 12:55:03 +0000"
     },
     {
-      "title": "Circle beats earnings expectations on strong revenue, but cuts 5% of its workforce",
-      "summary": "Circle dépasse les attentes de revenus mais annonce une réduction de 5 % de ses effectifs.",
+      "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
+      "summary": "La banque centrale ukrainienne s'oppose à un projet de loi sur les cryptomonnaies, invoquant des risques pour la souveraineté monétaire.",
       "summaries": {
-        "fr": "Circle dépasse les attentes de revenus mais annonce une réduction de 5 % de ses effectifs.",
-        "en": "Circle exceeds earnings expectations with strong revenue but cuts 5% of its workforce.",
-        "es": "Circle supera las expectativas de ingresos pero recorta el 5 % de su plantilla.",
-        "de": "Circle übertrifft die Gewinnerwartungen bei starken Einnahmen, baut aber 5 % der Belegschaft ab.",
-        "pt-BR": "Circle supera expectativas de lucro com receita forte, mas corta 5% de sua força de trabalho.",
-        "hi": "सर्कल ने मजबूत राजस्व के साथ कमाई की उम्मीदों को पार किया, लेकिन अपने 5% कर्मचारियों की छंटनी की।"
+        "fr": "La banque centrale ukrainienne s'oppose à un projet de loi sur les cryptomonnaies, invoquant des risques pour la souveraineté monétaire.",
+        "en": "Ukraine's central bank opposes a crypto bill, citing concerns over monetary sovereignty.",
+        "es": "El banco central de Ucrania se opone a un proyecto de ley sobre criptomonedas, alegando riesgos para la soberanía monetaria.",
+        "de": "Die ukrainische Zentralbank lehnt einen Gesetzentwurf zu Kryptowährungen ab und verweist auf Bedenken hinsichtlich der monetären Souveränität.",
+        "pt-BR": "O banco central da Ucrânia se opõe a um projeto de lei sobre criptomoedas, citando preocupações com a soberania monetária.",
+        "hi": "यूक्रेन का केंद्रीय बैंक क्रिप्टोकरेंसी विधेयक का विरोध कर रहा है, मौद्रिक संप्रभुता को लेकर चिंताओं का हवाला देते हुए।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
-      "publishedAt": "Wed, 04 Nov 2026 12:33:54 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+      "publishedAt": "Thu, 05 Nov 2026 12:50:57 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -85,71 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक प्रवृत्तियों और घटनाओं का सारांश।"
+        "hi": "क्रिप्टोकरेंसी में आज की प्रवृत्तियों और घटनाओं का सारांश, जो बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करते हैं।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 13:47:43 +0000"
+      "publishedAt": "Thu, 05 Nov 2026 13:46:01 +0000"
     },
     {
-      "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
-      "summary": "La France propose une obligation de déclaration pour les détenteurs de cryptomonnaies en auto-custodie d'une valeur d'au moins 100 000 euros, sous réserve d'approbation budgétaire.",
+      "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
+      "summary": "Le PDG de VeChain, Sunny Lu, affirme que la blockchain est une solution idéale pour établir la confiance dans les agents d'IA, en soulignant le besoin de systèmes d'identité et de réputation.",
       "summaries": {
-        "fr": "La France propose une obligation de déclaration pour les détenteurs de cryptomonnaies en auto-custodie d'une valeur d'au moins 100 000 euros, sous réserve d'approbation budgétaire.",
-        "en": "France proposes a reporting requirement for self-custodied crypto holdings worth at least 100,000 euros, pending budget approval.",
-        "es": "Francia propone un requisito de declaración para criptoactivos en autocustodia valorados en al menos 100.000 euros, sujeto a aprobación presupuestaria.",
-        "de": "Frankreich schlägt eine Meldepflicht für selbst verwahrte Kryptowährungen im Wert von mindestens 100.000 Euro vor, vorbehaltlich der Haushaltsgenehmigung.",
-        "pt-BR": "A França propõe uma obrigação de declaração para criptoativos em autocustódia no valor de pelo menos 100.000 euros, sujeita à aprovação orçamentária.",
-        "hi": "फ़्रांस ने 100,000 यूरो या उससे अधिक मूल्य के स्व-संरक्षित क्रिप्टो पर रिपोर्टिंग का समर्थन किया है, बजट प्रक्रिया की मंजूरी बाकी है।"
+        "fr": "Le PDG de VeChain, Sunny Lu, affirme que la blockchain est une solution idéale pour établir la confiance dans les agents d'IA, en soulignant le besoin de systèmes d'identité et de réputation.",
+        "en": "VeChain CEO Sunny Lu states that blockchain is the perfect solution for AI agent trust, emphasizing the need for identity and reputation systems.",
+        "es": "El CEO de VeChain, Sunny Lu, afirma que la blockchain es la solución perfecta para la confianza en agentes de IA, destacando la necesidad de sistemas de identidad y reputación.",
+        "de": "VeChain-CEO Sunny Lu erklärt, dass die Blockchain die perfekte Lösung für das Vertrauen in KI-Agenten ist und betont die Notwendigkeit von Identitäts- und Reputationssystemen.",
+        "pt-BR": "O CEO da VeChain, Sunny Lu, afirma que a blockchain é a solução perfeita para a confiança em agentes de IA, destacando a necessidade de sistemas de identidade e reputação.",
+        "hi": "वीचेन के सीईओ सनी लू ने कहा कि एआई एजेंटों में विश्वास के लिए ब्लॉकचेन 'सही समाधान' है, पहचान और प्रतिष्ठा प्रणालियों की आवश्यकता पर जोर दिया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 13:44:52 +0000"
+      "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 13:34:57 +0000"
     },
     {
-      "title": "Canton’s CC rises 4% as SEC staff view it as ‘digital commodity’",
-      "summary": "Le cours du CC de Canton a augmenté de 4% après qu'un avis du personnel de la SEC le considère comme une 'marchandise numérique', sans que cela ne constitue une décision juridique contraignante.",
+      "title": "Can decentralized phone networks power the AI revolution?",
+      "summary": "Des réseaux d'IA décentralisés cherchent à transformer les téléphones ordinaires en infrastructure informatique alternative, mais les sceptiques restent dubitatifs.",
       "summaries": {
-        "fr": "Le cours du CC de Canton a augmenté de 4% après qu'un avis du personnel de la SEC le considère comme une 'marchandise numérique', sans que cela ne constitue une décision juridique contraignante.",
-        "en": "Canton’s CC rose 4% after SEC staff viewed it as a 'digital commodity' in a no-action letter, though this is not a binding legal ruling.",
-        "es": "El CC de Canton subió un 4% tras ser considerado una 'materia prima digital' por el personal de la SEC, aunque no es un fallo legal vinculante.",
-        "de": "Der Kurs von Cantons CC stieg um 4%, nachdem Mitarbeiter der SEC es in einem No-Action-Letter als 'digitales Gut' einstuften, was jedoch keine verbindliche rechtliche Entscheidung darstellt.",
-        "pt-BR": "O CC de Canton subiu 4% após a equipe da SEC considerá-lo uma 'commodity digital', embora isso não seja uma decisão legal vinculante.",
-        "hi": "कैंटन के सीसी में 4% की वृद्धि हुई जब एसईसी के कर्मचारियों ने इसे 'डिजिटल कमोडिटी' माना, हालांकि यह कोई बाध्यकारी कानूनी निर्णय नहीं है।"
+        "fr": "Des réseaux d'IA décentralisés cherchent à transformer les téléphones ordinaires en infrastructure informatique alternative, mais les sceptiques restent dubitatifs.",
+        "en": "Decentralized AI networks aim to turn everyday phones into an alternative to centralized computing infrastructure, though skeptics remain doubtful.",
+        "es": "Las redes de IA descentralizadas buscan convertir teléfonos comunes en una alternativa a la infraestructura informática centralizada, aunque los escépticos dudan.",
+        "de": "Dezentrale KI-Netzwerke wollen Alltagshandys in eine Alternative zu zentralisierter Recheninfrastruktur verwandeln, doch Skeptiker bleiben skeptisch.",
+        "pt-BR": "Redes de IA descentralizadas buscam transformar celulares comuns em uma alternativa à infraestrutura computacional centralizada, mas céticos permanecem incrédulos.",
+        "hi": "विकेंद्रीकृत एआई नेटवर्क रोज़मर्रा के फ़ोन को केंद्रीकृत कंप्यूटिंग इंफ्रास्ट्रक्चर का विकल्प बनाने की कोशिश कर रहे हैं, लेकिन संदेहवादी संशय में हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 12:12:15 +0000"
+      "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 13:30:00 +0000"
     },
     {
-      "title": "Binance hack may be ‘temporary setback’ for crypto, Grayscale’s Pandl says",
-      "summary": "Zach Pandl de Grayscale estime que le piratage de Binance, record à 6,3 milliards de dollars, pourrait n'être qu'un revers temporaire pour les cryptomonnaies, soulignant les mesures de sécurité institutionnelles.",
+      "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
+      "summary": "Selon Scaramucci, les investissements de Trump dans des memecoins ont contribué à faire échouer le CLARITY Act, en plus de désaccords sur les restrictions éthiques.",
       "summaries": {
-        "fr": "Zach Pandl de Grayscale estime que le piratage de Binance, record à 6,3 milliards de dollars, pourrait n'être qu'un revers temporaire pour les cryptomonnaies, soulignant les mesures de sécurité institutionnelles.",
-        "en": "Grayscale's Zach Pandl suggests the $6.3 billion Binance hack may only be a temporary setback for crypto, emphasizing institutional custody safeguards.",
-        "es": "Zach Pandl de Grayscale considera que el hackeo récord de Binance por 6.300 millones de dólares podría ser solo un contratiempo temporal para las criptomonedas, destacando las medidas de custodia institucional.",
-        "de": "Zach Pandl von Grayscale sieht den 6,3-Milliarden-Dollar-Hack bei Binance möglicherweise nur als vorübergehenden Rückschlag für Krypto und betont institutionelle Verwahrungssicherheiten.",
-        "pt-BR": "Zach Pandl da Grayscale afirma que o hack recorde de 6,3 bilhões de dólares na Binance pode ser apenas um revés temporário para as criptomoedas, destacando as salvaguardas de custódia institucional.",
-        "hi": "ग्रेस्केल के ज़ैक पैंडल का मानना है कि 6.3 अरब डॉलर के बिनेंस हैक से क्रिप्टोकरेंसी को केवल अस्थायी झटका लगा है, उन्होंने संस्थागत कस्टडी सुरक्षा उपायों पर जोर दिया।"
+        "fr": "Selon Scaramucci, les investissements de Trump dans des memecoins ont contribué à faire échouer le CLARITY Act, en plus de désaccords sur les restrictions éthiques.",
+        "en": "Scaramucci stated that Trump’s memecoin ventures contributed to derailing the CLARITY Act, alongside disputes over ethics restrictions.",
+        "es": "Scaramucci afirmó que las inversiones de Trump en memecoins contribuyeron al fracaso del CLARITY Act, junto con disputas sobre restricciones éticas.",
+        "de": "Scaramucci erklärte, dass Trumps Memecoin-Investitionen zusammen mit Streitigkeiten über Ethikbeschränkungen das CLARITY Act scheitern ließen.",
+        "pt-BR": "Scaramucci afirmou que os investimentos de Trump em memecoins contribuíram para o fracasso do CLARITY Act, além de disputas sobre restrições éticas.",
+        "hi": "स्कारामucci ने कहा कि ट्रम्प के मीमकॉइन निवेश और नैतिक प्रतिबंधों पर विवादों ने CLARITY अधिनियम को विफल करने में योगदान दिया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 11:11:57 +0000"
+      "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 12:39:36 +0000"
     },
     {
-      "title": "Justin Sun seeks $264K sanctions over World Liberty’s UAE disclosure",
-      "summary": "Justin Sun demande des sanctions de 264 000 $ contre World Liberty pour une divulgation aux Émirats arabes unis et prévoit de relancer son procès pour gel de tokens en Californie.",
+      "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+      "summary": "La Thaïlande va bloquer Bitget en décembre après une plainte pénale de son régulateur financier pour trading crypto non autorisé.",
       "summaries": {
-        "fr": "Justin Sun demande des sanctions de 264 000 $ contre World Liberty pour une divulgation aux Émirats arabes unis et prévoit de relancer son procès pour gel de tokens en Californie.",
-        "en": "Justin Sun seeks $264K in sanctions against World Liberty over a UAE disclosure and plans to refile his token-freeze lawsuit in California state court.",
-        "es": "Justin Sun solicita sanciones de 264.000 $ contra World Liberty por una divulgación en los Emiratos Árabes Unidos y planea volver a presentar su demanda para congelar tokens en California.",
-        "de": "Justin Sun fordert 264.000 $ Sanktionen gegen World Liberty wegen einer Offenlegung in den VAE und plant, seine Klage auf Einfrieren von Token in Kalifornien neu einzureichen.",
-        "pt-BR": "Justin Sun busca sanções de US$ 264 mil contra a World Liberty por uma divulgação nos Emirados Árabes Unidos e planeja reapresentar sua ação judicial para congelamento de tokens na Califórnia.",
-        "hi": "जस्टिन सन यूएई में प्रकटीकरण को लेकर वर्ल्ड लिबर्टी के खिलाफ 264,000 डॉलर का जुर्माना चाहते हैं और कैलिफोर्निया में अपने टोकन-फ्रीज मुकदमे को फिर से दायर करने की योजना बना रहे हैं।"
+        "fr": "La Thaïlande va bloquer Bitget en décembre après une plainte pénale de son régulateur financier pour trading crypto non autorisé.",
+        "en": "Thailand will block Bitget in December following a criminal complaint by its financial regulator for unlicensed crypto trading.",
+        "es": "Tailandia bloqueará Bitget en diciembre tras una denuncia penal de su regulador financiero por operar sin licencia en criptomonedas.",
+        "de": "Thailand wird Bitget im Dezember sperren, nachdem die Finanzaufsicht eine Strafanzeige wegen unlizenzierten Kryptohandels eingereicht hat.",
+        "pt-BR": "A Tailândia bloqueará a Bitget em dezembro após uma denúncia criminal do regulador financeiro por negociação de cripto sem licença.",
+        "hi": "थाईलैंड दिसंबर में बिटगेट को ब्लॉक करेगा, क्योंकि वित्तीय नियामक ने अनधिकृत क्रिप्टो ट्रेडिंग के लिए आपराधिक शिकायत दर्ज की है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Wed, 04 Nov 2026 10:30:42 +0000"
+      "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Thu, 05 Nov 2026 11:33:20 +0000"
     }
   ]
 }
