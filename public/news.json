@@ -1,95 +1,125 @@
 {
-  "generatedAt": "06/11/2026 14:52 UTC",
+  "generatedAt": "07/11/2026 13:49 UTC",
   "items": [
     {
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "summary": "La Thaïlande envisage de bloquer Bitget après des incertitudes concernant l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principales actrices de ce domaine.",
       "summaries": {
-        "fr": "La Thaïlande envisage de bloquer Bitget après des incertitudes concernant l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
+        "fr": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principales actrices de ce domaine.",
+        "en": "Apple and Meta rejected OKX and ICE's tokenized stock plans, positioning crypto firms as the key players in this space.",
+        "es": "Apple y Meta rechazaron los planes de acciones tokenizadas de OKX e ICE, dejando a las empresas de cripto como las principales protagonistas en este ámbito.",
+        "de": "Apple und Meta lehnten die Pläne von OKX und ICE für tokenisierte Aktien ab, wodurch Krypto-Unternehmen zu den wichtigsten Akteuren in diesem Bereich werden.",
+        "pt-BR": "Apple e Meta rejeitaram os planos de ações tokenizadas da OKX e ICE, deixando as empresas de cripto como as principais protagonistas nesse espaço.",
+        "hi": "एप्पल और मेटा ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक प्लान को अस्वीकार कर दिया, जिससे क्रिप्टो फर्में इस क्षेत्र में प्रमुख खिलाड़ी बन गईं।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+      "publishedAt": "Fri, 06 Nov 2026 20:09:18 +0000"
+    },
+    {
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "summary": "Un régulateur américain des marchés de prédiction a émis une exigence en conflit direct avec une décision de justice récente.",
+      "summaries": {
+        "fr": "Un régulateur américain des marchés de prédiction a émis une exigence en conflit direct avec une décision de justice récente.",
+        "en": "A U.S. prediction markets regulator issued a demand that directly clashes with recent court rulings.",
+        "es": "Un regulador estadounidense de mercados de predicción emitió una exigencia que choca directamente con decisiones judiciales recientes.",
+        "de": "Eine US-Aufsichtsbehörde für Prognosemärkte hat eine Forderung gestellt, die im direkten Widerspruch zu jüngsten Gerichtsentscheidungen steht.",
+        "pt-BR": "Um regulador americano de mercados de previsão emitiu uma exigência que entra em conflito direto com decisões judiciais recentes.",
+        "hi": "एक अमेरिकी भविष्यवाणी बाजार नियामक ने हाल ही के न्यायालयीन निर्णयों के सीधे विरोध में एक मांग जारी की है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "publishedAt": "Fri, 06 Nov 2026 17:42:28 +0000"
+    },
+    {
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "summary": "L'industrie crypto développe de nouvelles stratégies de croissance, mais leur rentabilité reste incertaine.",
+      "summaries": {
+        "fr": "L'industrie crypto développe de nouvelles stratégies de croissance, mais leur rentabilité reste incertaine.",
+        "en": "The crypto industry is developing new growth strategies, but their profitability remains uncertain.",
+        "es": "La industria crypto está desarrollando nuevas estrategias de crecimiento, pero su rentabilidad sigue siendo incierta.",
+        "de": "Die Krypto-Branche entwickelt neue Wachstumsstrategien, doch ihre Rentabilität bleibt ungewiss.",
+        "pt-BR": "A indústria de cripto está desenvolvendo novas estratégias de crescimento, mas sua rentabilidade permanece incerta.",
+        "hi": "क्रिप्टो उद्योग नई विकास रणनीतियाँ विकसित कर रहा है, लेकिन उनकी लाभप्रदता अनिश्चित बनी हुई है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "publishedAt": "Fri, 06 Nov 2026 15:26:38 +0000"
+    },
+    {
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "summary": "La Thaïlande envisage de bloquer Bitget après des incertitudes autour de l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
+      "summaries": {
+        "fr": "La Thaïlande envisage de bloquer Bitget après des incertitudes autour de l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
         "en": "Thailand is moving to block Bitget as uncertainties surround the crypto exchange's local acquisition.",
-        "es": "Tailandia planea bloquear Bitget debido a incertidumbres sobre la adquisición local de este exchange de criptomonedas.",
+        "es": "Tailandia planea bloquear a Bitget debido a incertidumbres sobre la adquisición local de este exchange de criptomonedas.",
         "de": "Thailand erwägt, Bitget zu blockieren, da die lokale Übernahme der Krypto-Börse unsicher ist.",
         "pt-BR": "A Tailândia está se movendo para bloquear a Bitget devido a incertezas sobre a aquisição local da exchange de criptomoedas.",
-        "hi": "थाईलैंड बिटगेट को ब्लॉक करने की दिशा में बढ़ रहा है क्योंकि क्रिप्टो एक्सचेंज के स्थानीय अधिग्रहण को लेकर अनिश्चितता बनी हुई है।"
+        "hi": "थाईलैंड बिटगेट को ब्लॉक करने की योजना बना रहा है क्योंकि क्रिप्टो एक्सचेंज के स्थानीय अधिग्रहण को लेकर अनिश्चितता बनी हुई है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
       "publishedAt": "Fri, 06 Nov 2026 14:33:49 +0000"
     },
     {
-      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
-      "summary": "Plus d'un milliard de dollars de positions haussières ont été liquidées, tandis que les flux des ETF au comptant n'ont pas soutenu le marché.",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "summary": "Les détenteurs de Bitcoin éligibles ont reçu un solde équivalent en ECX via le fork eCash, mais les possibilités d'utilisation et de trading restent floues.",
       "summaries": {
-        "fr": "Plus d'un milliard de dollars de positions haussières ont été liquidées, tandis que les flux des ETF au comptant n'ont pas soutenu le marché.",
-        "en": "Over $1 billion in bullish bets were liquidated, while spot ETF flows showed no support for the market.",
-        "es": "Más de mil millones de dólares en apuestas alcistas fueron liquidados, mientras que los flujos de ETF al contado no respaldaron el mercado.",
-        "de": "Über eine Milliarde Dollar an bullischen Wetten wurden liquidiert, während die Mittelzuflüsse in Spot-ETFs den Markt nicht stützten.",
-        "pt-BR": "Mais de um bilhão de dólares em apostas otimistas foram liquidados, enquanto os fluxos de ETF à vista não deram suporte ao mercado.",
-        "hi": "एक अरब डॉलर से अधिक की तेजी वाली शर्तें समाप्त कर दी गईं, जबकि स्पॉट ईटीएफ के प्रवाह ने बाजार को कोई समर्थन नहीं दिया।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
-      "publishedAt": "Fri, 06 Nov 2026 12:30:00 +0000"
-    },
-    {
-      "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
-      "summary": "Le Bitcoin recule après la publication de chiffres de l'emploi américains meilleurs que prévu en octobre, influençant les marchés.",
-      "summaries": {
-        "fr": "Le Bitcoin recule après la publication de chiffres de l'emploi américains meilleurs que prévu en octobre, influençant les marchés.",
-        "en": "Bitcoin declines following the release of stronger-than-expected U.S. October jobs data, impacting markets.",
-        "es": "El Bitcoin cae tras la publicación de datos de empleo en EE.UU. mejores de lo esperado en octubre, afectando a los mercados.",
-        "de": "Bitcoin fällt nach der Veröffentlichung besser als erwarteter US-Arbeitsmarktdaten für Oktober, was die Märkte beeinflusst.",
-        "pt-BR": "O Bitcoin recua após a divulgação de dados de emprego nos EUA melhores que o esperado em outubro, impactando os mercados.",
-        "hi": "अक्टूबर में अमेरिकी रोजगार के आंकड़े अपेक्षा से बेहतर आने के बाद बिटकॉइन की कीमत में गिरावट आई, जिससे बाजारों पर असर पड़ा।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-      "publishedAt": "Fri, 06 Nov 2026 11:58:40 +0000"
-    },
-    {
-      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-      "summary": "Le Bitcoin se stabilise après une vente massive liée à l'IA, alors que les investisseurs attendent les dernières données sur l'emploi aux États-Unis.",
-      "summaries": {
-        "fr": "Le Bitcoin se stabilise après une vente massive liée à l'IA, alors que les investisseurs attendent les dernières données sur l'emploi aux États-Unis.",
-        "en": "Bitcoin stabilizes after an AI-driven selloff as investors await the latest U.S. jobs figures.",
-        "es": "El Bitcoin se estabiliza tras una venta masiva impulsada por IA, mientras los inversores esperan los últimos datos de empleo en EE.UU.",
-        "de": "Bitcoin stabilisiert sich nach einem KI-bedingten Ausverkauf, während Anleger die neuesten US-Arbeitsmarktdaten abwarten.",
-        "pt-BR": "O Bitcoin se estabiliza após uma venda massiva impulsionada por IA, enquanto investidores aguardam os últimos dados de emprego dos EUA.",
-        "hi": "एआई के कारण हुई बिकवाली के बाद बिटकॉइन स्थिर हो रहा है, जबकि निवेशक अमेरिका के नवीनतम रोजगार आंकड़ों पर नजर रखे हुए हैं।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-      "publishedAt": "Fri, 06 Nov 2026 11:49:35 +0000"
-    },
-    {
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "summary": "Le contrôle du Congrès par les démocrates aux États-Unis pourrait influencer le CLARITY Act, avec des débats sur la protection des consommateurs et les concessions attendues de l'industrie crypto.",
-      "summaries": {
-        "fr": "Le contrôle du Congrès par les démocrates aux États-Unis pourrait influencer le CLARITY Act, avec des débats sur la protection des consommateurs et les concessions attendues de l'industrie crypto.",
-        "en": "Democrats controlling Congress in the US may impact the CLARITY Act, sparking discussions on consumer protections and potential crypto industry concessions.",
-        "es": "El control del Congreso por los demócratas en EE.UU. podría influir en la Ley CLARITY, generando debates sobre protección al consumidor y concesiones de la industria crypto.",
-        "de": "Die Kontrolle des Kongresses durch die Demokraten in den USA könnte den CLARITY Act beeinflussen und Diskussionen über Verbraucherschutz und Zugeständnisse der Krypto-Branche auslösen.",
-        "pt-BR": "O controle do Congresso pelos democratas nos EUA pode impactar o CLARITY Act, gerando debates sobre proteção ao consumidor e possíveis concessões da indústria crypto.",
-        "hi": "अमेरिका में डेमोक्रेट्स का कांग्रेस पर नियंत्रण CLARITY अधिनियम को प्रभावित कर सकता है, जिसमें उपभोक्ता संरक्षण और क्रिप्टो उद्योग की संभावित रियायतों पर चर्चा हो रही है।"
+        "fr": "Les détenteurs de Bitcoin éligibles ont reçu un solde équivalent en ECX via le fork eCash, mais les possibilités d'utilisation et de trading restent floues.",
+        "en": "Eligible Bitcoin holders received an equivalent ECX balance through the eCash fork, but trading and usage options remain unclear.",
+        "es": "Los titulares elegibles de Bitcoin recibieron un saldo equivalente en ECX a través del fork eCash, pero las opciones de uso y trading aún no están claras.",
+        "de": "Berechtigte Bitcoin-Inhaber erhielten durch das eCash-Fork ein äquivalentes ECX-Guthaben, doch Handels- und Nutzungsmöglichkeiten bleiben unklar.",
+        "pt-BR": "Detentores elegíveis de Bitcoin receberam um saldo equivalente em ECX por meio do fork eCash, mas as opções de uso e negociação ainda não estão claras.",
+        "hi": "पात्र बिटकॉइन धारकों को ईकैश फोर्क के माध्यम से ECX में समकक्ष बैलेंस प्राप्त हुआ, लेकिन इसके ट्रेडिंग और उपयोग के विकल्प अभी स्पष्ट नहीं हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 14:30:00 +0000"
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 13:30:00 +0000"
     },
     {
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "summary": "Le Nigeria interdit les stablecoins algorithmiques et impose des exigences de réserves aux émetteurs, renforçant le contrôle de la banque centrale sur les services de paiement crypto.",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "summary": "Les États-Unis sanctionnent des entreprises canadiennes de change pour leurs liens avec l'Iran, sans lien direct avec les cryptomonnaies.",
       "summaries": {
-        "fr": "Le Nigeria interdit les stablecoins algorithmiques et impose des exigences de réserves aux émetteurs, renforçant le contrôle de la banque centrale sur les services de paiement crypto.",
-        "en": "Nigeria bans algorithmic stablecoins and introduces reserve requirements for issuers, expanding central bank oversight of crypto payment services.",
-        "es": "Nigeria prohíbe los stablecoins algorítmicos e impone requisitos de reservas a los emisores, ampliando la supervisión del banco central sobre los servicios de pago con cripto.",
-        "de": "Nigeria verbietet algorithmische Stablecoins und führt Reserveanforderungen für Emittenten ein, während die Zentralbank die Aufsicht über Krypto-Zahlungsdienste ausweitet.",
-        "pt-BR": "A Nigéria proibiu stablecoins algorítmicos e estabeleceu requisitos de reservas para emissores, expandindo a supervisão do banco central sobre serviços de pagamento com cripto.",
-        "hi": "नाइजीरिया ने एल्गोरिदमिक स्टेबलकॉइन्स पर प्रतिबंध लगा दिया है और जारीकर्ताओं के लिए रिज़र्व आवश्यकताओं को लागू किया है, साथ ही क्रिप्टो भुगतान सेवाओं पर केंद्रीय बैंक की निगरानी को विस्तारित किया है।"
+        "fr": "Les États-Unis sanctionnent des entreprises canadiennes de change pour leurs liens avec l'Iran, sans lien direct avec les cryptomonnaies.",
+        "en": "The US sanctions Canadian money-exchange firms over ties with Iran, with no direct connection to cryptocurrencies.",
+        "es": "EE.UU. sanciona a empresas canadienses de cambio por vínculos con Irán, sin relación directa con las criptomonedas.",
+        "de": "Die USA verhängen Sanktionen gegen kanadische Geldwechselunternehmen wegen Verbindungen zum Iran, ohne direkten Bezug zu Kryptowährungen.",
+        "pt-BR": "Os EUA sancionam empresas canadenses de câmbio por laços com o Irã, sem relação direta com criptomoedas.",
+        "hi": "अमेरिका ने ईरान से संबंधों के कारण कनाडाई मुद्रा विनिमय फर्मों पर प्रतिबंध लगाया, क्रिप्टोकरेंसी से कोई सीधा संबंध नहीं है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 13:57:14 +0000"
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 11:10:47 +0000"
+    },
+    {
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "summary": "Des activités suspectes sur des marchés de prédiction ont été observées juste avant la publication de deux récents sondages politiques du New York Times/Siena.",
+      "summaries": {
+        "fr": "Des activités suspectes sur des marchés de prédiction ont été observées juste avant la publication de deux récents sondages politiques du New York Times/Siena.",
+        "en": "Suspicious activity was detected on prediction markets shortly before the release of two recent New York Times/Siena political polls.",
+        "es": "Se detectó actividad sospechosa en mercados de predicción justo antes de la publicación de dos recientes encuestas políticas del New York Times/Siena.",
+        "de": "Kurz vor der Veröffentlichung zweier aktueller politischer Umfragen der New York Times/Siena wurde verdächtige Aktivität auf Prognosemärkten beobachtet.",
+        "pt-BR": "Atividades suspeitas foram detectadas em mercados de previsão pouco antes da divulgação de duas recentes pesquisas políticas do New York Times/Siena.",
+        "hi": "न्यूयॉर्क टाइम्स/सिएना के दो हालिया राजनीतिक सर्वेक्षणों के जारी होने से ठीक पहले भविष्यवाणी बाजारों पर संदिग्ध गतिविधि देखी गई।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 09:10:35 +0000"
+    },
+    {
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "summary": "Nvidia pourrait faire face à un environnement politique plus hostile à Washington après les élections, indépendamment de ses relations avec Donald Trump.",
+      "summaries": {
+        "fr": "Nvidia pourrait faire face à un environnement politique plus hostile à Washington après les élections, indépendamment de ses relations avec Donald Trump.",
+        "en": "Nvidia may encounter a more adversarial political environment in Washington post-election, regardless of its ties with Donald Trump.",
+        "es": "Nvidia podría enfrentar un entorno político más hostil en Washington tras las elecciones, independientemente de sus vínculos con Donald Trump.",
+        "de": "Nvidia könnte nach der Wahl in Washington auf eine feindseligere politische Umgebung stoßen, unabhängig von seinen Beziehungen zu Donald Trump.",
+        "pt-BR": "A Nvidia pode enfrentar um ambiente político mais hostil em Washington após as eleições, independentemente de seus laços com Donald Trump.",
+        "hi": "निर्वाचन के बाद वाशिंगटन में नVIDIA को अधिक प्रतिकूल राजनीतिक माहौल का सामना करना पड़ सकता है, चाहे डोनाल्ड ट्रम्प के साथ उसके संबंध कुछ भी हों।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 07:45:24 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -99,42 +129,12 @@
         "en": "Summary of daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3, and crypto regulation.",
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
-        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं का सारांश।"
+        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 13:33:00 +0000"
-    },
-    {
-      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-      "summary": "Les développeurs d'Ethereum reportent le fork Glamsterdam sur Hoodi en attendant la résolution des risques liés aux smart contracts identifiés dans les EIP-8037 et EIP-8038.",
-      "summaries": {
-        "fr": "Les développeurs d'Ethereum reportent le fork Glamsterdam sur Hoodi en attendant la résolution des risques liés aux smart contracts identifiés dans les EIP-8037 et EIP-8038.",
-        "en": "Ethereum developers are delaying the Glamsterdam fork on Hoodi until smart contract risks in EIP-8037 and EIP-8038 are resolved.",
-        "es": "Los desarrolladores de Ethereum posponen el fork Glamsterdam en Hoodi hasta resolver los riesgos en los contratos inteligentes de las EIP-8037 y EIP-8038.",
-        "de": "Ethereum-Entwickler verschieben den Glamsterdam-Fork auf Hoodi, bis die Risiken in den Smart Contracts der EIP-8037 und EIP-8038 behoben sind.",
-        "pt-BR": "Os desenvolvedores do Ethereum adiaram o fork Glamsterdam no Hoodi até resolverem os riscos nos contratos inteligentes das EIP-8037 e EIP-8038.",
-        "hi": "एथेरियम के डेवलपर्स ने EIP-8037 और EIP-8038 में स्मार्ट कॉन्ट्रैक्ट जोखिमों के समाधान तक हुडी पर ग्लैम्स्टर्डम फोर्क को स्थगित कर दिया है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 13:23:08 +0000"
-    },
-    {
-      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-      "summary": "Un événement promotionnel de Solana à Shanghai a été interrompu en raison d'une promotion non autorisée, violant les restrictions chinoises sur les cryptomonnaies.",
-      "summaries": {
-        "fr": "Un événement promotionnel de Solana à Shanghai a été interrompu en raison d'une promotion non autorisée, violant les restrictions chinoises sur les cryptomonnaies.",
-        "en": "Solana’s Shanghai event was halted due to unauthorized promotion, violating China’s crypto restrictions.",
-        "es": "Un evento promocional de Solana en Shanghái fue detenido por promoción no autorizada, violando las restricciones chinas sobre criptomonedas.",
-        "de": "Eine Werbeveranstaltung von Solana in Shanghai wurde wegen unautorisierter Promotion gestoppt, da sie gegen Chinas Krypto-Beschränkungen verstieß.",
-        "pt-BR": "Um evento promocional da Solana em Xangai foi interrompido por promoção não autorizada, violando as restrições chinesas a criptomoedas.",
-        "hi": "सोलाना के शंघाई इवेंट को अनधिकृत प्रचार के कारण रोक दिया गया, जिससे चीन के क्रिप्टो प्रतिबंधों का उल्लंघन हुआ।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 12:15:28 +0000"
+      "publishedAt": "Fri, 06 Nov 2026 22:00:15 +0000"
     }
   ]
 }
