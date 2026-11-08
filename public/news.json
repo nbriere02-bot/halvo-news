@@ -1,125 +1,80 @@
 {
-  "generatedAt": "07/11/2026 13:49 UTC",
+  "generatedAt": "08/11/2026 14:10 UTC",
   "items": [
     {
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "summary": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principales actrices de ce domaine.",
+      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+      "summary": "Des logements en Finlande bénéficient de chauffage gratuit grâce à la chaleur produite par des mineurs de Bitcoin, tant que le cours du BTC reste au-dessus de 70 000 dollars.",
       "summaries": {
-        "fr": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principales actrices de ce domaine.",
-        "en": "Apple and Meta rejected OKX and ICE's tokenized stock plans, positioning crypto firms as the key players in this space.",
-        "es": "Apple y Meta rechazaron los planes de acciones tokenizadas de OKX e ICE, dejando a las empresas de cripto como las principales protagonistas en este ámbito.",
-        "de": "Apple und Meta lehnten die Pläne von OKX und ICE für tokenisierte Aktien ab, wodurch Krypto-Unternehmen zu den wichtigsten Akteuren in diesem Bereich werden.",
-        "pt-BR": "Apple e Meta rejeitaram os planos de ações tokenizadas da OKX e ICE, deixando as empresas de cripto como as principais protagonistas nesse espaço.",
-        "hi": "एप्पल और मेटा ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक प्लान को अस्वीकार कर दिया, जिससे क्रिप्टो फर्में इस क्षेत्र में प्रमुख खिलाड़ी बन गईं।"
+        "fr": "Des logements en Finlande bénéficient de chauffage gratuit grâce à la chaleur produite par des mineurs de Bitcoin, tant que le cours du BTC reste au-dessus de 70 000 dollars.",
+        "en": "Homes in Finland receive free heating from Bitcoin miners' heat output, as long as BTC stays above $70,000.",
+        "es": "Viviendas en Finlandia obtienen calefacción gratuita del calor generado por mineros de Bitcoin, siempre que el BTC se mantenga por encima de los 70,000 dólares.",
+        "de": "Finnische Haushalte erhalten kostenlose Heizwärme durch Bitcoin-Miner, solange der BTC-Preis über 70.000 Dollar bleibt.",
+        "pt-BR": "Residências na Finlândia recebem aquecimento gratuito do calor gerado por mineradores de Bitcoin, desde que o BTC permaneça acima de 70.000 dólares.",
+        "hi": "फ़िनलैंड के घरों को बिटकॉइन माइनर्स से मुफ्त गर्मी मिलती है, बशर्ते बीटीसी की कीमत 70,000 डॉलर से ऊपर रहे।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+      "publishedAt": "Sun, 08 Nov 2026 12:55:59 +0000"
+    },
+    {
+      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+      "summary": "Binance demande à certains utilisateurs européens de retirer leurs cryptomonnaies avant l'application de frais, avec une fermeture de comptes prévue d'ici fin 2024.",
+      "summaries": {
+        "fr": "Binance demande à certains utilisateurs européens de retirer leurs cryptomonnaies avant l'application de frais, avec une fermeture de comptes prévue d'ici fin 2024.",
+        "en": "Binance is asking users in certain European countries to withdraw their crypto before fees are applied, with accounts set to close by the end of 2024.",
+        "es": "Binance solicita a usuarios en algunos países europeos que retiren sus criptomonedas antes de que se apliquen tarifas, con cierre de cuentas para fin de 2024.",
+        "de": "Binance fordert Nutzer in einigen europäischen Ländern auf, ihre Kryptowährungen vor Gebühreneinführung abzuziehen, da Konten bis Ende 2024 geschlossen werden.",
+        "pt-BR": "Binance pede a usuários em alguns países europeus que retirem suas criptomoedas antes da aplicação de taxas, com fechamento de contas até o final de 2024.",
+        "hi": "बिनेंस कुछ यूरोपीय देशों के उपयोगकर्ताओं से शुल्क लागू होने से पहले अपनी क्रिप्टोकरेंसी निकालने के लिए कह रहा है, साल के अंत तक खाते बंद कर दिए जाएंगे।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+      "publishedAt": "Sat, 07 Nov 2026 19:13:16 +0000"
+    },
+    {
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "summary": "Le Trésor américain prend des mesures pour couper l'accès de l'exchange crypto MEXC, accusé de flux illicites s'élevant à 16 milliards de dollars.",
+      "summaries": {
+        "fr": "Le Trésor américain prend des mesures pour couper l'accès de l'exchange crypto MEXC, accusé de flux illicites s'élevant à 16 milliards de dollars.",
+        "en": "The U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows.",
+        "es": "El Tesoro de EE.UU. actúa para bloquear el exchange de criptomonedas MEXC por presuntos flujos ilícitos de 16 mil millones de dólares.",
+        "de": "Das US-Finanzministerium ergreift Maßnahmen, um die Krypto-Börse MEXC aufgrund von mutmaßlich 16 Milliarden Dollar an illegalen Transaktionen abzuschneiden.",
+        "pt-BR": "O Tesouro dos EUA toma medidas para cortar o acesso da exchange de cripto MEXC por supostos fluxos ilícitos de 16 bilhões de dólares.",
+        "hi": "अमेरिकी खज़ाना विभाग ने कथित तौर पर 16 अरब डॉलर के अवैध लेनदेन के आरोप में क्रिप्टो एक्सचेंज MEXC को बंद करने की कार्रवाई की है।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "publishedAt": "Sat, 07 Nov 2026 17:36:46 +0000"
+    },
+    {
+      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+      "summary": "Une faille de sécurité chez Gnosis Pay a exposé des numéros de cartes bancaires, des adresses personnelles et des portefeuilles crypto liés.",
+      "summaries": {
+        "fr": "Une faille de sécurité chez Gnosis Pay a exposé des numéros de cartes bancaires, des adresses personnelles et des portefeuilles crypto liés.",
+        "en": "A security breach at Gnosis Pay exposed card numbers, home addresses, and linked crypto wallets.",
+        "es": "Una brecha de seguridad en Gnosis Pay expuso números de tarjetas, direcciones personales y billeteras de criptomonedas vinculadas.",
+        "de": "Ein Sicherheitsleck bei Gnosis Pay legte Kreditkartennummern, Wohnadressen und verknüpfte Krypto-Wallets offen.",
+        "pt-BR": "Uma violação de segurança na Gnosis Pay expôs números de cartões, endereços residenciais e carteiras de cripto vinculadas.",
+        "hi": "ग्नोसिस पे में सुरक्षा उल्लंघन के कारण कार्ड नंबर, घर के पते और जुड़े हुए क्रिप्टो वॉलेट उजागर हो गए।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+      "publishedAt": "Sat, 07 Nov 2026 16:51:00 +0000"
+    },
+    {
+      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+      "summary": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principaux acteurs à surveiller.",
+      "summaries": {
+        "fr": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principaux acteurs à surveiller.",
+        "en": "Apple and Meta rejected OKX and ICE's tokenized stock plans, positioning crypto firms as the key players to watch.",
+        "es": "Apple y Meta rechazaron los planes de acciones tokenizadas de OKX e ICE, dejando a las empresas de cripto como las principales a observar.",
+        "de": "Apple und Meta lehnten die Pläne von OKX und ICE für tokenisierte Aktien ab, wodurch Krypto-Unternehmen als wichtige Akteure im Fokus bleiben.",
+        "pt-BR": "Apple e Meta rejeitaram os planos de ações tokenizadas da OKX e ICE, deixando as empresas de cripto como as principais a serem observadas.",
+        "hi": "एप्पल और मेटा ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक प्लान को अस्वीकार कर दिया, जिससे क्रिप्टो फर्मों पर ध्यान केंद्रित हो गया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
       "publishedAt": "Fri, 06 Nov 2026 20:09:18 +0000"
-    },
-    {
-      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
-      "summary": "Un régulateur américain des marchés de prédiction a émis une exigence en conflit direct avec une décision de justice récente.",
-      "summaries": {
-        "fr": "Un régulateur américain des marchés de prédiction a émis une exigence en conflit direct avec une décision de justice récente.",
-        "en": "A U.S. prediction markets regulator issued a demand that directly clashes with recent court rulings.",
-        "es": "Un regulador estadounidense de mercados de predicción emitió una exigencia que choca directamente con decisiones judiciales recientes.",
-        "de": "Eine US-Aufsichtsbehörde für Prognosemärkte hat eine Forderung gestellt, die im direkten Widerspruch zu jüngsten Gerichtsentscheidungen steht.",
-        "pt-BR": "Um regulador americano de mercados de previsão emitiu uma exigência que entra em conflito direto com decisões judiciais recentes.",
-        "hi": "एक अमेरिकी भविष्यवाणी बाजार नियामक ने हाल ही के न्यायालयीन निर्णयों के सीधे विरोध में एक मांग जारी की है।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
-      "publishedAt": "Fri, 06 Nov 2026 17:42:28 +0000"
-    },
-    {
-      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
-      "summary": "L'industrie crypto développe de nouvelles stratégies de croissance, mais leur rentabilité reste incertaine.",
-      "summaries": {
-        "fr": "L'industrie crypto développe de nouvelles stratégies de croissance, mais leur rentabilité reste incertaine.",
-        "en": "The crypto industry is developing new growth strategies, but their profitability remains uncertain.",
-        "es": "La industria crypto está desarrollando nuevas estrategias de crecimiento, pero su rentabilidad sigue siendo incierta.",
-        "de": "Die Krypto-Branche entwickelt neue Wachstumsstrategien, doch ihre Rentabilität bleibt ungewiss.",
-        "pt-BR": "A indústria de cripto está desenvolvendo novas estratégias de crescimento, mas sua rentabilidade permanece incerta.",
-        "hi": "क्रिप्टो उद्योग नई विकास रणनीतियाँ विकसित कर रहा है, लेकिन उनकी लाभप्रदता अनिश्चित बनी हुई है।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
-      "publishedAt": "Fri, 06 Nov 2026 15:26:38 +0000"
-    },
-    {
-      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
-      "summary": "La Thaïlande envisage de bloquer Bitget après des incertitudes autour de l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
-      "summaries": {
-        "fr": "La Thaïlande envisage de bloquer Bitget après des incertitudes autour de l'acquisition locale de cette plateforme d'échange de cryptomonnaies.",
-        "en": "Thailand is moving to block Bitget as uncertainties surround the crypto exchange's local acquisition.",
-        "es": "Tailandia planea bloquear a Bitget debido a incertidumbres sobre la adquisición local de este exchange de criptomonedas.",
-        "de": "Thailand erwägt, Bitget zu blockieren, da die lokale Übernahme der Krypto-Börse unsicher ist.",
-        "pt-BR": "A Tailândia está se movendo para bloquear a Bitget devido a incertezas sobre a aquisição local da exchange de criptomoedas.",
-        "hi": "थाईलैंड बिटगेट को ब्लॉक करने की योजना बना रहा है क्योंकि क्रिप्टो एक्सचेंज के स्थानीय अधिग्रहण को लेकर अनिश्चितता बनी हुई है।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
-      "publishedAt": "Fri, 06 Nov 2026 14:33:49 +0000"
-    },
-    {
-      "title": "Bitcoin holders have received eCash — What can you do with it?",
-      "summary": "Les détenteurs de Bitcoin éligibles ont reçu un solde équivalent en ECX via le fork eCash, mais les possibilités d'utilisation et de trading restent floues.",
-      "summaries": {
-        "fr": "Les détenteurs de Bitcoin éligibles ont reçu un solde équivalent en ECX via le fork eCash, mais les possibilités d'utilisation et de trading restent floues.",
-        "en": "Eligible Bitcoin holders received an equivalent ECX balance through the eCash fork, but trading and usage options remain unclear.",
-        "es": "Los titulares elegibles de Bitcoin recibieron un saldo equivalente en ECX a través del fork eCash, pero las opciones de uso y trading aún no están claras.",
-        "de": "Berechtigte Bitcoin-Inhaber erhielten durch das eCash-Fork ein äquivalentes ECX-Guthaben, doch Handels- und Nutzungsmöglichkeiten bleiben unklar.",
-        "pt-BR": "Detentores elegíveis de Bitcoin receberam um saldo equivalente em ECX por meio do fork eCash, mas as opções de uso e negociação ainda não estão claras.",
-        "hi": "पात्र बिटकॉइन धारकों को ईकैश फोर्क के माध्यम से ECX में समकक्ष बैलेंस प्राप्त हुआ, लेकिन इसके ट्रेडिंग और उपयोग के विकल्प अभी स्पष्ट नहीं हैं।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 13:30:00 +0000"
-    },
-    {
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "summary": "Les États-Unis sanctionnent des entreprises canadiennes de change pour leurs liens avec l'Iran, sans lien direct avec les cryptomonnaies.",
-      "summaries": {
-        "fr": "Les États-Unis sanctionnent des entreprises canadiennes de change pour leurs liens avec l'Iran, sans lien direct avec les cryptomonnaies.",
-        "en": "The US sanctions Canadian money-exchange firms over ties with Iran, with no direct connection to cryptocurrencies.",
-        "es": "EE.UU. sanciona a empresas canadienses de cambio por vínculos con Irán, sin relación directa con las criptomonedas.",
-        "de": "Die USA verhängen Sanktionen gegen kanadische Geldwechselunternehmen wegen Verbindungen zum Iran, ohne direkten Bezug zu Kryptowährungen.",
-        "pt-BR": "Os EUA sancionam empresas canadenses de câmbio por laços com o Irã, sem relação direta com criptomoedas.",
-        "hi": "अमेरिका ने ईरान से संबंधों के कारण कनाडाई मुद्रा विनिमय फर्मों पर प्रतिबंध लगाया, क्रिप्टोकरेंसी से कोई सीधा संबंध नहीं है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 11:10:47 +0000"
-    },
-    {
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
-      "summary": "Des activités suspectes sur des marchés de prédiction ont été observées juste avant la publication de deux récents sondages politiques du New York Times/Siena.",
-      "summaries": {
-        "fr": "Des activités suspectes sur des marchés de prédiction ont été observées juste avant la publication de deux récents sondages politiques du New York Times/Siena.",
-        "en": "Suspicious activity was detected on prediction markets shortly before the release of two recent New York Times/Siena political polls.",
-        "es": "Se detectó actividad sospechosa en mercados de predicción justo antes de la publicación de dos recientes encuestas políticas del New York Times/Siena.",
-        "de": "Kurz vor der Veröffentlichung zweier aktueller politischer Umfragen der New York Times/Siena wurde verdächtige Aktivität auf Prognosemärkten beobachtet.",
-        "pt-BR": "Atividades suspeitas foram detectadas em mercados de previsão pouco antes da divulgação de duas recentes pesquisas políticas do New York Times/Siena.",
-        "hi": "न्यूयॉर्क टाइम्स/सिएना के दो हालिया राजनीतिक सर्वेक्षणों के जारी होने से ठीक पहले भविष्यवाणी बाजारों पर संदिग्ध गतिविधि देखी गई।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 09:10:35 +0000"
-    },
-    {
-      "title": "Nvidia may face a more hostile post-election Washington: Report",
-      "summary": "Nvidia pourrait faire face à un environnement politique plus hostile à Washington après les élections, indépendamment de ses relations avec Donald Trump.",
-      "summaries": {
-        "fr": "Nvidia pourrait faire face à un environnement politique plus hostile à Washington après les élections, indépendamment de ses relations avec Donald Trump.",
-        "en": "Nvidia may encounter a more adversarial political environment in Washington post-election, regardless of its ties with Donald Trump.",
-        "es": "Nvidia podría enfrentar un entorno político más hostil en Washington tras las elecciones, independientemente de sus vínculos con Donald Trump.",
-        "de": "Nvidia könnte nach der Wahl in Washington auf eine feindseligere politische Umgebung stoßen, unabhängig von seinen Beziehungen zu Donald Trump.",
-        "pt-BR": "A Nvidia pode enfrentar um ambiente político mais hostil em Washington após as eleições, independentemente de seus laços com Donald Trump.",
-        "hi": "निर्वाचन के बाद वाशिंगटन में नVIDIA को अधिक प्रतिकूल राजनीतिक माहौल का सामना करना पड़ सकता है, चाहे डोनाल्ड ट्रम्प के साथ उसके संबंध कुछ भी हों।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 07:45:24 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -130,11 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "क्रिप्टोकरेंसी में आज की प्रवृत्तियों और घटनाओं का सारांश, जो बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करते हैं।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 06 Nov 2026 22:00:15 +0000"
+      "publishedAt": "Sun, 08 Nov 2026 13:33:00 +0000"
+    },
+    {
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "summary": "Binance France annonce la fermeture des comptes de ses utilisateurs au 31 décembre, avec des frais mensuels appliqués aux actifs restants à partir du 29 novembre.",
+      "summaries": {
+        "fr": "Binance France annonce la fermeture des comptes de ses utilisateurs au 31 décembre, avec des frais mensuels appliqués aux actifs restants à partir du 29 novembre.",
+        "en": "Binance France announces the closure of its users' accounts on December 31, with monthly fees applied to remaining assets starting November 29.",
+        "es": "Binance Francia anuncia el cierre de las cuentas de sus usuarios el 31 de diciembre, aplicando tarifas mensuales a los activos restantes a partir del 29 de noviembre.",
+        "de": "Binance France kündigt die Schließung der Konten seiner Nutzer zum 31. Dezember an, wobei ab dem 29. November monatliche Gebühren für verbleibende Vermögenswerte erhoben werden.",
+        "pt-BR": "Binance França anuncia o fechamento das contas de seus usuários em 31 de dezembro, com taxas mensais aplicadas aos ativos restantes a partir de 29 de novembro.",
+        "hi": "बिनेंस फ्रांस ने 31 दिसंबर को अपने उपयोगकर्ताओं के खातों को बंद करने की घोषणा की है, शेष संपत्तियों पर 29 नवंबर से मासिक शुल्क लागू किया जाएगा।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 08 Nov 2026 12:57:51 +0000"
+    },
+    {
+      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "summary": "Des manifestants à Amsterdam ont pénétré sur un chantier de centre de données Microsoft, entraînant l'arrestation de 150 à 200 personnes pour intrusion.",
+      "summaries": {
+        "fr": "Des manifestants à Amsterdam ont pénétré sur un chantier de centre de données Microsoft, entraînant l'arrestation de 150 à 200 personnes pour intrusion.",
+        "en": "Protesters in Amsterdam broke into a Microsoft data center construction site, leading to the detention of 150-200 people for trespassing.",
+        "es": "Manifestantes en Ámsterdam irrumpieron en un sitio de construcción de un centro de datos de Microsoft, resultando en la detención de 150-200 personas por allanamiento.",
+        "de": "Demonstranten in Amsterdam drangen in eine Baustelle für ein Microsoft-Rechenzentrum ein, wobei 150-200 Personen wegen Hausfriedensbruchs festgenommen wurden.",
+        "pt-BR": "Manifestantes em Amsterdã invadiram um canteiro de obras de um data center da Microsoft, resultando na detenção de 150 a 200 pessoas por invasão.",
+        "hi": "एम्स्टर्डम में प्रदर्शनकारियों ने माइक्रोसॉफ्ट के डेटा सेंटर निर्माण स्थल में घुसपैठ की, जिसके परिणामस्वरूप 150-200 लोगों को अतिचार के आरोप में हिरासत में लिया गया।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 08 Nov 2026 09:48:48 +0000"
+    },
+    {
+      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
+      "summary": "Le directeur financier de Binance, Kaiser Ng, quittera l'entreprise et sera remplacé par Justin Yek, ancien vice-président des finances chez Airwallex.",
+      "summaries": {
+        "fr": "Le directeur financier de Binance, Kaiser Ng, quittera l'entreprise et sera remplacé par Justin Yek, ancien vice-président des finances chez Airwallex.",
+        "en": "Binance's finance chief Kaiser Ng is leaving the company and will be replaced by Justin Yek, former vice president of finance at Airwallex.",
+        "es": "El director financiero de Binance, Kaiser Ng, dejará la empresa y será reemplazado por Justin Yek, exvicepresidente de finanzas en Airwallex.",
+        "de": "Binance-Finanzchef Kaiser Ng verlässt das Unternehmen und wird durch Justin Yek, ehemaliger Finanz-Vizepräsident bei Airwallex, ersetzt.",
+        "pt-BR": "O diretor financeiro da Binance, Kaiser Ng, deixará a empresa e será substituído por Justin Yek, ex-vice-presidente de finanças da Airwallex.",
+        "hi": "बिनेंस के वित्त प्रमुख कैसर ङ कंपनी छोड़ेंगे और उनकी जगह जस्टिन येक लेंगे, जो पहले एयरवॉलेक्स में वित्त के उपाध्यक्ष थे।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 08 Nov 2026 08:12:56 +0000"
+    },
+    {
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "summary": "Un ancien agent du contre-espionnage du FBI a volé près de 2,5 millions de dollars en cryptomonnaies pour rembourser ses dettes et financer un projet de vignoble au Portugal.",
+      "summaries": {
+        "fr": "Un ancien agent du contre-espionnage du FBI a volé près de 2,5 millions de dollars en cryptomonnaies pour rembourser ses dettes et financer un projet de vignoble au Portugal.",
+        "en": "A former FBI counterintelligence agent stole nearly $2.5 million in crypto to pay off debts and fund a vineyard project in Portugal.",
+        "es": "Un exagente de contrainteligencia del FBI robó casi 2,5 millones de dólares en criptomonedas para pagar deudas y financiar un viñedo en Portugal.",
+        "de": "Ein ehemaliger FBI-Counterintelligence-Agent stahl fast 2,5 Millionen Dollar in Kryptowährungen, um Schulden zu begleichen und ein Weingut in Portugal zu finanzieren.",
+        "pt-BR": "Um ex-agente de contrainteligência do FBI roubou quase 2,5 milhões de dólares em criptomoedas para pagar dívidas e financiar um projeto de vinícola em Portugal.",
+        "hi": "एक पूर्व एफबीआई काउंटरइंटेलिजेंस एजेंट ने क़रीब 2.5 मिलियन डॉलर की क्रिप्टोकरेंसी चुराई ताकि अपने कर्ज़ चुकाए जा सकें और पुर्तगाल में एक अंगूर के बाग़ का प्रोजेक्ट फंड कर सके।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 07 Nov 2026 14:16:00 +0000"
     }
   ]
 }
