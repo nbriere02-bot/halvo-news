@@ -1,80 +1,95 @@
 {
-  "generatedAt": "08/11/2026 14:10 UTC",
+  "generatedAt": "09/11/2026 17:18 UTC",
   "items": [
     {
-      "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
-      "summary": "Des logements en Finlande bénéficient de chauffage gratuit grâce à la chaleur produite par des mineurs de Bitcoin, tant que le cours du BTC reste au-dessus de 70 000 dollars.",
+      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+      "summary": "Un bloc Bitcoin a frôlé un record de transactions datant de 2015, mais n'a généré que 180 dollars de frais.",
       "summaries": {
-        "fr": "Des logements en Finlande bénéficient de chauffage gratuit grâce à la chaleur produite par des mineurs de Bitcoin, tant que le cours du BTC reste au-dessus de 70 000 dollars.",
-        "en": "Homes in Finland receive free heating from Bitcoin miners' heat output, as long as BTC stays above $70,000.",
-        "es": "Viviendas en Finlandia obtienen calefacción gratuita del calor generado por mineros de Bitcoin, siempre que el BTC se mantenga por encima de los 70,000 dólares.",
-        "de": "Finnische Haushalte erhalten kostenlose Heizwärme durch Bitcoin-Miner, solange der BTC-Preis über 70.000 Dollar bleibt.",
-        "pt-BR": "Residências na Finlândia recebem aquecimento gratuito do calor gerado por mineradores de Bitcoin, desde que o BTC permaneça acima de 70.000 dólares.",
-        "hi": "फ़िनलैंड के घरों को बिटकॉइन माइनर्स से मुफ्त गर्मी मिलती है, बशर्ते बीटीसी की कीमत 70,000 डॉलर से ऊपर रहे।"
+        "fr": "Un bloc Bitcoin a frôlé un record de transactions datant de 2015, mais n'a généré que 180 dollars de frais.",
+        "en": "A Bitcoin block nearly matched a 2015 transaction record but only incurred $180 in fees.",
+        "es": "Un bloque de Bitcoin casi igualó un récord de transacciones de 2015, pero solo generó 180 dólares en comisiones.",
+        "de": "Ein Bitcoin-Block näherte sich einem Transaktionsrekord aus dem Jahr 2015, verursachte jedoch nur 180 Dollar an Gebühren.",
+        "pt-BR": "Um bloco do Bitcoin quase igualou um recorde de transações de 2015, mas gerou apenas 180 dólares em taxas.",
+        "hi": "एक बिटकॉइन ब्लॉक ने 2015 के लेन-देन रिकॉर्ड के करीब पहुंचा, लेकिन केवल 180 डॉलर का शुल्क लगा।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
-      "publishedAt": "Sun, 08 Nov 2026 12:55:59 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+      "publishedAt": "Mon, 09 Nov 2026 16:19:45 +0000"
     },
     {
-      "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
-      "summary": "Binance demande à certains utilisateurs européens de retirer leurs cryptomonnaies avant l'application de frais, avec une fermeture de comptes prévue d'ici fin 2024.",
+      "title": "Google’s AI chip push adds more pressure on Nvidia",
+      "summary": "Google intensifie ses efforts dans les puces IA, ce qui pourrait accroître la concurrence pour Nvidia dans le secteur des infrastructures pour crypto et calcul haute performance.",
       "summaries": {
-        "fr": "Binance demande à certains utilisateurs européens de retirer leurs cryptomonnaies avant l'application de frais, avec une fermeture de comptes prévue d'ici fin 2024.",
-        "en": "Binance is asking users in certain European countries to withdraw their crypto before fees are applied, with accounts set to close by the end of 2024.",
-        "es": "Binance solicita a usuarios en algunos países europeos que retiren sus criptomonedas antes de que se apliquen tarifas, con cierre de cuentas para fin de 2024.",
-        "de": "Binance fordert Nutzer in einigen europäischen Ländern auf, ihre Kryptowährungen vor Gebühreneinführung abzuziehen, da Konten bis Ende 2024 geschlossen werden.",
-        "pt-BR": "Binance pede a usuários em alguns países europeus que retirem suas criptomoedas antes da aplicação de taxas, com fechamento de contas até o final de 2024.",
-        "hi": "बिनेंस कुछ यूरोपीय देशों के उपयोगकर्ताओं से शुल्क लागू होने से पहले अपनी क्रिप्टोकरेंसी निकालने के लिए कह रहा है, साल के अंत तक खाते बंद कर दिए जाएंगे।"
+        "fr": "Google intensifie ses efforts dans les puces IA, ce qui pourrait accroître la concurrence pour Nvidia dans le secteur des infrastructures pour crypto et calcul haute performance.",
+        "en": "Google ramps up its AI chip efforts, increasing competition for Nvidia in crypto and high-performance computing infrastructure.",
+        "es": "Google intensifica sus esfuerzos en chips de IA, aumentando la competencia para Nvidia en infraestructura de cripto y computación de alto rendimiento.",
+        "de": "Google verstärkt seine Bemühungen bei KI-Chips und erhöht damit den Wettbewerbsdruck auf Nvidia in der Crypto- und Hochleistungsrechen-Infrastruktur.",
+        "pt-BR": "Google aumenta seus esforços em chips de IA, aumentando a pressão competitiva sobre a Nvidia em infraestrutura de cripto e computação de alto desempenho.",
+        "hi": "गूगल अपने एआई चिप प्रयासों को बढ़ा रहा है, जिससे क्रिप्टो और उच्च प्रदर्शन कंप्यूटिंग इंफ्रास्ट्रक्चर में एनवीडिया पर प्रतिस्पर्धा का दबाव बढ़ सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
-      "publishedAt": "Sat, 07 Nov 2026 19:13:16 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+      "publishedAt": "Mon, 09 Nov 2026 15:20:05 +0000"
     },
     {
-      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
-      "summary": "Le Trésor américain prend des mesures pour couper l'accès de l'exchange crypto MEXC, accusé de flux illicites s'élevant à 16 milliards de dollars.",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "summary": "Des pirates nord-coréens créent des memecoins pour blanchir le butin du piratage de 6,3 milliards de dollars de Binance.",
       "summaries": {
-        "fr": "Le Trésor américain prend des mesures pour couper l'accès de l'exchange crypto MEXC, accusé de flux illicites s'élevant à 16 milliards de dollars.",
-        "en": "The U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows.",
-        "es": "El Tesoro de EE.UU. actúa para bloquear el exchange de criptomonedas MEXC por presuntos flujos ilícitos de 16 mil millones de dólares.",
-        "de": "Das US-Finanzministerium ergreift Maßnahmen, um die Krypto-Börse MEXC aufgrund von mutmaßlich 16 Milliarden Dollar an illegalen Transaktionen abzuschneiden.",
-        "pt-BR": "O Tesouro dos EUA toma medidas para cortar o acesso da exchange de cripto MEXC por supostos fluxos ilícitos de 16 bilhões de dólares.",
-        "hi": "अमेरिकी खज़ाना विभाग ने कथित तौर पर 16 अरब डॉलर के अवैध लेनदेन के आरोप में क्रिप्टो एक्सचेंज MEXC को बंद करने की कार्रवाई की है।"
+        "fr": "Des pirates nord-coréens créent des memecoins pour blanchir le butin du piratage de 6,3 milliards de dollars de Binance.",
+        "en": "North Korean hackers are creating memecoins to launder proceeds from the $6.3 billion Binance hack.",
+        "es": "Hackers norcoreanos están creando memecoins para lavar el botín del hackeo de 6.300 millones de dólares a Binance.",
+        "de": "Nordkoreanische Hacker erstellen Memecoins, um die Beute aus dem 6,3-Milliarden-Dollar-Hack von Binance zu waschen.",
+        "pt-BR": "Hackers norte-coreanos estão criando memecoins para lavar o dinheiro roubado no hack de 6,3 bilhões de dólares da Binance.",
+        "hi": "उत्तर कोरियाई हैकर्स बिनेंस के 6.3 अरब डॉलर के हैक से लूटी गई राशि को साफ करने के लिए मीमकॉइन बना रहे हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
-      "publishedAt": "Sat, 07 Nov 2026 17:36:46 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "publishedAt": "Mon, 09 Nov 2026 15:00:44 +0000"
     },
     {
-      "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
-      "summary": "Une faille de sécurité chez Gnosis Pay a exposé des numéros de cartes bancaires, des adresses personnelles et des portefeuilles crypto liés.",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "summary": "La Bourse de New York choisit Avalanche pour régler les actions tokenisées dans le cadre de la course à la blockchain sur Wall Street.",
       "summaries": {
-        "fr": "Une faille de sécurité chez Gnosis Pay a exposé des numéros de cartes bancaires, des adresses personnelles et des portefeuilles crypto liés.",
-        "en": "A security breach at Gnosis Pay exposed card numbers, home addresses, and linked crypto wallets.",
-        "es": "Una brecha de seguridad en Gnosis Pay expuso números de tarjetas, direcciones personales y billeteras de criptomonedas vinculadas.",
-        "de": "Ein Sicherheitsleck bei Gnosis Pay legte Kreditkartennummern, Wohnadressen und verknüpfte Krypto-Wallets offen.",
-        "pt-BR": "Uma violação de segurança na Gnosis Pay expôs números de cartões, endereços residenciais e carteiras de cripto vinculadas.",
-        "hi": "ग्नोसिस पे में सुरक्षा उल्लंघन के कारण कार्ड नंबर, घर के पते और जुड़े हुए क्रिप्टो वॉलेट उजागर हो गए।"
+        "fr": "La Bourse de New York choisit Avalanche pour régler les actions tokenisées dans le cadre de la course à la blockchain sur Wall Street.",
+        "en": "The New York Stock Exchange selects Avalanche to settle tokenized stocks amid Wall Street's blockchain race.",
+        "es": "La Bolsa de Nueva York elige Avalanche para liquidar acciones tokenizadas en la carrera blockchain de Wall Street.",
+        "de": "Die New Yorker Börse wählt Avalanche für die Abwicklung tokenisierter Aktien im Blockchain-Wettlauf an der Wall Street.",
+        "pt-BR": "A Bolsa de Nova York escolhe a Avalanche para liquidar ações tokenizadas em meio à corrida blockchain de Wall Street.",
+        "hi": "न्यूयॉर्क स्टॉक एक्सचेंज ने वॉल स्ट्रीट की ब्लॉकचेन दौड़ में टोकनाइज्ड स्टॉक्स के निपटान के लिए एवलांच को चुना।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
-      "publishedAt": "Sat, 07 Nov 2026 16:51:00 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+      "publishedAt": "Mon, 09 Nov 2026 13:40:06 +0000"
     },
     {
-      "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
-      "summary": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principaux acteurs à surveiller.",
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "summary": "Solana prépare sa première plateforme de titres tokenisés sous le cadre réglementaire de la SEC, avec une cotation de Galaxy.",
       "summaries": {
-        "fr": "Apple et Meta ont rejeté les projets de tokenisation d'actions proposés par OKX et ICE, laissant les entreprises crypto comme principaux acteurs à surveiller.",
-        "en": "Apple and Meta rejected OKX and ICE's tokenized stock plans, positioning crypto firms as the key players to watch.",
-        "es": "Apple y Meta rechazaron los planes de acciones tokenizadas de OKX e ICE, dejando a las empresas de cripto como las principales a observar.",
-        "de": "Apple und Meta lehnten die Pläne von OKX und ICE für tokenisierte Aktien ab, wodurch Krypto-Unternehmen als wichtige Akteure im Fokus bleiben.",
-        "pt-BR": "Apple e Meta rejeitaram os planos de ações tokenizadas da OKX e ICE, deixando as empresas de cripto como as principais a serem observadas.",
-        "hi": "एप्पल और मेटा ने ओकेएक्स और आईसीई के टोकनाइज्ड स्टॉक प्लान को अस्वीकार कर दिया, जिससे क्रिप्टो फर्मों पर ध्यान केंद्रित हो गया है।"
+        "fr": "Solana prépare sa première plateforme de titres tokenisés sous le cadre réglementaire de la SEC, avec une cotation de Galaxy.",
+        "en": "Solana is preparing its first tokenized stock venue under the SEC regulatory framework, listing Galaxy.",
+        "es": "Solana prepara su primera plataforma de valores tokenizados bajo el marco regulatorio de la SEC, con la cotización de Galaxy.",
+        "de": "Solana bereitet seinen ersten Handelsplatz für tokenisierte Aktien unter dem SEC-Regulierungsrahmen vor und listet Galaxy.",
+        "pt-BR": "Solana prepara sua primeira plataforma de ações tokenizadas sob o framework regulatório da SEC, listando a Galaxy.",
+        "hi": "सोलाना एसईसी के नियामक ढांचे के तहत अपनी पहली टोकनाइज्ड स्टॉक प्लेटफॉर्म तैयार कर रहा है, जिसमें गैलेक्सी को सूचीबद्ध किया जाएगा।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
-      "publishedAt": "Fri, 06 Nov 2026 20:09:18 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "publishedAt": "Mon, 09 Nov 2026 12:41:35 +0000"
+    },
+    {
+      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
+      "summary": "Les analystes estiment que l'engagement de Binance à couvrir toutes les pertes des utilisateurs a permis d'éviter une contagion plus large après le piratage de 6,3 milliards de dollars.",
+      "summaries": {
+        "fr": "Les analystes estiment que l'engagement de Binance à couvrir toutes les pertes des utilisateurs a permis d'éviter une contagion plus large après le piratage de 6,3 milliards de dollars.",
+        "en": "Analysts believe Binance’s commitment to cover all user losses helped prevent broader contagion following the $6.3 billion hack.",
+        "es": "Los analistas consideran que el compromiso de Binance de cubrir todas las pérdidas de los usuarios evitó un contagio más amplio tras el hackeo de 6.300 millones de dólares.",
+        "de": "Analysten zufolge verhinderte Binance durch die Zusage, alle Nutzerverluste zu decken, eine weitere Ausbreitung der Folgen des 6,3-Milliarden-Dollar-Hacks.",
+        "pt-BR": "Analistas acreditam que o compromisso da Binance em cobrir todas as perdas dos usuários evitou uma contaminação mais ampla após o hack de 6,3 bilhões de dólares.",
+        "hi": "विश्लेषकों का मानना है कि बिनेंस द्वारा सभी उपयोगकर्ताओं के नुकसान को कवर करने की प्रतिबद्धता ने 6.3 अरब डॉलर के हैक के बाद व्यापक संक्रमण को रोका।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 13:52:46 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -84,72 +99,57 @@
         "en": "Summary of daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3, and crypto regulation.",
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
-        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
-        "hi": "क्रिप्टोकरेंसी में आज की प्रवृत्तियों और घटनाओं का सारांश, जो बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करते हैं।"
+        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, DeFi, Web3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 13:33:00 +0000"
+      "publishedAt": "Mon, 09 Nov 2026 13:36:56 +0000"
     },
     {
-      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-      "summary": "Binance France annonce la fermeture des comptes de ses utilisateurs au 31 décembre, avec des frais mensuels appliqués aux actifs restants à partir du 29 novembre.",
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "summary": "Le piratage de Binance, où des hackers ont perdu 2,85 milliards de dollars en stablecoins, montre l'importance pour le Royaume-Uni d'adopter des règles claires de gel des stablecoins.",
       "summaries": {
-        "fr": "Binance France annonce la fermeture des comptes de ses utilisateurs au 31 décembre, avec des frais mensuels appliqués aux actifs restants à partir du 29 novembre.",
-        "en": "Binance France announces the closure of its users' accounts on December 31, with monthly fees applied to remaining assets starting November 29.",
-        "es": "Binance Francia anuncia el cierre de las cuentas de sus usuarios el 31 de diciembre, aplicando tarifas mensuales a los activos restantes a partir del 29 de noviembre.",
-        "de": "Binance France kündigt die Schließung der Konten seiner Nutzer zum 31. Dezember an, wobei ab dem 29. November monatliche Gebühren für verbleibende Vermögenswerte erhoben werden.",
-        "pt-BR": "Binance França anuncia o fechamento das contas de seus usuários em 31 de dezembro, com taxas mensais aplicadas aos ativos restantes a partir de 29 de novembro.",
-        "hi": "बिनेंस फ्रांस ने 31 दिसंबर को अपने उपयोगकर्ताओं के खातों को बंद करने की घोषणा की है, शेष संपत्तियों पर 29 नवंबर से मासिक शुल्क लागू किया जाएगा।"
+        "fr": "Le piratage de Binance, où des hackers ont perdu 2,85 milliards de dollars en stablecoins, montre l'importance pour le Royaume-Uni d'adopter des règles claires de gel des stablecoins.",
+        "en": "The Binance hack, where hackers lost $2.85B in stablecoins, highlights why the UK should implement clear stablecoin freeze rules.",
+        "es": "El hackeo a Binance, donde los piratas perdieron 2.850 millones de dólares en stablecoins, demuestra por qué el Reino Unido necesita reglas claras para congelar estos activos.",
+        "de": "Der Binance-Hack, bei dem Hacker 2,85 Mrd. Dollar in Stablecoins verloren, zeigt, warum Großbritannien klare Regeln zur Sperrung von Stablecoins einführen sollte.",
+        "pt-BR": "O hack da Binance, onde hackers perderam 2,85 bilhões de dólares em stablecoins, demonstra por que o Reino Unido precisa de regras claras para congelar esses ativos.",
+        "hi": "बिनेंस हैक में हैकर्स द्वारा 2.85 बिलियन डॉलर के स्टेबलकॉइन खोने की घटना से पता चलता है कि यूके को स्टेबलकॉइन फ्रीज नियमों की आवश्यकता क्यों है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 12:57:51 +0000"
+      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 13:30:00 +0000"
     },
     {
-      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
-      "summary": "Des manifestants à Amsterdam ont pénétré sur un chantier de centre de données Microsoft, entraînant l'arrestation de 150 à 200 personnes pour intrusion.",
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "summary": "Une stratégie d'investissement a acquis 1 036 Bitcoins pour 81,9 millions de dollars la semaine dernière, portant ses avoirs totaux en BTC à 850 364.",
       "summaries": {
-        "fr": "Des manifestants à Amsterdam ont pénétré sur un chantier de centre de données Microsoft, entraînant l'arrestation de 150 à 200 personnes pour intrusion.",
-        "en": "Protesters in Amsterdam broke into a Microsoft data center construction site, leading to the detention of 150-200 people for trespassing.",
-        "es": "Manifestantes en Ámsterdam irrumpieron en un sitio de construcción de un centro de datos de Microsoft, resultando en la detención de 150-200 personas por allanamiento.",
-        "de": "Demonstranten in Amsterdam drangen in eine Baustelle für ein Microsoft-Rechenzentrum ein, wobei 150-200 Personen wegen Hausfriedensbruchs festgenommen wurden.",
-        "pt-BR": "Manifestantes em Amsterdã invadiram um canteiro de obras de um data center da Microsoft, resultando na detenção de 150 a 200 pessoas por invasão.",
-        "hi": "एम्स्टर्डम में प्रदर्शनकारियों ने माइक्रोसॉफ्ट के डेटा सेंटर निर्माण स्थल में घुसपैठ की, जिसके परिणामस्वरूप 150-200 लोगों को अतिचार के आरोप में हिरासत में लिया गया।"
+        "fr": "Une stratégie d'investissement a acquis 1 036 Bitcoins pour 81,9 millions de dollars la semaine dernière, portant ses avoirs totaux en BTC à 850 364.",
+        "en": "An investment strategy purchased 1,036 Bitcoin for $81.9 million last week, increasing its total BTC holdings to 850,364.",
+        "es": "Una estrategia de inversión compró 1.036 Bitcoins por 81,9 millones de dólares la semana pasada, elevando sus tenencias totales de BTC a 850.364.",
+        "de": "Eine Investmentstrategie kaufte letzte Woche 1.036 Bitcoin für 81,9 Millionen Dollar und erhöhte damit ihre gesamten BTC-Bestände auf 850.364.",
+        "pt-BR": "Uma estratégia de investimento comprou 1.036 Bitcoins no valor de 81,9 milhões de dólares na semana passada, elevando suas reservas totais de BTC para 850.364.",
+        "hi": "एक निवेश रणनीति ने पिछले सप्ताह 81.9 मिलियन डॉलर में 1,036 बिटकॉइन खरीदे, जिससे उसके कुल BTC होल्डिंग्स 850,364 तक पहुँच गए।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 09:48:48 +0000"
+      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 13:29:47 +0000"
     },
     {
-      "title": "Binance’s  finance chief Kaiser Ng to leave company, report says",
-      "summary": "Le directeur financier de Binance, Kaiser Ng, quittera l'entreprise et sera remplacé par Justin Yek, ancien vice-président des finances chez Airwallex.",
+      "title": "EU taps industry to set standards for tokenized securities",
+      "summary": "L'UE sollicite l'industrie pour établir des normes concernant les titres tokenisés, avec un groupe de travail dont les candidatures sont ouvertes jusqu'au 27 novembre.",
       "summaries": {
-        "fr": "Le directeur financier de Binance, Kaiser Ng, quittera l'entreprise et sera remplacé par Justin Yek, ancien vice-président des finances chez Airwallex.",
-        "en": "Binance's finance chief Kaiser Ng is leaving the company and will be replaced by Justin Yek, former vice president of finance at Airwallex.",
-        "es": "El director financiero de Binance, Kaiser Ng, dejará la empresa y será reemplazado por Justin Yek, exvicepresidente de finanzas en Airwallex.",
-        "de": "Binance-Finanzchef Kaiser Ng verlässt das Unternehmen und wird durch Justin Yek, ehemaliger Finanz-Vizepräsident bei Airwallex, ersetzt.",
-        "pt-BR": "O diretor financeiro da Binance, Kaiser Ng, deixará a empresa e será substituído por Justin Yek, ex-vice-presidente de finanças da Airwallex.",
-        "hi": "बिनेंस के वित्त प्रमुख कैसर ङ कंपनी छोड़ेंगे और उनकी जगह जस्टिन येक लेंगे, जो पहले एयरवॉलेक्स में वित्त के उपाध्यक्ष थे।"
+        "fr": "L'UE sollicite l'industrie pour établir des normes concernant les titres tokenisés, avec un groupe de travail dont les candidatures sont ouvertes jusqu'au 27 novembre.",
+        "en": "The EU is engaging industry players to set standards for tokenized securities, with applications for a working group open until November 27.",
+        "es": "La UE involucra a la industria para establecer estándares sobre valores tokenizados, con solicitudes abiertas para un grupo de trabajo hasta el 27 de noviembre.",
+        "de": "Die EU bindet die Industrie ein, um Standards für tokenisierte Wertpapiere zu entwickeln; Bewerbungen für eine Arbeitsgruppe sind bis zum 27. November möglich.",
+        "pt-BR": "A UE está envolvendo a indústria para definir padrões para títulos tokenizados, com inscrições para um grupo de trabalho abertas até 27 de novembro.",
+        "hi": "ईयू टोकनाइज्ड प्रतिभूतियों के लिए मानक निर्धारित करने हेतु उद्योग को शामिल कर रहा है, कार्य समूह के लिए आवेदन 27 नवंबर तक खुले हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 08 Nov 2026 08:12:56 +0000"
-    },
-    {
-      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
-      "summary": "Un ancien agent du contre-espionnage du FBI a volé près de 2,5 millions de dollars en cryptomonnaies pour rembourser ses dettes et financer un projet de vignoble au Portugal.",
-      "summaries": {
-        "fr": "Un ancien agent du contre-espionnage du FBI a volé près de 2,5 millions de dollars en cryptomonnaies pour rembourser ses dettes et financer un projet de vignoble au Portugal.",
-        "en": "A former FBI counterintelligence agent stole nearly $2.5 million in crypto to pay off debts and fund a vineyard project in Portugal.",
-        "es": "Un exagente de contrainteligencia del FBI robó casi 2,5 millones de dólares en criptomonedas para pagar deudas y financiar un viñedo en Portugal.",
-        "de": "Ein ehemaliger FBI-Counterintelligence-Agent stahl fast 2,5 Millionen Dollar in Kryptowährungen, um Schulden zu begleichen und ein Weingut in Portugal zu finanzieren.",
-        "pt-BR": "Um ex-agente de contrainteligência do FBI roubou quase 2,5 milhões de dólares em criptomoedas para pagar dívidas e financiar um projeto de vinícola em Portugal.",
-        "hi": "एक पूर्व एफबीआई काउंटरइंटेलिजेंस एजेंट ने क़रीब 2.5 मिलियन डॉलर की क्रिप्टोकरेंसी चुराई ताकि अपने कर्ज़ चुकाए जा सकें और पुर्तगाल में एक अंगूर के बाग़ का प्रोजेक्ट फंड कर सके।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 07 Nov 2026 14:16:00 +0000"
+      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 09 Nov 2026 12:27:06 +0000"
     }
   ]
 }
