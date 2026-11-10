@@ -1,95 +1,95 @@
 {
-  "generatedAt": "09/11/2026 17:18 UTC",
+  "generatedAt": "10/11/2026 15:29 UTC",
   "items": [
     {
-      "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
-      "summary": "Un bloc Bitcoin a frôlé un record de transactions datant de 2015, mais n'a généré que 180 dollars de frais.",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "summary": "Les stablecoins pourraient faire face à des défis concurrentiels si les banques traditionnelles développent leurs propres solutions de monnaie numérique.",
       "summaries": {
-        "fr": "Un bloc Bitcoin a frôlé un record de transactions datant de 2015, mais n'a généré que 180 dollars de frais.",
-        "en": "A Bitcoin block nearly matched a 2015 transaction record but only incurred $180 in fees.",
-        "es": "Un bloque de Bitcoin casi igualó un récord de transacciones de 2015, pero solo generó 180 dólares en comisiones.",
-        "de": "Ein Bitcoin-Block näherte sich einem Transaktionsrekord aus dem Jahr 2015, verursachte jedoch nur 180 Dollar an Gebühren.",
-        "pt-BR": "Um bloco do Bitcoin quase igualou um recorde de transações de 2015, mas gerou apenas 180 dólares em taxas.",
-        "hi": "एक बिटकॉइन ब्लॉक ने 2015 के लेन-देन रिकॉर्ड के करीब पहुंचा, लेकिन केवल 180 डॉलर का शुल्क लगा।"
+        "fr": "Les stablecoins pourraient faire face à des défis concurrentiels si les banques traditionnelles développent leurs propres solutions de monnaie numérique.",
+        "en": "Stablecoins may face competitive challenges if traditional banks develop their own digital currency solutions.",
+        "es": "Los stablecoins podrían enfrentar desafíos competitivos si los bancos tradicionales desarrollan sus propias soluciones de moneda digital.",
+        "de": "Stablecoins könnten vor Wettbewerbsherausforderungen stehen, wenn traditionelle Banken eigene digitale Währungslösungen entwickeln.",
+        "pt-BR": "Stablecoins podem enfrentar desafios competitivos se os bancos tradicionais desenvolverem suas próprias soluções de moeda digital.",
+        "hi": "यदि पारंपरिक बैंक अपनी खुद की डिजिटल मुद्रा समाधान विकसित करते हैं, तो स्टेबलकॉइन्स को प्रतिस्पर्धात्मक चुनौतियों का सामना करना पड़ सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
-      "publishedAt": "Mon, 09 Nov 2026 16:19:45 +0000"
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "publishedAt": "Tue, 10 Nov 2026 14:00:00 +0000"
     },
     {
-      "title": "Google’s AI chip push adds more pressure on Nvidia",
-      "summary": "Google intensifie ses efforts dans les puces IA, ce qui pourrait accroître la concurrence pour Nvidia dans le secteur des infrastructures pour crypto et calcul haute performance.",
+      "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
+      "summary": "L'indice des prix à la consommation aux États-Unis a augmenté de 0,4 % en octobre, plus que prévu, tandis que le taux de base a progressé de 0,3 %.",
       "summaries": {
-        "fr": "Google intensifie ses efforts dans les puces IA, ce qui pourrait accroître la concurrence pour Nvidia dans le secteur des infrastructures pour crypto et calcul haute performance.",
-        "en": "Google ramps up its AI chip efforts, increasing competition for Nvidia in crypto and high-performance computing infrastructure.",
-        "es": "Google intensifica sus esfuerzos en chips de IA, aumentando la competencia para Nvidia en infraestructura de cripto y computación de alto rendimiento.",
-        "de": "Google verstärkt seine Bemühungen bei KI-Chips und erhöht damit den Wettbewerbsdruck auf Nvidia in der Crypto- und Hochleistungsrechen-Infrastruktur.",
-        "pt-BR": "Google aumenta seus esforços em chips de IA, aumentando a pressão competitiva sobre a Nvidia em infraestrutura de cripto e computação de alto desempenho.",
-        "hi": "गूगल अपने एआई चिप प्रयासों को बढ़ा रहा है, जिससे क्रिप्टो और उच्च प्रदर्शन कंप्यूटिंग इंफ्रास्ट्रक्चर में एनवीडिया पर प्रतिस्पर्धा का दबाव बढ़ सकता है।"
+        "fr": "L'indice des prix à la consommation aux États-Unis a augmenté de 0,4 % en octobre, plus que prévu, tandis que le taux de base a progressé de 0,3 %.",
+        "en": "The U.S. Consumer Price Index rose 0.4% in October, stronger than expected, with the core rate increasing by 0.3%.",
+        "es": "El índice de precios al consumidor de EE.UU. subió un 0,4 % en octubre, más de lo esperado, mientras que la tasa subyacente aumentó un 0,3 %.",
+        "de": "Der US-Verbraucherpreisindex stieg im Oktober um 0,4 % stärker als erwartet, während die Kernrate um 0,3 % zunahm.",
+        "pt-BR": "O índice de preços ao consumidor dos EUA subiu 0,4% em outubro, acima do esperado, enquanto a taxa básica aumentou 0,3%.",
+        "hi": "अक्टूबर में अमेरिका का उपभोक्ता मूल्य सूचकांक 0.4% बढ़ा, जो अपेक्षा से अधिक है, जबकि मूल दर 0.3% बढ़ी।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
-      "publishedAt": "Mon, 09 Nov 2026 15:20:05 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
+      "publishedAt": "Tue, 10 Nov 2026 13:32:09 +0000"
     },
     {
-      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
-      "summary": "Des pirates nord-coréens créent des memecoins pour blanchir le butin du piratage de 6,3 milliards de dollars de Binance.",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "summary": "Marc Asch, responsable de Ripple Prime, quitte ses fonctions et est remplacé par Noel Kimmel.",
       "summaries": {
-        "fr": "Des pirates nord-coréens créent des memecoins pour blanchir le butin du piratage de 6,3 milliards de dollars de Binance.",
-        "en": "North Korean hackers are creating memecoins to launder proceeds from the $6.3 billion Binance hack.",
-        "es": "Hackers norcoreanos están creando memecoins para lavar el botín del hackeo de 6.300 millones de dólares a Binance.",
-        "de": "Nordkoreanische Hacker erstellen Memecoins, um die Beute aus dem 6,3-Milliarden-Dollar-Hack von Binance zu waschen.",
-        "pt-BR": "Hackers norte-coreanos estão criando memecoins para lavar o dinheiro roubado no hack de 6,3 bilhões de dólares da Binance.",
-        "hi": "उत्तर कोरियाई हैकर्स बिनेंस के 6.3 अरब डॉलर के हैक से लूटी गई राशि को साफ करने के लिए मीमकॉइन बना रहे हैं।"
+        "fr": "Marc Asch, responsable de Ripple Prime, quitte ses fonctions et est remplacé par Noel Kimmel.",
+        "en": "Marc Asch, head of Ripple Prime, is stepping down and will be succeeded by Noel Kimmel.",
+        "es": "Marc Asch, jefe de Ripple Prime, dejará su puesto y será reemplazado por Noel Kimmel.",
+        "de": "Marc Asch, Leiter von Ripple Prime, tritt zurück und wird von Noel Kimmel abgelöst.",
+        "pt-BR": "Marc Asch, chefe do Ripple Prime, deixará o cargo e será substituído por Noel Kimmel.",
+        "hi": "रिपल प्राइम के प्रमुख मार्क ऐश अपने पद से हट रहे हैं और उनका स्थान नोएल किमेल लेंगे।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
-      "publishedAt": "Mon, 09 Nov 2026 15:00:44 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/09/ripple-prime-head-marc-asch-to-step-down-noel-kimmel-named-successor",
+      "publishedAt": "Tue, 10 Nov 2026 12:38:20 +0000"
     },
     {
-      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
-      "summary": "La Bourse de New York choisit Avalanche pour régler les actions tokenisées dans le cadre de la course à la blockchain sur Wall Street.",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "summary": "Le Bitcoin se découple des actions et baisse en raison des sorties de fonds des ETF, tandis que Marathon Digital réduit ses réserves.",
       "summaries": {
-        "fr": "La Bourse de New York choisit Avalanche pour régler les actions tokenisées dans le cadre de la course à la blockchain sur Wall Street.",
-        "en": "The New York Stock Exchange selects Avalanche to settle tokenized stocks amid Wall Street's blockchain race.",
-        "es": "La Bolsa de Nueva York elige Avalanche para liquidar acciones tokenizadas en la carrera blockchain de Wall Street.",
-        "de": "Die New Yorker Börse wählt Avalanche für die Abwicklung tokenisierter Aktien im Blockchain-Wettlauf an der Wall Street.",
-        "pt-BR": "A Bolsa de Nova York escolhe a Avalanche para liquidar ações tokenizadas em meio à corrida blockchain de Wall Street.",
-        "hi": "न्यूयॉर्क स्टॉक एक्सचेंज ने वॉल स्ट्रीट की ब्लॉकचेन दौड़ में टोकनाइज्ड स्टॉक्स के निपटान के लिए एवलांच को चुना।"
+        "fr": "Le Bitcoin se découple des actions et baisse en raison des sorties de fonds des ETF, tandis que Marathon Digital réduit ses réserves.",
+        "en": "Bitcoin decouples from stocks and declines due to ETF outflows, as Marathon Digital reduces its holdings.",
+        "es": "Bitcoin se desvincula de las acciones y cae por las salidas de fondos de los ETF, mientras Marathon Digital reduce sus tenencias.",
+        "de": "Bitcoin löst sich von Aktien und fällt aufgrund von ETF-Abflüssen, während Marathon Digital seine Bestände reduziert.",
+        "pt-BR": "O Bitcoin se desvincula das ações e cai devido às saídas de fundos dos ETFs, enquanto a Marathon Digital reduz suas reservas.",
+        "hi": "बिटकॉइन शेयरों से अलग होकर गिरा, ईटीएफ से निकासी बढ़ने के कारण, और मैराथन डिजिटल ने अपनी होल्डिंग्स कम की।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
-      "publishedAt": "Mon, 09 Nov 2026 13:40:06 +0000"
+      "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
+      "publishedAt": "Tue, 10 Nov 2026 12:15:00 +0000"
     },
     {
-      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-      "summary": "Solana prépare sa première plateforme de titres tokenisés sous le cadre réglementaire de la SEC, avec une cotation de Galaxy.",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "summary": "Le Bitcoin suit difficilement la reprise des marchés boursiers avant la publication du rapport américain sur l'inflation.",
       "summaries": {
-        "fr": "Solana prépare sa première plateforme de titres tokenisés sous le cadre réglementaire de la SEC, avec une cotation de Galaxy.",
-        "en": "Solana is preparing its first tokenized stock venue under the SEC regulatory framework, listing Galaxy.",
-        "es": "Solana prepara su primera plataforma de valores tokenizados bajo el marco regulatorio de la SEC, con la cotización de Galaxy.",
-        "de": "Solana bereitet seinen ersten Handelsplatz für tokenisierte Aktien unter dem SEC-Regulierungsrahmen vor und listet Galaxy.",
-        "pt-BR": "Solana prepara sua primeira plataforma de ações tokenizadas sob o framework regulatório da SEC, listando a Galaxy.",
-        "hi": "सोलाना एसईसी के नियामक ढांचे के तहत अपनी पहली टोकनाइज्ड स्टॉक प्लेटफॉर्म तैयार कर रहा है, जिसमें गैलेक्सी को सूचीबद्ध किया जाएगा।"
+        "fr": "Le Bitcoin suit difficilement la reprise des marchés boursiers avant la publication du rapport américain sur l'inflation.",
+        "en": "Bitcoin struggles to keep pace with the stock market rebound ahead of the U.S. inflation report.",
+        "es": "El Bitcoin tiene dificultades para seguir el rebote del mercado bursátil antes del informe de inflación de EE.UU.",
+        "de": "Bitcoin hinkt der Erholung der Aktienmärkte vor dem US-Inflationsbericht hinterher.",
+        "pt-BR": "O Bitcoin tem dificuldade em acompanhar a recuperação do mercado de ações antes do relatório de inflação dos EUA.",
+        "hi": "अमेरिकी मुद्रास्फीति रिपोर्ट से पहले बिटकॉइन शेयर बाजार की रिकवरी के साथ तालमेल नहीं बिठा पा रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-      "publishedAt": "Mon, 09 Nov 2026 12:41:35 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-in-advance-of-u-s-inflation-report",
+      "publishedAt": "Tue, 10 Nov 2026 11:24:10 +0000"
     },
     {
-      "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
-      "summary": "Les analystes estiment que l'engagement de Binance à couvrir toutes les pertes des utilisateurs a permis d'éviter une contagion plus large après le piratage de 6,3 milliards de dollars.",
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "summary": "La chambre basse polonaise soutient un projet de loi permettant de geler les actifs cryptographiques dans le cadre de sanctions, qui doit encore être approuvé par le Sénat.",
       "summaries": {
-        "fr": "Les analystes estiment que l'engagement de Binance à couvrir toutes les pertes des utilisateurs a permis d'éviter une contagion plus large après le piratage de 6,3 milliards de dollars.",
-        "en": "Analysts believe Binance’s commitment to cover all user losses helped prevent broader contagion following the $6.3 billion hack.",
-        "es": "Los analistas consideran que el compromiso de Binance de cubrir todas las pérdidas de los usuarios evitó un contagio más amplio tras el hackeo de 6.300 millones de dólares.",
-        "de": "Analysten zufolge verhinderte Binance durch die Zusage, alle Nutzerverluste zu decken, eine weitere Ausbreitung der Folgen des 6,3-Milliarden-Dollar-Hacks.",
-        "pt-BR": "Analistas acreditam que o compromisso da Binance em cobrir todas as perdas dos usuários evitou uma contaminação mais ampla após o hack de 6,3 bilhões de dólares.",
-        "hi": "विश्लेषकों का मानना है कि बिनेंस द्वारा सभी उपयोगकर्ताओं के नुकसान को कवर करने की प्रतिबद्धता ने 6.3 अरब डॉलर के हैक के बाद व्यापक संक्रमण को रोका।"
+        "fr": "La chambre basse polonaise soutient un projet de loi permettant de geler les actifs cryptographiques dans le cadre de sanctions, qui doit encore être approuvé par le Sénat.",
+        "en": "Poland’s lower house has approved a bill enabling crypto asset freezes under sanctions, pending Senate approval.",
+        "es": "La cámara baja de Polonia respalda un proyecto de ley que permite congelar activos cripto bajo sanciones, a la espera de la aprobación del Senado.",
+        "de": "Das polnische Unterhaus hat einen Gesetzentwurf gebilligt, der das Einfrieren von Krypto-Vermögenswerten im Rahmen von Sanktionen ermöglicht, der noch vom Senat genehmigt werden muss.",
+        "pt-BR": "A câmara baixa da Polônia aprovou um projeto de lei que permite o congelamento de ativos cripto sob sanções, aguardando aprovação do Senado.",
+        "hi": "पोलैंड के निचले सदन ने एक विधेयक का समर्थन किया है जो प्रतिबंधों के तहत क्रिप्टो संपत्तियों को फ्रीज करने की अनुमति देता है, जिसे अभी सीनेट की मंजूरी मिलनी बाकी है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 09 Nov 2026 13:52:46 +0000"
+      "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 10 Nov 2026 13:40:39 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -99,57 +99,57 @@
         "en": "Summary of daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3, and crypto regulation.",
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
-        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, DeFi, Web3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
+        "hi": "बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक प्रवृत्तियों और घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 09 Nov 2026 13:36:56 +0000"
+      "publishedAt": "Tue, 10 Nov 2026 13:34:37 +0000"
     },
     {
-      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
-      "summary": "Le piratage de Binance, où des hackers ont perdu 2,85 milliards de dollars en stablecoins, montre l'importance pour le Royaume-Uni d'adopter des règles claires de gel des stablecoins.",
+      "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
+      "summary": "Le cofondateur du Bitcoin Opportunity Fund, Mark Moss, estime que l'accès élargi à Bitcoin via les banques et les ETF crée une opportunité d'achat exceptionnelle, prévoyant un nouveau record en 2027.",
       "summaries": {
-        "fr": "Le piratage de Binance, où des hackers ont perdu 2,85 milliards de dollars en stablecoins, montre l'importance pour le Royaume-Uni d'adopter des règles claires de gel des stablecoins.",
-        "en": "The Binance hack, where hackers lost $2.85B in stablecoins, highlights why the UK should implement clear stablecoin freeze rules.",
-        "es": "El hackeo a Binance, donde los piratas perdieron 2.850 millones de dólares en stablecoins, demuestra por qué el Reino Unido necesita reglas claras para congelar estos activos.",
-        "de": "Der Binance-Hack, bei dem Hacker 2,85 Mrd. Dollar in Stablecoins verloren, zeigt, warum Großbritannien klare Regeln zur Sperrung von Stablecoins einführen sollte.",
-        "pt-BR": "O hack da Binance, onde hackers perderam 2,85 bilhões de dólares em stablecoins, demonstra por que o Reino Unido precisa de regras claras para congelar esses ativos.",
-        "hi": "बिनेंस हैक में हैकर्स द्वारा 2.85 बिलियन डॉलर के स्टेबलकॉइन खोने की घटना से पता चलता है कि यूके को स्टेबलकॉइन फ्रीज नियमों की आवश्यकता क्यों है।"
+        "fr": "Le cofondateur du Bitcoin Opportunity Fund, Mark Moss, estime que l'accès élargi à Bitcoin via les banques et les ETF crée une opportunité d'achat exceptionnelle, prévoyant un nouveau record en 2027.",
+        "en": "Bitcoin Opportunity Fund co-founder Mark Moss states that expanded access to Bitcoin through banks and ETFs presents a unique buying opportunity, predicting a new all-time high in 2027.",
+        "es": "El cofundador del Bitcoin Opportunity Fund, Mark Moss, afirma que el acceso ampliado a Bitcoin a través de bancos y ETF ofrece una oportunidad de compra excepcional, pronosticando un nuevo récord en 2027.",
+        "de": "Mitbegründer des Bitcoin Opportunity Fund, Mark Moss, erklärt, dass der erweiterte Zugang zu Bitcoin über Banken und ETFs eine einzigartige Kaufgelegenheit darstellt und prognostiziert ein neues Rekordhoch für 2027.",
+        "pt-BR": "O cofundador do Bitcoin Opportunity Fund, Mark Moss, afirma que o acesso ampliado ao Bitcoin por meio de bancos e ETFs cria uma oportunidade única de compra, prevendo uma nova máxima histórica em 2027.",
+        "hi": "बिटकॉइन अपॉर्चुनिटी फंड के सह-संस्थापक मार्क मॉस का कहना है कि बैंकों और ईटीएफ के माध्यम से बिटकॉइन तक विस्तृत पहुंच एक अद्वितीय खरीद अवसर प्रदान करती है, और वे 2027 में एक नया रिकॉर्ड उच्च स्तर की भविष्यवाणी करते हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 09 Nov 2026 13:30:00 +0000"
+      "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 10 Nov 2026 13:30:00 +0000"
     },
     {
-      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
-      "summary": "Une stratégie d'investissement a acquis 1 036 Bitcoins pour 81,9 millions de dollars la semaine dernière, portant ses avoirs totaux en BTC à 850 364.",
+      "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
+      "summary": "Binance Research indique que le Bitcoin pourrait être soutenu par un ralentissement du resserrement monétaire mondial, malgré une hausse des taux de la Fed prévue en décembre.",
       "summaries": {
-        "fr": "Une stratégie d'investissement a acquis 1 036 Bitcoins pour 81,9 millions de dollars la semaine dernière, portant ses avoirs totaux en BTC à 850 364.",
-        "en": "An investment strategy purchased 1,036 Bitcoin for $81.9 million last week, increasing its total BTC holdings to 850,364.",
-        "es": "Una estrategia de inversión compró 1.036 Bitcoins por 81,9 millones de dólares la semana pasada, elevando sus tenencias totales de BTC a 850.364.",
-        "de": "Eine Investmentstrategie kaufte letzte Woche 1.036 Bitcoin für 81,9 Millionen Dollar und erhöhte damit ihre gesamten BTC-Bestände auf 850.364.",
-        "pt-BR": "Uma estratégia de investimento comprou 1.036 Bitcoins no valor de 81,9 milhões de dólares na semana passada, elevando suas reservas totais de BTC para 850.364.",
-        "hi": "एक निवेश रणनीति ने पिछले सप्ताह 81.9 मिलियन डॉलर में 1,036 बिटकॉइन खरीदे, जिससे उसके कुल BTC होल्डिंग्स 850,364 तक पहुँच गए।"
+        "fr": "Binance Research indique que le Bitcoin pourrait être soutenu par un ralentissement du resserrement monétaire mondial, malgré une hausse des taux de la Fed prévue en décembre.",
+        "en": "Binance Research suggests Bitcoin may gain support as global monetary tightening slows, even as markets anticipate a December Fed rate hike.",
+        "es": "Binance Research señala que Bitcoin podría recibir apoyo debido a la desaceleración del ajuste monetario global, a pesar de una posible subida de tasas de la Fed en diciembre.",
+        "de": "Binance Research zufolge könnte Bitcoin Unterstützung finden, da sich die globale geldpolitische Straffung verlangsamt, selbst wenn die Märkte eine Zinserhöhung der Fed im Dezember einpreisen.",
+        "pt-BR": "A Binance Research afirma que o Bitcoin pode se beneficiar com a desaceleração do aperto monetário global, mesmo com a expectativa de um aumento de juros pelo Fed em dezembro.",
+        "hi": "बिनेंस रिसर्च के अनुसार, वैश्विक मौद्रिक सख्ती धीमी होने से बिटकॉइन को समर्थन मिल सकता है, भले ही दिसंबर में फेड की ब्याज दर वृद्धि की उम्मीद की जा रही हो।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 09 Nov 2026 13:29:47 +0000"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 10 Nov 2026 13:15:59 +0000"
     },
     {
-      "title": "EU taps industry to set standards for tokenized securities",
-      "summary": "L'UE sollicite l'industrie pour établir des normes concernant les titres tokenisés, avec un groupe de travail dont les candidatures sont ouvertes jusqu'au 27 novembre.",
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "summary": "Coinbase et Kalshi soutiennent la CFTC dans un procès concernant la légalité des contrats perpétuels sur actions individuelles aux États-Unis.",
       "summaries": {
-        "fr": "L'UE sollicite l'industrie pour établir des normes concernant les titres tokenisés, avec un groupe de travail dont les candidatures sont ouvertes jusqu'au 27 novembre.",
-        "en": "The EU is engaging industry players to set standards for tokenized securities, with applications for a working group open until November 27.",
-        "es": "La UE involucra a la industria para establecer estándares sobre valores tokenizados, con solicitudes abiertas para un grupo de trabajo hasta el 27 de noviembre.",
-        "de": "Die EU bindet die Industrie ein, um Standards für tokenisierte Wertpapiere zu entwickeln; Bewerbungen für eine Arbeitsgruppe sind bis zum 27. November möglich.",
-        "pt-BR": "A UE está envolvendo a indústria para definir padrões para títulos tokenizados, com inscrições para um grupo de trabalho abertas até 27 de novembro.",
-        "hi": "ईयू टोकनाइज्ड प्रतिभूतियों के लिए मानक निर्धारित करने हेतु उद्योग को शामिल कर रहा है, कार्य समूह के लिए आवेदन 27 नवंबर तक खुले हैं।"
+        "fr": "Coinbase et Kalshi soutiennent la CFTC dans un procès concernant la légalité des contrats perpétuels sur actions individuelles aux États-Unis.",
+        "en": "Coinbase and Kalshi joined a lawsuit supporting the CFTC over the legality of US exchanges listing perpetual futures on individual stocks.",
+        "es": "Coinbase y Kalshi se unieron a una demanda apoyando a la CFTC sobre la legalidad de los futuros perpetuos de acciones individuales en EE.UU.",
+        "de": "Coinbase und Kalshi unterstützen die CFTC in einem Rechtsstreit über die Zulässigkeit von Perpetual Futures auf Einzelaktien in den USA.",
+        "pt-BR": "Coinbase e Kalshi se juntaram a uma ação judicial apoiando a CFTC sobre a legalidade de exchanges dos EUA listarem futuros perpétuos de ações individuais.",
+        "hi": "कॉइनबेस और कल्शी ने अमेरिकी एक्सचेंजों पर व्यक्तिगत शेयरों से जुड़े स्थायी वायदा अनुबंधों की वैधता पर सीएफटीसी का समर्थन करते हुए मुकदमे में भाग लिया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 09 Nov 2026 12:27:06 +0000"
+      "url": "https://cointelegraph.com/news/coinbase-kalshi-cftc-stock-perpetual-futures-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 10 Nov 2026 11:44:55 +0000"
     }
   ]
 }
