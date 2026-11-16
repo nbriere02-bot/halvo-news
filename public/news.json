@@ -1,80 +1,125 @@
 {
-  "generatedAt": "15/11/2026 14:37 UTC",
+  "generatedAt": "16/11/2026 16:53 UTC",
   "items": [
     {
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "summary": "Les acteurs du secteur crypto ne s'attendent pas à des avancées législatives significatives lors de la session « lame duck » du Congrès américain.",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "summary": "La plateforme Lighter a suspendu tous les retraits après avoir subi une exploitation de 10,4 millions de dollars en cryptomonnaies.",
       "summaries": {
-        "fr": "Les acteurs du secteur crypto ne s'attendent pas à des avancées législatives significatives lors de la session « lame duck » du Congrès américain.",
-        "en": "Crypto industry insiders do not expect significant legislative progress during the U.S. Congress's 'lame duck' session.",
-        "es": "Los actores del sector cripto no esperan avances legislativos significativos durante la sesión 'lame duck' del Congreso de EE.UU.",
-        "de": "Akteure der Krypto-Branche erwarten keine bedeutenden gesetzgeberischen Fortschritte während der 'lame duck'-Sitzung des US-Kongresses.",
-        "pt-BR": "Insiders do setor de cripto não esperam avanços legislativos significativos durante a sessão 'lame duck' do Congresso dos EUA.",
-        "hi": "क्रिप्टो उद्योग के अंदरूनी लोग अमेरिकी कांग्रेस के 'लेम डक' सत्र के दौरान महत्वपूर्ण विधायी प्रगति की उम्मीद नहीं कर रहे हैं।"
+        "fr": "La plateforme Lighter a suspendu tous les retraits après avoir subi une exploitation de 10,4 millions de dollars en cryptomonnaies.",
+        "en": "Lighter has suspended all withdrawals following a $10.4 million crypto exploit.",
+        "es": "La plataforma Lighter ha suspendido todos los retiros tras un exploit de 10,4 millones de dólares en criptomonedas.",
+        "de": "Lighter hat alle Auszahlungen nach einem Krypto-Exploit in Höhe von 10,4 Millionen Dollar ausgesetzt.",
+        "pt-BR": "A plataforma Lighter suspendeu todos os saques após um exploit de 10,4 milhões de dólares em criptomoedas.",
+        "hi": "लाइटर प्लेटफॉर्म ने 10.4 मिलियन डॉलर के क्रिप्टो एक्सप्लॉइट के बाद सभी निकासी को निलंबित कर दिया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-      "publishedAt": "Sun, 15 Nov 2026 14:00:00 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+      "publishedAt": "Mon, 16 Nov 2026 16:41:42 +0000"
     },
     {
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "summary": "Le XRP atteint son plus bas niveau depuis novembre 2024 en raison de sorties de capitaux du marché des cryptomonnaies.",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "summary": "La banque centrale du Brésil fait face à des critiques après avoir évoqué les risques de blanchiment d'argent liés aux stablecoins.",
       "summaries": {
-        "fr": "Le XRP atteint son plus bas niveau depuis novembre 2024 en raison de sorties de capitaux du marché des cryptomonnaies.",
-        "en": "XRP hits its lowest level since November 2024 as capital exits the crypto market.",
-        "es": "XRP cae a su nivel más bajo desde noviembre de 2024 debido a la salida de capitales del mercado de criptomonedas.",
-        "de": "XRP fällt auf den niedrigsten Stand seit November 2024, da Kapital aus dem Kryptomarkt abfließt.",
-        "pt-BR": "O XRP atinge sua mínima desde novembro de 2024 com a saída de capital do mercado de criptomoedas.",
-        "hi": "क्रिप्टो बाजार से पूंजी की निकासी के कारण XRP नवंबर 2024 के बाद से अपने सबसे निचले स्तर पर पहुंच गया है।"
+        "fr": "La banque centrale du Brésil fait face à des critiques après avoir évoqué les risques de blanchiment d'argent liés aux stablecoins.",
+        "en": "Brazil's central bank faces criticism after highlighting money laundering risks associated with stablecoins.",
+        "es": "El banco central de Brasil enfrenta críticas tras mencionar los riesgos de lavado de dinero relacionados con las stablecoins.",
+        "de": "Die brasilianische Zentralbank steht in der Kritik, nachdem sie auf Geldwäscherisiken im Zusammenhang mit Stablecoins hingewiesen hat.",
+        "pt-BR": "O Banco Central do Brasil enfrenta críticas após mencionar os riscos de lavagem de dinheiro associados às stablecoins.",
+        "hi": "ब्राज़ील के केंद्रीय बैंक को स्टेबलकॉइन से जुड़े मनी लॉन्ड्रिंग जोखिमों पर टिप्पणी के बाद आलोचना का सामना करना पड़ रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-      "publishedAt": "Sun, 15 Nov 2026 02:50:57 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "publishedAt": "Mon, 16 Nov 2026 15:54:11 +0000"
     },
     {
-      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
-      "summary": "Le Bitcoin chute à un plus bas de trois mois sous 63 000 dollars, un analyste évoquant une quatrième vague de capitulation.",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "summary": "Le parlement allemand propose d'autoriser la saisie de cryptomonnaies sans inculpation pénale.",
       "summaries": {
-        "fr": "Le Bitcoin chute à un plus bas de trois mois sous 63 000 dollars, un analyste évoquant une quatrième vague de capitulation.",
-        "en": "Bitcoin drops to a three-month low below $63,000, with an analyst flagging a fourth capitulation wave.",
-        "es": "Bitcoin cae a un mínimo de tres meses por debajo de los 63.000 dólares, mientras un analista señala una cuarta ola de capitulación.",
-        "de": "Bitcoin fällt auf ein Dreimonatstief unter 63.000 Dollar, wobei ein Analyst eine vierte Kapitulationswelle markiert.",
-        "pt-BR": "Bitcoin cai para uma mínima de três meses abaixo de US$ 63.000, com um analista apontando uma quarta onda de capitulação.",
-        "hi": "बिटकॉइन 63,000 डॉलर से नीचे तीन महीने के निचले स्तर पर गिरा, एक विश्लेषक ने चौथी समर्पण लहर की चेतावनी दी।"
+        "fr": "Le parlement allemand propose d'autoriser la saisie de cryptomonnaies sans inculpation pénale.",
+        "en": "The German parliament proposes allowing crypto seizures without criminal charges.",
+        "es": "El parlamento alemán propone permitir el decomiso de criptomonedas sin cargos penales.",
+        "de": "Der deutsche Bundestag schlägt vor, Kryptowährungen ohne strafrechtliche Anklage beschlagnahmen zu lassen.",
+        "pt-BR": "O parlamento alemão propõe permitir o confisco de criptomoedas sem acusações criminais.",
+        "hi": "जर्मन संसद ने आपराधिक आरोप के बिना क्रिप्टोकरेंसी की जब्ती की अनुमति देने का प्रस्ताव रखा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
-      "publishedAt": "Sat, 14 Nov 2026 16:33:29 +0000"
+      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+      "publishedAt": "Mon, 16 Nov 2026 15:44:59 +0000"
     },
     {
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "summary": "Le projet de scaling Ethereum MegaETH réduit son effectif de 20 % pour se concentrer sur une activité liée à l'IA.",
+      "title": "Solana drops ‘beta’ label after more than six years",
+      "summary": "Solana retire l'étiquette 'bêta' de son réseau principal après plus de six ans de développement.",
       "summaries": {
-        "fr": "Le projet de scaling Ethereum MegaETH réduit son effectif de 20 % pour se concentrer sur une activité liée à l'IA.",
-        "en": "Ethereum scaling project MegaETH cuts 20% of its staff to focus on an AI-related business.",
-        "es": "El proyecto de escalado de Ethereum MegaETH reduce su plantilla en un 20 % para centrarse en un negocio relacionado con la IA.",
-        "de": "Das Ethereum-Skalierungsprojekt MegaETH reduziert seine Belegschaft um 20 %, um sich auf ein KI-Geschäft zu konzentrieren.",
-        "pt-BR": "O projeto de escalabilidade Ethereum MegaETH cortou 20% de sua equipe para focar em um negócio relacionado à IA.",
-        "hi": "एथेरियम स्केलिंग प्रोजेक्ट मेगाETH ने अपनी टीम में 20% की कटौती की ताकि AI से संबंधित व्यवसाय पर ध्यान केंद्रित किया जा सके।"
+        "fr": "Solana retire l'étiquette 'bêta' de son réseau principal après plus de six ans de développement.",
+        "en": "Solana removes the 'beta' label from its mainnet after over six years of development.",
+        "es": "Solana elimina la etiqueta 'beta' de su mainnet tras más de seis años de desarrollo.",
+        "de": "Solana entfernt das 'Beta'-Label von seinem Mainnet nach über sechs Jahren Entwicklung.",
+        "pt-BR": "Solana remove o rótulo 'beta' de sua mainnet após mais de seis anos de desenvolvimento.",
+        "hi": "सोलाना ने छह साल से अधिक के विकास के बाद अपने मेननेट से 'बीटा' लेबल हटा दिया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "publishedAt": "Sat, 14 Nov 2026 16:33:23 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+      "publishedAt": "Mon, 16 Nov 2026 13:03:16 +0000"
     },
     {
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "summary": "Le Kazakhstan prévoit d'émettre des obligations d'État tokenisées au premier trimestre après une vente d'obligations de 22 millions de dollars.",
+      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+      "summary": "Le PDG d'OKX, Star Xu, accuse Binance d'être responsable des krachs d'octobre sur les marchés crypto ces deux dernières années.",
       "summaries": {
-        "fr": "Le Kazakhstan prévoit d'émettre des obligations d'État tokenisées au premier trimestre après une vente d'obligations de 22 millions de dollars.",
-        "en": "Kazakhstan plans to issue tokenized government bonds in the first quarter following a $22 million bond sale.",
-        "es": "Kazajistán planea emitir bonos gubernamentales tokenizados en el primer trimestre tras una venta de bonos de 22 millones de dólares.",
-        "de": "Kasachstan plant, im ersten Quartal tokenisierte Staatsanleihen nach einem Verkauf von Anleihen im Wert von 22 Millionen Dollar auszugeben.",
-        "pt-BR": "O Cazaquistão planeja emitir títulos públicos tokenizados no primeiro trimestre após uma venda de títulos de 22 milhões de dólares.",
-        "hi": "कज़ाख़स्तान ने 22 मिलियन डॉलर के बॉन्ड बिक्री के बाद पहले तिमाही में टोकनाइज़्ड सरकारी बॉन्ड जारी करने की योजना बनाई है।"
+        "fr": "Le PDG d'OKX, Star Xu, accuse Binance d'être responsable des krachs d'octobre sur les marchés crypto ces deux dernières années.",
+        "en": "OKX CEO Star Xu blames Binance for October market crashes in crypto over the past two years.",
+        "es": "El CEO de OKX, Star Xu, culpa a Binance por las caídas del mercado de criptomonedas en octubre durante los últimos dos años.",
+        "de": "OKX-CEO Star Xu macht Binance für die Oktober-Crashs auf dem Kryptomarkt in den letzten zwei Jahren verantwortlich.",
+        "pt-BR": "O CEO da OKX, Star Xu, culpa a Binance pelos crashes do mercado de cripto em outubro nos últimos dois anos.",
+        "hi": "OKX के सीईओ स्टार जू ने पिछले दो वर्षों में अक्टूबर में क्रिप्टो बाजार के क्रैश के लिए बिनेंस को जिम्मेदार ठहराया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "publishedAt": "Sat, 14 Nov 2026 15:38:27 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+      "publishedAt": "Mon, 16 Nov 2026 12:55:46 +0000"
+    },
+    {
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "summary": "Le prix du Bitcoin n'a pas réussi à se maintenir au-dessus de 65 000 $, chutant en même temps que les actions américaines en raison des inquiétudes liées à l'IA et aux résultats trimestriels de Nvidia.",
+      "summaries": {
+        "fr": "Le prix du Bitcoin n'a pas réussi à se maintenir au-dessus de 65 000 $, chutant en même temps que les actions américaines en raison des inquiétudes liées à l'IA et aux résultats trimestriels de Nvidia.",
+        "en": "Bitcoin's price failed to hold above $65,000, dropping alongside US stocks due to AI-related concerns and upcoming Nvidia Q3 earnings.",
+        "es": "El precio de Bitcoin no logró mantenerse por encima de los 65.000 $, cayendo junto a las acciones estadounidenses por preocupaciones sobre IA y los resultados trimestrales de Nvidia.",
+        "de": "Der Bitcoin-Preis konnte sich nicht über 65.000 $ halten und fiel zusammen mit US-Aktien aufgrund von KI-Bedenken und den bevorstehenden Quartalsergebnissen von Nvidia.",
+        "pt-BR": "O preço do Bitcoin não conseguiu se manter acima de 65 mil dólares, caindo junto com as ações dos EUA devido a preocupações com IA e aos resultados trimestrais da Nvidia.",
+        "hi": "बिटकॉइन की कीमत 65,000 डॉलर से ऊपर नहीं टिक पाई, जो एआई चिंताओं और एनवीडिया के तिमाही नतीजों के कारण अमेरिकी शेयरों के साथ गिर गई।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 16 Nov 2026 16:26:52 +0000"
+    },
+    {
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "summary": "Zelle prévoit d'utiliser Solana pour son stablecoin ZelleUSD et ses paiements internationaux, avec des transferts confidentiels masquant les montants.",
+      "summaries": {
+        "fr": "Zelle prévoit d'utiliser Solana pour son stablecoin ZelleUSD et ses paiements internationaux, avec des transferts confidentiels masquant les montants.",
+        "en": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, featuring confidential transfers to hide payment amounts.",
+        "es": "Zelle planea usar Solana para su stablecoin ZelleUSD y pagos internacionales, con transferencias confidenciales que ocultan los montos.",
+        "de": "Zelle plant, Solana für seinen ZelleUSD-Stablecoin und internationale Zahlungen zu nutzen, mit vertraulichen Überweisungen zur Verschleierung der Beträge.",
+        "pt-BR": "Zelle planeja usar Solana para seu stablecoin ZelleUSD e pagamentos internacionais, com transferências confidenciais para ocultar os valores.",
+        "hi": "ज़ेल अपने ज़ेलUSD स्टेबलकॉइन और अंतरराष्ट्रीय भुगतानों के लिए सोलाना का उपयोग करने की योजना बना रहा है, जिसमें भुगतान राशि छिपाने के लिए गोपनीय हस्तांतरण शामिल हैं।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 16 Nov 2026 14:55:46 +0000"
+    },
+    {
+      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "summary": "Lighter a suspendu les retraits après le vol présumé de 10,4 millions de dollars lié à une fuite de clé API d'un trader.",
+      "summaries": {
+        "fr": "Lighter a suspendu les retraits après le vol présumé de 10,4 millions de dollars lié à une fuite de clé API d'un trader.",
+        "en": "Lighter paused withdrawals following a reported $10.4 million theft due to a leaked trader API key.",
+        "es": "Lighter suspendió los retiros tras un robo reportado de 10,4 millones de dólares por una filtración de una clave API de un trader.",
+        "de": "Lighter hat Auszahlungen gestoppt, nachdem ein API-Schlüssel eines Händlers geleakt wurde und 10,4 Millionen Dollar abgehoben wurden.",
+        "pt-BR": "Lighter suspendeu saques após um roubo reportado de US$ 10,4 milhões devido ao vazamento de uma chave API de um trader.",
+        "hi": "लाइटर ने एक ट्रेडर की एपीआई कुंजी लीक होने के बाद 10.4 मिलियन डॉलर की चोरी की रिपोर्ट के बाद निकासी रोक दी है।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 16 Nov 2026 14:19:50 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -85,71 +130,26 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 15 Nov 2026 11:18:48 +0000"
+      "publishedAt": "Mon, 16 Nov 2026 13:31:49 +0000"
     },
     {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "summary": "Le Bitcoin chute à près de 62 000 $, son plus bas niveau en quatre mois, dans un contexte de vente massive sur le marché des cryptomonnaies.",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "summary": "Les banques interdisent les agents d'IA par crainte de risques de sécurité et de perte de contrôle sur la relation client.",
       "summaries": {
-        "fr": "Le Bitcoin chute à près de 62 000 $, son plus bas niveau en quatre mois, dans un contexte de vente massive sur le marché des cryptomonnaies.",
-        "en": "Bitcoin drops to a four-month low near $62K as the crypto market selloff intensifies.",
-        "es": "El Bitcoin cae a su nivel más bajo en cuatro meses, cerca de los 62 000 $, en medio de una venta masiva en el mercado de criptomonedas.",
-        "de": "Bitcoin fällt auf ein Viermonatstief nahe 62.000 $, während der Ausverkauf am Kryptomarkt anhält.",
-        "pt-BR": "O Bitcoin cai para perto de US$ 62 mil, sua mínima em quatro meses, em meio a uma forte venda no mercado de criptomoedas.",
-        "hi": "क्रिप्टो बाज़ार में बिकवाली बढ़ने से बिटकॉइन चार महीने के निचले स्तर 62 हज़ार डॉलर के करीब गिर गया।"
+        "fr": "Les banques interdisent les agents d'IA par crainte de risques de sécurité et de perte de contrôle sur la relation client.",
+        "en": "Banks are banning AI agents due to security risks and concerns over losing control of customer relationships.",
+        "es": "Los bancos están prohibiendo los agentes de IA por riesgos de seguridad y temor a perder el control de la relación con los clientes.",
+        "de": "Banken verbieten KI-Agenten aus Sicherheitsbedenken und aus Sorge, die Kontrolle über Kundenbeziehungen zu verlieren.",
+        "pt-BR": "Bancos estão banindo agentes de IA por preocupações com segurança e medo de perder o controle do relacionamento com clientes.",
+        "hi": "बैंक सुरक्षा जोखिमों और ग्राहक संबंधों पर नियंत्रण खोने की चिंता के कारण एआई एजेंटों पर प्रतिबंध लगा रहे हैं।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 15 Nov 2026 10:23:17 +0000"
-    },
-    {
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "summary": "La plateforme sud-coréenne Coinone alerte sur des risques de phishing et de vol d'identité après une fuite de données clients incluant mots de passe, comptes bancaires et adresses de portefeuilles crypto.",
-      "summaries": {
-        "fr": "La plateforme sud-coréenne Coinone alerte sur des risques de phishing et de vol d'identité après une fuite de données clients incluant mots de passe, comptes bancaires et adresses de portefeuilles crypto.",
-        "en": "South Korean exchange Coinone warns of phishing and identity theft risks after a data breach exposing passwords, bank accounts, and crypto wallet addresses.",
-        "es": "La plataforma surcoreana Coinone advierte sobre riesgos de phishing y robo de identidad tras una filtración de datos que incluye contraseñas, cuentas bancarias y direcciones de billeteras crypto.",
-        "de": "Die südkoreanische Krypto-Börse Coinone warnt vor Phishing und Identitätsdiebstahl nach einem Datenleck, das Passwörter, Bankkonten und Krypto-Wallet-Adressen betrifft.",
-        "pt-BR": "A exchange sul-coreana Coinone alerta sobre riscos de phishing e roubo de identidade após vazamento de dados incluindo senhas, contas bancárias e endereços de carteiras crypto.",
-        "hi": "दक्षिण कोरियाई क्रिप्टो एक्सचेंज कॉइनवन ने फ़िशिंग और पहचान की चोरी के जोखिमों के बारे में चेतावनी दी है, क्योंकि ग्राहकों के डेटा लीक में पासवर्ड, बैंक खाते और क्रिप्टो वॉलेट पते शामिल हैं।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 15 Nov 2026 08:07:58 +0000"
-    },
-    {
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-      "summary": "Le protocole RWA stUSDT cesse ses activités trois ans après avoir atteint un pic de 2,3 milliards de dollars en valeur totale verrouillée (TVL), sans raison officielle communiquée.",
-      "summaries": {
-        "fr": "Le protocole RWA stUSDT cesse ses activités trois ans après avoir atteint un pic de 2,3 milliards de dollars en valeur totale verrouillée (TVL), sans raison officielle communiquée.",
-        "en": "The RWA protocol stUSDT is winding down three years after reaching a $2.3 billion total value locked (TVL) peak, with no official reason disclosed.",
-        "es": "El protocolo RWA stUSDT cierra tras tres años de alcanzar un pico de 2.300 millones de dólares en valor total bloqueado (TVL), sin razón oficial proporcionada.",
-        "de": "Das RWA-Protokoll stUSDT wird drei Jahre nach Erreichen eines TVL-Höchststands von 2,3 Mrd. USD eingestellt, ohne offizielle Begründung.",
-        "pt-BR": "O protocolo RWA stUSDT está encerrando suas atividades três anos após atingir um pico de US$ 2,3 bilhões em valor total bloqueado (TVL), sem motivo oficial divulgado.",
-        "hi": "आरडब्ल्यूए प्रोटोकॉल stUSDT तीन साल बाद बंद हो रहा है जब इसका कुल लॉक्ड वैल्यू (TVL) 2.3 बिलियन डॉलर के शिखर पर पहुंचा था, आधिकारिक कारण नहीं बताया गया।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sun, 15 Nov 2026 06:27:26 +0000"
-    },
-    {
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "summary": "Microsoft a confirmé la résolution d'une panne mondiale due à un problème de mise à niveau de la capacité réseau, excluant toute cyberattaque.",
-      "summaries": {
-        "fr": "Microsoft a confirmé la résolution d'une panne mondiale due à un problème de mise à niveau de la capacité réseau, excluant toute cyberattaque.",
-        "en": "Microsoft confirmed a global outage was resolved, attributing it to a network capacity upgrade issue and ruling out cyberattacks.",
-        "es": "Microsoft confirmó que una interrupción global fue resuelta, atribuyéndola a un problema de actualización de capacidad de red y descartando ciberataques.",
-        "de": "Microsoft bestätigte die Behebung einer globalen Störung, die auf ein Problem bei der Netzwerkkapazitätserweiterung zurückging, und schloss Cyberangriffe aus.",
-        "pt-BR": "A Microsoft confirmou a resolução de uma pane global, atribuindo-a a um problema de atualização de capacidade de rede e descartando ciberataques.",
-        "hi": "माइक्रोसॉफ्ट ने वैश्विक आउटेज को हल किया, इसे नेटवर्क क्षमता उन्नयन के मुद्दे के रूप में बताया और साइबर हमले से इनकार किया।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 14 Nov 2026 10:34:06 +0000"
+      "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Mon, 16 Nov 2026 13:30:00 +0000"
     }
   ]
 }
