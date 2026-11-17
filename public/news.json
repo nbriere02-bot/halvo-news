@@ -1,125 +1,80 @@
 {
-  "generatedAt": "16/11/2026 16:53 UTC",
+  "generatedAt": "17/11/2026 16:47 UTC",
   "items": [
     {
-      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
-      "summary": "La plateforme Lighter a suspendu tous les retraits après avoir subi une exploitation de 10,4 millions de dollars en cryptomonnaies.",
+      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+      "summary": "Hong Kong et Swift testent des dépôts tokenisés pour accélérer les transactions, en réponse à la concurrence des stablecoins.",
       "summaries": {
-        "fr": "La plateforme Lighter a suspendu tous les retraits après avoir subi une exploitation de 10,4 millions de dollars en cryptomonnaies.",
-        "en": "Lighter has suspended all withdrawals following a $10.4 million crypto exploit.",
-        "es": "La plataforma Lighter ha suspendido todos los retiros tras un exploit de 10,4 millones de dólares en criptomonedas.",
-        "de": "Lighter hat alle Auszahlungen nach einem Krypto-Exploit in Höhe von 10,4 Millionen Dollar ausgesetzt.",
-        "pt-BR": "A plataforma Lighter suspendeu todos os saques após um exploit de 10,4 milhões de dólares em criptomoedas.",
-        "hi": "लाइटर प्लेटफॉर्म ने 10.4 मिलियन डॉलर के क्रिप्टो एक्सप्लॉइट के बाद सभी निकासी को निलंबित कर दिया है।"
+        "fr": "Hong Kong et Swift testent des dépôts tokenisés pour accélérer les transactions, en réponse à la concurrence des stablecoins.",
+        "en": "Hong Kong and Swift are testing tokenized deposits to speed up transactions, competing with stablecoin efficiency.",
+        "es": "Hong Kong y Swift prueban depósitos tokenizados para acelerar transacciones, compitiendo con la eficiencia de los stablecoins.",
+        "de": "Hongkong und Swift testen tokenisierte Einlagen, um Transaktionen zu beschleunigen und mit Stablecoins zu konkurrieren.",
+        "pt-BR": "Hong Kong e Swift testam depósitos tokenizados para acelerar transações, competindo com a eficiência dos stablecoins.",
+        "hi": "हॉन्गकॉन्ग और स्विफ्ट ने स्टेबलकॉइन जैसी गति के लिए टोकनाइज्ड डिपॉजिट का परीक्षण शुरू किया है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-      "publishedAt": "Mon, 16 Nov 2026 16:41:42 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+      "publishedAt": "Tue, 17 Nov 2026 15:11:00 +0000"
     },
     {
-      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-      "summary": "La banque centrale du Brésil fait face à des critiques après avoir évoqué les risques de blanchiment d'argent liés aux stablecoins.",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "summary": "La mise à jour Glamsterdam d'Ethereum pourrait perturber jusqu'à 15 000 applications automatisées en raison de modifications techniques.",
       "summaries": {
-        "fr": "La banque centrale du Brésil fait face à des critiques après avoir évoqué les risques de blanchiment d'argent liés aux stablecoins.",
-        "en": "Brazil's central bank faces criticism after highlighting money laundering risks associated with stablecoins.",
-        "es": "El banco central de Brasil enfrenta críticas tras mencionar los riesgos de lavado de dinero relacionados con las stablecoins.",
-        "de": "Die brasilianische Zentralbank steht in der Kritik, nachdem sie auf Geldwäscherisiken im Zusammenhang mit Stablecoins hingewiesen hat.",
-        "pt-BR": "O Banco Central do Brasil enfrenta críticas após mencionar os riscos de lavagem de dinheiro associados às stablecoins.",
-        "hi": "ब्राज़ील के केंद्रीय बैंक को स्टेबलकॉइन से जुड़े मनी लॉन्ड्रिंग जोखिमों पर टिप्पणी के बाद आलोचना का सामना करना पड़ रहा है।"
+        "fr": "La mise à jour Glamsterdam d'Ethereum pourrait perturber jusqu'à 15 000 applications automatisées en raison de modifications techniques.",
+        "en": "Ethereum's Glamsterdam upgrade may disrupt up to 15,000 automated applications due to technical changes.",
+        "es": "La actualización Glamsterdam de Ethereum podría afectar hasta 15,000 aplicaciones automatizadas por cambios técnicos.",
+        "de": "Das Ethereum-Upgrade Glamsterdam könnte bis zu 15.000 automatisierte Anwendungen aufgrund technischer Änderungen stören.",
+        "pt-BR": "A atualização Glamsterdam do Ethereum pode interromper até 15.000 aplicativos automatizados devido a mudanças técnicas.",
+        "hi": "एथेरियम का ग्लैम्स्टर्डम अपग्रेड तकनीकी बदलावों के कारण 15,000 स्वचालित एप्लिकेशन को बाधित कर सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-      "publishedAt": "Mon, 16 Nov 2026 15:54:11 +0000"
+      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+      "publishedAt": "Tue, 17 Nov 2026 13:02:56 +0000"
     },
     {
-      "title": "German parliament proposes crypto seizures without criminal charges",
-      "summary": "Le parlement allemand propose d'autoriser la saisie de cryptomonnaies sans inculpation pénale.",
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "summary": "L'échange décentralisé Grvt vise à rendre le trading de matières premières plus prévisible avec des contrats perpétuels à financement stable.",
       "summaries": {
-        "fr": "Le parlement allemand propose d'autoriser la saisie de cryptomonnaies sans inculpation pénale.",
-        "en": "The German parliament proposes allowing crypto seizures without criminal charges.",
-        "es": "El parlamento alemán propone permitir el decomiso de criptomonedas sin cargos penales.",
-        "de": "Der deutsche Bundestag schlägt vor, Kryptowährungen ohne strafrechtliche Anklage beschlagnahmen zu lassen.",
-        "pt-BR": "O parlamento alemão propõe permitir o confisco de criptomoedas sem acusações criminais.",
-        "hi": "जर्मन संसद ने आपराधिक आरोप के बिना क्रिप्टोकरेंसी की जब्ती की अनुमति देने का प्रस्ताव रखा है।"
+        "fr": "L'échange décentralisé Grvt vise à rendre le trading de matières premières plus prévisible avec des contrats perpétuels à financement stable.",
+        "en": "Decentralized exchange Grvt aims to make commodity trading more predictable with stable funding perpetual contracts.",
+        "es": "El intercambio descentralizado Grvt busca hacer el trading de materias primas más predecible con contratos perpetuos de financiación estable.",
+        "de": "Die dezentrale Börse Grvt will den Rohstoffhandel mit stabil finanzierten Perpetual-Kontrakten vorhersehbarer machen.",
+        "pt-BR": "A exchange descentralizada Grvt busca tornar o trading de commodities mais previsível com contratos perpétuos de financiamento estável.",
+        "hi": "डिसेंट्रलाइज्ड एक्सचेंज ग्रव्ट का लक्ष्य स्थिर फंडिंग वाले परपेचुअल कॉन्ट्रैक्ट्स के साथ कमोडिटी ट्रेडिंग को अधिक पूर्वानुमानित बनाना है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
-      "publishedAt": "Mon, 16 Nov 2026 15:44:59 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+      "publishedAt": "Tue, 17 Nov 2026 13:00:00 +0000"
     },
     {
-      "title": "Solana drops ‘beta’ label after more than six years",
-      "summary": "Solana retire l'étiquette 'bêta' de son réseau principal après plus de six ans de développement.",
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "summary": "Les liquidités dans le secteur crypto diminuent, aggravant les effets des sorties de fonds des ETF au comptant.",
       "summaries": {
-        "fr": "Solana retire l'étiquette 'bêta' de son réseau principal après plus de six ans de développement.",
-        "en": "Solana removes the 'beta' label from its mainnet after over six years of development.",
-        "es": "Solana elimina la etiqueta 'beta' de su mainnet tras más de seis años de desarrollo.",
-        "de": "Solana entfernt das 'Beta'-Label von seinem Mainnet nach über sechs Jahren Entwicklung.",
-        "pt-BR": "Solana remove o rótulo 'beta' de sua mainnet após mais de seis anos de desenvolvimento.",
-        "hi": "सोलाना ने छह साल से अधिक के विकास के बाद अपने मेननेट से 'बीटा' लेबल हटा दिया है।"
+        "fr": "Les liquidités dans le secteur crypto diminuent, aggravant les effets des sorties de fonds des ETF au comptant.",
+        "en": "Liquidity in the crypto sector is shrinking, worsening the impact of spot ETF outflows.",
+        "es": "La liquidez en el sector cripto está disminuyendo, agravando el impacto de las salidas de los ETF al contado.",
+        "de": "Die Liquidität im Kryptosektor schrumpft und verschärft die Auswirkungen der Abflüsse aus Spot-ETFs.",
+        "pt-BR": "A liquidez no setor de criptoativos está diminuindo, agravando o impacto das saídas dos ETFs à vista.",
+        "hi": "क्रिप्टो क्षेत्र में तरलता कम हो रही है, जिससे स्पॉट ईटीएफ के बहिर्वाह का प्रभाव और बढ़ रहा है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
-      "publishedAt": "Mon, 16 Nov 2026 13:03:16 +0000"
+      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "publishedAt": "Tue, 17 Nov 2026 12:16:53 +0000"
     },
     {
-      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
-      "summary": "Le PDG d'OKX, Star Xu, accuse Binance d'être responsable des krachs d'octobre sur les marchés crypto ces deux dernières années.",
+      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+      "summary": "Un fonds dirigé par un ancien chercheur d'OpenAI a vendu ses mineurs de Bitcoin et réduit sa participation dans Iris Energy (IREN) de 94 % après une baisse de son portefeuille.",
       "summaries": {
-        "fr": "Le PDG d'OKX, Star Xu, accuse Binance d'être responsable des krachs d'octobre sur les marchés crypto ces deux dernières années.",
-        "en": "OKX CEO Star Xu blames Binance for October market crashes in crypto over the past two years.",
-        "es": "El CEO de OKX, Star Xu, culpa a Binance por las caídas del mercado de criptomonedas en octubre durante los últimos dos años.",
-        "de": "OKX-CEO Star Xu macht Binance für die Oktober-Crashs auf dem Kryptomarkt in den letzten zwei Jahren verantwortlich.",
-        "pt-BR": "O CEO da OKX, Star Xu, culpa a Binance pelos crashes do mercado de cripto em outubro nos últimos dois anos.",
-        "hi": "OKX के सीईओ स्टार जू ने पिछले दो वर्षों में अक्टूबर में क्रिप्टो बाजार के क्रैश के लिए बिनेंस को जिम्मेदार ठहराया है।"
+        "fr": "Un fonds dirigé par un ancien chercheur d'OpenAI a vendu ses mineurs de Bitcoin et réduit sa participation dans Iris Energy (IREN) de 94 % après une baisse de son portefeuille.",
+        "en": "A fund led by a former OpenAI researcher sold its Bitcoin miners and cut its stake in Iris Energy (IREN) by 94% following a portfolio decline.",
+        "es": "Un fondo dirigido por un exinvestigador de OpenAI vendió sus mineros de Bitcoin y redujo su participación en Iris Energy (IREN) en un 94% tras una caída en su cartera.",
+        "de": "Ein von einem ehemaligen OpenAI-Forscher geführter Fonds hat seine Bitcoin-Miner verkauft und seinen Anteil an Iris Energy (IREN) um 94 % reduziert, nachdem das Portfolio an Wert verloren hatte.",
+        "pt-BR": "Um fundo liderado por um ex-pesquisador da OpenAI vendeu seus mineradores de Bitcoin e reduziu sua participação na Iris Energy (IREN) em 94% após uma queda no portfólio.",
+        "hi": "ओपनएआई के एक पूर्व शोधकर्ता द्वारा संचालित एक फंड ने अपने बिटकॉइन माइनर्स को बेच दिया और पोर्टफोलियो में गिरावट के बाद आईरिस एनर्जी (IREN) में अपनी हिस्सेदारी 94% घटा दी।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
-      "publishedAt": "Mon, 16 Nov 2026 12:55:46 +0000"
-    },
-    {
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "summary": "Le prix du Bitcoin n'a pas réussi à se maintenir au-dessus de 65 000 $, chutant en même temps que les actions américaines en raison des inquiétudes liées à l'IA et aux résultats trimestriels de Nvidia.",
-      "summaries": {
-        "fr": "Le prix du Bitcoin n'a pas réussi à se maintenir au-dessus de 65 000 $, chutant en même temps que les actions américaines en raison des inquiétudes liées à l'IA et aux résultats trimestriels de Nvidia.",
-        "en": "Bitcoin's price failed to hold above $65,000, dropping alongside US stocks due to AI-related concerns and upcoming Nvidia Q3 earnings.",
-        "es": "El precio de Bitcoin no logró mantenerse por encima de los 65.000 $, cayendo junto a las acciones estadounidenses por preocupaciones sobre IA y los resultados trimestrales de Nvidia.",
-        "de": "Der Bitcoin-Preis konnte sich nicht über 65.000 $ halten und fiel zusammen mit US-Aktien aufgrund von KI-Bedenken und den bevorstehenden Quartalsergebnissen von Nvidia.",
-        "pt-BR": "O preço do Bitcoin não conseguiu se manter acima de 65 mil dólares, caindo junto com as ações dos EUA devido a preocupações com IA e aos resultados trimestrais da Nvidia.",
-        "hi": "बिटकॉइन की कीमत 65,000 डॉलर से ऊपर नहीं टिक पाई, जो एआई चिंताओं और एनवीडिया के तिमाही नतीजों के कारण अमेरिकी शेयरों के साथ गिर गई।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 16 Nov 2026 16:26:52 +0000"
-    },
-    {
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "summary": "Zelle prévoit d'utiliser Solana pour son stablecoin ZelleUSD et ses paiements internationaux, avec des transferts confidentiels masquant les montants.",
-      "summaries": {
-        "fr": "Zelle prévoit d'utiliser Solana pour son stablecoin ZelleUSD et ses paiements internationaux, avec des transferts confidentiels masquant les montants.",
-        "en": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, featuring confidential transfers to hide payment amounts.",
-        "es": "Zelle planea usar Solana para su stablecoin ZelleUSD y pagos internacionales, con transferencias confidenciales que ocultan los montos.",
-        "de": "Zelle plant, Solana für seinen ZelleUSD-Stablecoin und internationale Zahlungen zu nutzen, mit vertraulichen Überweisungen zur Verschleierung der Beträge.",
-        "pt-BR": "Zelle planeja usar Solana para seu stablecoin ZelleUSD e pagamentos internacionais, com transferências confidenciais para ocultar os valores.",
-        "hi": "ज़ेल अपने ज़ेलUSD स्टेबलकॉइन और अंतरराष्ट्रीय भुगतानों के लिए सोलाना का उपयोग करने की योजना बना रहा है, जिसमें भुगतान राशि छिपाने के लिए गोपनीय हस्तांतरण शामिल हैं।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 16 Nov 2026 14:55:46 +0000"
-    },
-    {
-      "title": "Lighter pauses withdrawals after reported $10M account theft",
-      "summary": "Lighter a suspendu les retraits après le vol présumé de 10,4 millions de dollars lié à une fuite de clé API d'un trader.",
-      "summaries": {
-        "fr": "Lighter a suspendu les retraits après le vol présumé de 10,4 millions de dollars lié à une fuite de clé API d'un trader.",
-        "en": "Lighter paused withdrawals following a reported $10.4 million theft due to a leaked trader API key.",
-        "es": "Lighter suspendió los retiros tras un robo reportado de 10,4 millones de dólares por una filtración de una clave API de un trader.",
-        "de": "Lighter hat Auszahlungen gestoppt, nachdem ein API-Schlüssel eines Händlers geleakt wurde und 10,4 Millionen Dollar abgehoben wurden.",
-        "pt-BR": "Lighter suspendeu saques após um roubo reportado de US$ 10,4 milhões devido ao vazamento de uma chave API de um trader.",
-        "hi": "लाइटर ने एक ट्रेडर की एपीआई कुंजी लीक होने के बाद 10.4 मिलियन डॉलर की चोरी की रिपोर्ट के बाद निकासी रोक दी है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 16 Nov 2026 14:19:50 +0000"
+      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "publishedAt": "Tue, 17 Nov 2026 12:00:55 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -130,26 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं का सारांश।"
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 16 Nov 2026 13:31:49 +0000"
+      "publishedAt": "Tue, 17 Nov 2026 14:54:40 +0000"
     },
     {
-      "title": "Banks are banning AI agents over security... and competition concerns",
-      "summary": "Les banques interdisent les agents d'IA par crainte de risques de sécurité et de perte de contrôle sur la relation client.",
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "summary": "La Fondation Solana détient désormais une participation majoritaire dans CoinGecko, une plateforme de données crypto, qui envisage d'ajouter des fonctionnalités de trading.",
       "summaries": {
-        "fr": "Les banques interdisent les agents d'IA par crainte de risques de sécurité et de perte de contrôle sur la relation client.",
-        "en": "Banks are banning AI agents due to security risks and concerns over losing control of customer relationships.",
-        "es": "Los bancos están prohibiendo los agentes de IA por riesgos de seguridad y temor a perder el control de la relación con los clientes.",
-        "de": "Banken verbieten KI-Agenten aus Sicherheitsbedenken und aus Sorge, die Kontrolle über Kundenbeziehungen zu verlieren.",
-        "pt-BR": "Bancos estão banindo agentes de IA por preocupações com segurança e medo de perder o controle do relacionamento com clientes.",
-        "hi": "बैंक सुरक्षा जोखिमों और ग्राहक संबंधों पर नियंत्रण खोने की चिंता के कारण एआई एजेंटों पर प्रतिबंध लगा रहे हैं।"
+        "fr": "La Fondation Solana détient désormais une participation majoritaire dans CoinGecko, une plateforme de données crypto, qui envisage d'ajouter des fonctionnalités de trading.",
+        "en": "The Solana Foundation now holds a majority stake in CoinGecko, a crypto data platform exploring trading features.",
+        "es": "La Fundación Solana ahora tiene una participación mayoritaria en CoinGecko, una plataforma de datos de criptomonedas que explora funciones de trading.",
+        "de": "Die Solana Foundation hält nun eine Mehrheitsbeteiligung an CoinGecko, einer Krypto-Datenplattform, die Handelsfunktionen prüft.",
+        "pt-BR": "A Solana Foundation agora detém uma participação majoritária em CoinGecko, plataforma de dados de cripto que explora recursos de trading.",
+        "hi": "सोलाना फाउंडेशन ने क्रिप्टो डेटा प्लेटफॉर्म कॉइनगेको में बहुमत हिस्सेदारी हासिल की, जो ट्रेडिंग सुविधाओं की खोज कर रहा है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Mon, 16 Nov 2026 13:30:00 +0000"
+      "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 17 Nov 2026 14:45:49 +0000"
+    },
+    {
+      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+      "summary": "Haseeb Qureshi de Dragonfly estime que Bitcoin pourrait atteindre 400 000 $ d'ici 2030, mais doute qu'il revienne à 100 000 $ d'ici la fin de l'année en raison de la baisse des actions liées à l'IA.",
+      "summaries": {
+        "fr": "Haseeb Qureshi de Dragonfly estime que Bitcoin pourrait atteindre 400 000 $ d'ici 2030, mais doute qu'il revienne à 100 000 $ d'ici la fin de l'année en raison de la baisse des actions liées à l'IA.",
+        "en": "Dragonfly's Haseeb Qureshi believes Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end due to the decline in AI-related stocks.",
+        "es": "Haseeb Qureshi de Dragonfly cree que Bitcoin podría alcanzar los 400.000 $ para 2030, pero duda que vuelva a los 100.000 $ para fin de año debido a la caída de las acciones de IA.",
+        "de": "Haseeb Qureshi von Dragonfly glaubt, dass Bitcoin bis 2030 400.000 $ erreichen könnte, bezweifelt jedoch, dass es bis Jahresende auf 100.000 $ zurückkehren wird, da Aktien im KI-Bereich fallen.",
+        "pt-BR": "Haseeb Qureshi, da Dragonfly, acredita que o Bitcoin pode chegar a US$ 400 mil até 2030, mas duvida que volte a US$ 100 mil até o fim do ano devido à queda das ações de IA.",
+        "hi": "ड्रैगनफ्लाई के हसीब कुरैशी का मानना है कि बिटकॉइन 2030 तक $400,000 तक पहुंच सकता है, लेकिन एआई स्टॉक्स में गिरावट के कारण साल के अंत तक $100,000 पर लौटने पर संदेह है।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 17 Nov 2026 13:30:00 +0000"
+    },
+    {
+      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+      "summary": "ARK Invest a vendu pour 85 millions de dollars d'actions Nvidia avant les résultats du troisième trimestre, tout en achetant des actions de Block, Circle et Coinbase pour près de 40 millions de dollars.",
+      "summaries": {
+        "fr": "ARK Invest a vendu pour 85 millions de dollars d'actions Nvidia avant les résultats du troisième trimestre, tout en achetant des actions de Block, Circle et Coinbase pour près de 40 millions de dollars.",
+        "en": "ARK Invest sold $85 million in Nvidia shares ahead of Q3 earnings while purchasing nearly $40 million in Block, Circle, and Coinbase stocks.",
+        "es": "ARK Invest vendió acciones de Nvidia por valor de 85 millones de dólares antes de los resultados del tercer trimestre, mientras compraba acciones de Block, Circle y Coinbase por casi 40 millones.",
+        "de": "ARK Invest verkaufte Nvidia-Aktien im Wert von 85 Millionen Dollar vor den Quartalsergebnissen und kaufte gleichzeitig Aktien von Block, Circle und Coinbase für fast 40 Millionen Dollar.",
+        "pt-BR": "ARK Invest vendeu US$ 85 milhões em ações da Nvidia antes dos resultados do terceiro trimestre, enquanto comprava ações da Block, Circle e Coinbase no valor de quase US$ 40 milhões.",
+        "hi": "ARK इन्वेस्ट ने तिमाही नतीजों से पहले Nvidia के 85 मिलियन डॉलर के शेयर बेचे, जबकि Block, Circle और Coinbase के लगभग 40 मिलियन डॉलर के शेयर खरीदे।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 17 Nov 2026 13:12:10 +0000"
+    },
+    {
+      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+      "summary": "Revolut prévoit de lancer quatre fonds basés sur la blockchain pour les marchés privés, selon son président, afin d'améliorer la liquidité.",
+      "summaries": {
+        "fr": "Revolut prévoit de lancer quatre fonds basés sur la blockchain pour les marchés privés, selon son président, afin d'améliorer la liquidité.",
+        "en": "Revolut plans to launch four blockchain-based funds for private markets, its chair stated, aiming to enhance liquidity.",
+        "es": "Revolut planea lanzar cuatro fondos basados en blockchain para mercados privados, según su presidente, para mejorar la liquidez.",
+        "de": "Revolut plant vier blockchain-basierte Fonds für private Märkte einzuführen, wie der Vorsitzende erklärte, um die Liquidität zu erhöhen.",
+        "pt-BR": "Revolut planeja lançar quatro fundos baseados em blockchain para mercados privados, segundo seu presidente, visando melhorar a liquidez.",
+        "hi": "रेवोलुट के अध्यक्ष के अनुसार, निजी बाजारों के लिए ब्लॉकचेन-आधारित चार फंड लॉन्च करने की योजना है ताकि तरलता में सुधार किया जा सके।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Tue, 17 Nov 2026 12:24:20 +0000"
     }
   ]
 }
