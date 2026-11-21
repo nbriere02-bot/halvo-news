@@ -1,95 +1,80 @@
 {
-  "generatedAt": "20/11/2026 15:59 UTC",
+  "generatedAt": "21/11/2026 15:11 UTC",
   "items": [
     {
-      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-      "summary": "Hong Kong étend ses règles de licence crypto aux courtiers, conseillers et dépositaires pour renforcer la régulation du secteur.",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "summary": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave pourrait être liquidé en raison des fluctuations du marché.",
       "summaries": {
-        "fr": "Hong Kong étend ses règles de licence crypto aux courtiers, conseillers et dépositaires pour renforcer la régulation du secteur.",
-        "en": "Hong Kong is extending its crypto licensing rules to brokers, advisers, and custodians to strengthen sector regulation.",
-        "es": "Hong Kong amplía sus normas de licencia para cripto a corredores, asesores y custodios para reforzar la regulación del sector.",
-        "de": "Hongkong weitet die Krypto-Lizenzierungsregeln auf Broker, Berater und Verwahrer aus, um die Regulierung des Sektors zu stärken.",
-        "pt-BR": "Hong Kong está estendendo suas regras de licenciamento de cripto para corretores, consultores e custodios para fortalecer a regulação do setor.",
-        "hi": "हॉन्गकॉन्ग क्रिप्टो लाइसेंसिंग नियमों को ब्रोकर्स, सलाहकारों और कस्टोडियनों तक विस्तारित कर रहा है ताकि क्षेत्र के विनियमन को मजबूत किया जा सके।"
+        "fr": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave pourrait être liquidé en raison des fluctuations du marché.",
+        "en": "Ether treasury firm BTCS warns the SEC that its $54 million Aave loan could be liquidated due to market fluctuations.",
+        "es": "BTCS, una empresa con reservas en Ether, advierte a la SEC que su préstamo de 54 millones de dólares en Aave podría ser liquidado debido a las fluctuaciones del mercado.",
+        "de": "Das Ether-Treasury-Unternehmen BTCS warnt die SEC, dass sein 54-Millionen-Dollar-Kredit auf Aave aufgrund von Marktschwankungen liquidiert werden könnte.",
+        "pt-BR": "A BTCS, empresa com reservas em Ether, alerta a SEC de que seu empréstimo de 54 milhões de dólares na Aave pode ser liquidado devido às flutuações do mercado.",
+        "hi": "ईथर ट्रेजरी फर्म बीटीसीएस ने एसईसी को चेतावनी दी है कि आवे पर उसका 54 मिलियन डॉलर का ऋण बाजार में उतार-चढ़ाव के कारण समाप्त किया जा सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-      "publishedAt": "Fri, 20 Nov 2026 14:38:30 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+      "publishedAt": "Sat, 21 Nov 2026 12:30:00 +0000"
     },
     {
-      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-      "summary": "Le Sénat américain a adopté un projet de loi interdisant les paris sur les marchés de prédiction liés aux guerres et aux décès.",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "summary": "Un bug dans le réseau Bitcoin pourrait bloquer des nœuds en répétant 50 000 fois un même identifiant, découvert par une intelligence artificielle.",
       "summaries": {
-        "fr": "Le Sénat américain a adopté un projet de loi interdisant les paris sur les marchés de prédiction liés aux guerres et aux décès.",
-        "en": "The U.S. Senate passed a bill to ban prediction market bets on war and death.",
-        "es": "El Senado de EE.UU. aprobó un proyecto de ley para prohibir apuestas en mercados de predicción sobre guerras y muertes.",
-        "de": "Der US-Senat hat ein Gesetz verabschiedet, das Wetten auf Kriegs- und Todesereignisse in Prognosemärkten verbietet.",
-        "pt-BR": "O Senado dos EUA aprovou um projeto de lei para proibir apostas em mercados de previsão sobre guerras e mortes.",
-        "hi": "अमेरिकी सीनेट ने युद्ध और मृत्यु पर पूर्वानुमान बाजार में सट्टेबाजी पर प्रतिबंध लगाने वाला विधेयक पारित किया।"
+        "fr": "Un bug dans le réseau Bitcoin pourrait bloquer des nœuds en répétant 50 000 fois un même identifiant, découvert par une intelligence artificielle.",
+        "en": "A bug in the Bitcoin network could stall nodes by repeating the same ID 50,000 times, discovered by artificial intelligence.",
+        "es": "Un error en la red de Bitcoin podría bloquear nodos al repetir un mismo ID 50.000 veces, descubierto por inteligencia artificial.",
+        "de": "Ein Fehler im Bitcoin-Netzwerk könnte Knoten durch 50.000-fache Wiederholung derselben ID blockieren, entdeckt von künstlicher Intelligenz.",
+        "pt-BR": "Um bug na rede Bitcoin poderia travar nós ao repetir o mesmo ID 50 mil vezes, descoberto por inteligência artificial.",
+        "hi": "बिटकॉइन नेटवर्क में एक बग एक ही आईडी को 50,000 बार दोहराकर नोड्स को रोक सकता है, जिसे आर्टिफिशियल इंटेलिजेंस ने खोजा।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-      "publishedAt": "Fri, 20 Nov 2026 14:25:57 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "publishedAt": "Sat, 21 Nov 2026 06:16:42 +0000"
     },
     {
-      "title": "Live news: Bitcoin slips to fresh lows near $60,000 as Anthropic slides after Nasdaq debut",
-      "summary": "Le Bitcoin chute à de nouveaux plus bas proches de 60 000 dollars, dans un contexte de baisse après l'introduction en Bourse d'Anthropic sur le Nasdaq.",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "summary": "Le XRP chute de 10 % en raison de la réduction des positions longues et de la baisse des actifs des ETF sous le milliard de dollars.",
       "summaries": {
-        "fr": "Le Bitcoin chute à de nouveaux plus bas proches de 60 000 dollars, dans un contexte de baisse après l'introduction en Bourse d'Anthropic sur le Nasdaq.",
-        "en": "Bitcoin drops to fresh lows near $60,000 amid a decline following Anthropic's Nasdaq debut.",
-        "es": "Bitcoin cae a nuevos mínimos cerca de los 60.000 dólares tras el debut de Anthropic en el Nasdaq.",
-        "de": "Bitcoin fällt auf neue Tiefststände nahe 60.000 Dollar nach dem Börsendebüt von Anthropic am Nasdaq.",
-        "pt-BR": "Bitcoin cai para novas mínimas perto de US$ 60.000 após a estreia da Anthropic no Nasdaq.",
-        "hi": "बिटकॉइन एंथ्रोपिक के नैस्डैक पर शुरुआत के बाद 60,000 डॉलर के करीब नए निम्न स्तर पर गिर गया।"
+        "fr": "Le XRP chute de 10 % en raison de la réduction des positions longues et de la baisse des actifs des ETF sous le milliard de dollars.",
+        "en": "XRP drops 10% as long positions unwind and ETF assets fall below $1 billion.",
+        "es": "XRP cae un 10 % debido a la reducción de posiciones largas y a que los activos de los ETF bajan de los mil millones de dólares.",
+        "de": "XRP fällt um 10 %, da Long-Positionen aufgelöst werden und die ETF-Vermögenswerte unter eine Milliarde Dollar sinken.",
+        "pt-BR": "XRP cai 10% com a redução de posições compradas e os ativos dos ETFs ficando abaixo de US$ 1 bilhão.",
+        "hi": "एक्सआरपी में 10% की गिरावट आई क्योंकि लॉन्ग पोजीशन्स कम हुईं और ईटीएफ एसेट्स 1 अरब डॉलर से नीचे गिर गए।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
-      "publishedAt": "Fri, 20 Nov 2026 13:35:33 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+      "publishedAt": "Sat, 21 Nov 2026 05:59:19 +0000"
     },
     {
-      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-      "summary": "Des bots ont immédiatement ciblé des portefeuilles Bitcoin après que des chercheurs aient exposé leurs clés privées en ligne.",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "summary": "Le Bitcoin chute sous les 57 000 dollars pour la première fois en deux ans, accompagné d'une baisse générale des cryptomonnaies.",
       "summaries": {
-        "fr": "Des bots ont immédiatement ciblé des portefeuilles Bitcoin après que des chercheurs aient exposé leurs clés privées en ligne.",
-        "en": "Bots immediately targeted Bitcoin wallets after researchers exposed their private keys online.",
-        "es": "Bots atacaron al instante billeteras de Bitcoin después de que investigadores expusieran sus claves privadas en línea.",
-        "de": "Bots griffen Bitcoin-Wallets sofort an, nachdem Forscher ihre privaten Schlüssel online preisgegeben hatten.",
-        "pt-BR": "Bots atacaram imediatamente carteiras de Bitcoin após pesquisadores exporem suas chaves privadas online.",
-        "hi": "शोधकर्ताओं द्वारा अपनी निजी कुंजियाँ ऑनलाइन उजागर करने के कुछ ही सेकंड में बिटकॉइन वॉलेट्स को बॉट्स ने निशाना बनाया।"
+        "fr": "Le Bitcoin chute sous les 57 000 dollars pour la première fois en deux ans, accompagné d'une baisse générale des cryptomonnaies.",
+        "en": "Bitcoin falls below $57,000 for the first time in two years, with other cryptocurrencies also declining.",
+        "es": "Bitcoin cae por debajo de los 57.000 dólares por primera vez en dos años, junto con otras criptomonedas.",
+        "de": "Bitcoin fällt erstmals seit zwei Jahren unter 57.000 Dollar, begleitet von einem Rückgang anderer Kryptowährungen.",
+        "pt-BR": "Bitcoin cai abaixo de US$ 57.000 pela primeira vez em dois anos, acompanhado de outras criptomoedas.",
+        "hi": "बिटकॉइन दो साल में पहली बार 57,000 डॉलर से नीचे गिर गया, अन्य क्रिप्टोकरेंसी भी गिरावट में हैं।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
-      "publishedAt": "Fri, 20 Nov 2026 13:30:22 +0000"
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "publishedAt": "Sat, 21 Nov 2026 04:10:07 +0000"
     },
     {
-      "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-      "summary": "Christine Lagarde de la BCE met en garde contre le risque de perte de contrôle de l'Europe sur le marché croissant des actifs tokenisés.",
+      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+      "summary": "Kalshi accélère ses démarches pour devancer une ordonnance de l'État de New York qui pourrait entraîner la fermeture de la plateforme d'échange.",
       "summaries": {
-        "fr": "Christine Lagarde de la BCE met en garde contre le risque de perte de contrôle de l'Europe sur le marché croissant des actifs tokenisés.",
-        "en": "ECB's Christine Lagarde warns Europe could lose control over the growing tokenized asset market.",
-        "es": "Christine Lagarde del BCE advierte sobre el riesgo de que Europa pierda el control del creciente mercado de activos tokenizados.",
-        "de": "EZB-Präsidentin Christine Lagarde warnt davor, dass Europa die Kontrolle über den wachsenden Markt für tokenisierte Vermögenswerte verlieren könnte.",
-        "pt-BR": "Christine Lagarde do BCE alerta que a Europa pode perder o controle do crescente mercado de ativos tokenizados.",
-        "hi": "ईसीबी की क्रिस्टीन लेगार्ड ने चेतावनी दी है कि यूरोप टोकनाइज्ड एसेट्स के बढ़ते बाजार पर नियंत्रण खो सकता है।"
+        "fr": "Kalshi accélère ses démarches pour devancer une ordonnance de l'État de New York qui pourrait entraîner la fermeture de la plateforme d'échange.",
+        "en": "Kalshi is rushing to get ahead of a New York state order that could lead to the shutdown of the exchange.",
+        "es": "Kalshi se apresura para adelantarse a una orden del estado de Nueva York que podría llevar al cierre de la plataforma de intercambio.",
+        "de": "Kalshi beschleunigt seine Schritte, um einer Anordnung des Bundesstaates New York zuvorzukommen, die zur Schließung der Börse führen könnte.",
+        "pt-BR": "Kalshi acelera esforços para antecipar uma ordem do estado de Nova York que poderia levar ao fechamento da exchange.",
+        "hi": "कॉल्शी न्यूयॉर्क राज्य के एक आदेश से आगे निकलने के लिए तेजी से कदम उठा रहा है, जो एक्सचेंज को बंद करवा सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
-      "publishedAt": "Fri, 20 Nov 2026 13:11:49 +0000"
-    },
-    {
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "summary": "La banque singapourienne DBS a enregistré des frais record de 208 millions de dollars pour ses services de transactions au troisième trimestre et aide désormais les entreprises à convertir leurs dépôts en stablecoins utilisables sans intermédiaire.",
-      "summaries": {
-        "fr": "La banque singapourienne DBS a enregistré des frais record de 208 millions de dollars pour ses services de transactions au troisième trimestre et aide désormais les entreprises à convertir leurs dépôts en stablecoins utilisables sans intermédiaire.",
-        "en": "Singapore's DBS bank earned a record $208 million in transaction service fees in Q3 and is now helping companies convert deposits into spendable stablecoins without intermediaries.",
-        "es": "El banco singapurense DBS obtuvo un récord de 208 millones de dólares en comisiones por servicios de transacciones en el tercer trimestre y ahora ayuda a empresas a convertir depósitos en stablecoins que pueden gastar sin intermediarios.",
-        "de": "Die singapurische Bank DBS erzielte im dritten Quartal Rekordgebühren von 208 Millionen Dollar für Transaktionsdienstleistungen und unterstützt Unternehmen nun dabei, Einlagen in ausgabefähige Stablecoins umzuwandeln.",
-        "pt-BR": "O banco de Singapura DBS registrou uma receita recorde de US$ 208 milhões em taxas de serviços de transações no terceiro trimestre e agora ajuda empresas a converter depósitos em stablecoins que podem ser gastos sem intermediários.",
-        "hi": "सिंगापुर का डीबीएस बैंक ने तीसरी तिमाही में लेनदेन सेवाओं से रिकॉर्ड 208 मिलियन डॉलर की फीस अर्जित की और अब कंपनियों को उनके जमा को स्टेबलकॉइन में बदलने में मदद कर रहा है, जिन्हें बिना बिचौलियों के खर्च किया जा सकता है।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 15:32:30 +0000"
+      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+      "publishedAt": "Fri, 20 Nov 2026 22:51:14 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -100,56 +85,71 @@
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
         "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
+        "hi": "बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक प्रवृत्तियों और घटनाओं का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 13:29:58 +0000"
+      "publishedAt": "Sat, 21 Nov 2026 11:18:52 +0000"
     },
     {
-      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
-      "summary": "Christine Lagarde, présidente de la BCE, avertit que l'Europe risque de fragmenter son marché des titres tokenisés en plateformes incompatibles entre elles.",
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "summary": "La BCE invite les acteurs du secteur à postuler d’ici le 11 décembre pour participer à des expérimentations sur les dépôts et titres tokenisés dans le cadre de son initiative Appia.",
       "summaries": {
-        "fr": "Christine Lagarde, présidente de la BCE, avertit que l'Europe risque de fragmenter son marché des titres tokenisés en plateformes incompatibles entre elles.",
-        "en": "ECB President Christine Lagarde warned that Europe risks fragmenting its tokenized securities market into incompatible platforms.",
-        "es": "Christine Lagarde, presidenta del BCE, advirtió que Europa podría fragmentar su mercado de valores tokenizados en plataformas incompatibles.",
-        "de": "EZB-Präsidentin Christine Lagarde warnte, dass Europas Markt für tokenisierte Wertpapiere in inkompatible Plattformen zerfallen könnte.",
-        "pt-BR": "Christine Lagarde, presidente do BCE, alertou que a Europa pode fragmentar seu mercado de títulos tokenizados em plataformas incompatíveis.",
-        "hi": "ईसीबी की अध्यक्ष क्रिस्टीन लेगार्ड ने चेतावनी दी कि यूरोप का टोकनाइज्ड प्रतिभूतियों का बाजार असंगत प्लेटफार्मों में विभाजित हो सकता है।"
+        "fr": "La BCE invite les acteurs du secteur à postuler d’ici le 11 décembre pour participer à des expérimentations sur les dépôts et titres tokenisés dans le cadre de son initiative Appia.",
+        "en": "The ECB is inviting industry participants to apply by December 11 for its first experiments on tokenized deposits and securities under the Appia initiative.",
+        "es": "El BCE invita a los actores del sector a presentar solicitudes antes del 11 de diciembre para participar en experimentos con depósitos y valores tokenizados bajo su iniciativa Appia.",
+        "de": "Die EZB lädt Branchenakteure ein, sich bis zum 11. Dezember für ihre ersten Experimente zu tokenisierten Einlagen und Wertpapieren im Rahmen der Appia-Initiative zu bewerben.",
+        "pt-BR": "O BCE está convidando participantes do setor a se inscreverem até 11 de dezembro para seus primeiros experimentos com depósitos e títulos tokenizados sob a iniciativa Appia.",
+        "hi": "ईसीबी अपनी एपिया पहल के तहत टोकनाइज्ड जमा और प्रतिभूतियों पर पहले प्रयोगों के लिए 11 दिसंबर तक उद्योग भागीदारों से आवेदन आमंत्रित कर रहा है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 13:21:39 +0000"
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 21 Nov 2026 09:48:56 +0000"
     },
     {
-      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-      "summary": "Un pirate ayant ciblé Binance a transféré près de 600 millions de dollars en ETH en deux jours, utilisant des portefeuilles et des protocoles cross-chain comme THORChain et Chainflip pour dissimuler les fonds volés.",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "summary": "Des législateurs américains proposent des récompenses allant jusqu'à 30 % pour les lanceurs d'alerte dénonçant des fraudes sur les marchés de prédiction, avec des sanctions dépassant 1 million de dollars.",
       "summaries": {
-        "fr": "Un pirate ayant ciblé Binance a transféré près de 600 millions de dollars en ETH en deux jours, utilisant des portefeuilles et des protocoles cross-chain comme THORChain et Chainflip pour dissimuler les fonds volés.",
-        "en": "A Binance hacker moved nearly $600 million in ETH over two days, routing stolen funds through new wallets and cross-chain protocols like THORChain and Chainflip to obscure their trail.",
-        "es": "Un hacker de Binance movió casi 600 millones de dólares en ETH en dos días, canalizando los fondos robados a través de nuevas billeteras y protocolos cross-chain como THORChain y Chainflip para ocultar su rastro.",
-        "de": "Ein Hacker von Binance hat innerhalb von zwei Tagen fast 600 Millionen Dollar in ETH transferiert und die gestohlenen Gelder über neue Wallets sowie Cross-Chain-Protokolle wie THORChain und Chainflip verschleiert.",
-        "pt-BR": "Um hacker da Binance movimentou quase US$ 600 milhões em ETH em dois dias, direcionando os fundos roubados por meio de novas carteiras e protocolos cross-chain como THORChain e Chainflip para ocultar a trilha.",
-        "hi": "बिनेंस हैकर ने दो दिनों में लगभग 600 मिलियन डॉलर के ईटीएच को ट्रांसफर किया, चुराए गए फंड्स को नए वॉलेट्स और थॉरचेन तथा चेनफ्लिप जैसे क्रॉस-चेन प्रोटोकॉल के माध्यम से छिपाने की कोशिश की।"
+        "fr": "Des législateurs américains proposent des récompenses allant jusqu'à 30 % pour les lanceurs d'alerte dénonçant des fraudes sur les marchés de prédiction, avec des sanctions dépassant 1 million de dollars.",
+        "en": "US lawmakers propose rewards of up to 30% for whistleblowers reporting fraud in prediction markets, where penalties exceed $1 million.",
+        "es": "Legisladores estadounidenses proponen recompensas de hasta el 30% para denunciantes de fraudes en mercados de predicción, con sanciones superiores a 1 millón de dólares.",
+        "de": "US-Gesetzgeber schlagen Belohnungen von bis zu 30 % für Whistleblower vor, die Betrug auf Prognosemärkten melden, bei Strafen über 1 Million Dollar.",
+        "pt-BR": "Legisladores dos EUA propõem recompensas de até 30% para denunciantes de fraudes em mercados de previsão, com sanções superiores a 1 milhão de dólares.",
+        "hi": "अमेरिकी विधायकों ने भविष्यवाणी बाजारों में धोखाधड़ी की रिपोर्ट करने वाले मुखबिरों के लिए 30% तक का इनाम प्रस्तावित किया है, जहां जुर्माना 1 मिलियन डॉलर से अधिक है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 11:31:41 +0000"
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 21 Nov 2026 07:51:47 +0000"
     },
     {
-      "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-      "summary": "VanEck mettra fin aux accords de garde avec Gemini pour trois ETF crypto en février 2027, tout en conservant Coinbase comme gardien.",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "summary": "Hong Kong propose d'encadrer les dépositaires et conseillers en crypto-monnaies par des règles de licence pour renforcer la protection des investisseurs, avec une première lecture du projet de loi prévue le 2 décembre.",
       "summaries": {
-        "fr": "VanEck mettra fin aux accords de garde avec Gemini pour trois ETF crypto en février 2027, tout en conservant Coinbase comme gardien.",
-        "en": "VanEck will terminate Gemini's custody agreements for three crypto ETFs in February 2027, while retaining Coinbase as custodian.",
-        "es": "VanEck pondrá fin a los acuerdos de custodia con Gemini para tres ETF de criptomonedas en febrero de 2027, manteniendo a Coinbase como custodio.",
-        "de": "VanEck wird die Verwahrungsvereinbarungen mit Gemini für drei Krypto-ETFs im Februar 2027 beenden, behält jedoch Coinbase als Verwahrer bei.",
-        "pt-BR": "VanEck encerrará os acordos de custódia com a Gemini para três ETFs de cripto em fevereiro de 2027, mantendo a Coinbase como custodiante.",
-        "hi": "वैनइक फरवरी 2027 में तीन क्रिप्टो ईटीएफ के लिए जेमिनी के साथ कस्टडी समझौते समाप्त करेगा, जबकि कॉइनबेस को कस्टोडियन के रूप में बनाए रखेगा।"
+        "fr": "Hong Kong propose d'encadrer les dépositaires et conseillers en crypto-monnaies par des règles de licence pour renforcer la protection des investisseurs, avec une première lecture du projet de loi prévue le 2 décembre.",
+        "en": "Hong Kong is proposing to bring crypto custodians and advisers under licensing rules to enhance investor protection, with the bill's first reading scheduled for December 2.",
+        "es": "Hong Kong propone regular a los custodios y asesores de criptomonedas mediante licencias para fortalecer la protección de los inversores, con la primera lectura del proyecto de ley prevista para el 2 de diciembre.",
+        "de": "Hongkong schlägt vor, Krypto-Verwahrer und -Berater unter Lizenzregeln zu stellen, um den Anlegerschutz zu stärken; die erste Lesung des Gesetzes ist für den 2. Dezember geplant.",
+        "pt-BR": "Hong Kong propõe regulamentar custodios e consultores de criptomoedas por meio de regras de licenciamento para fortalecer a proteção dos investidores, com a primeira leitura do projeto de lei marcada para 2 de dezembro.",
+        "hi": "हॉन्ग कॉन्ग क्रिप्टो संरक्षकों और सलाहकारों को लाइसेंसिंग नियमों के तहत लाने का प्रस्ताव कर रहा है ताकि निवेशकों की सुरक्षा को मजबूत किया जा सके, विधेयक की पहली पढ़ाई 2 दिसंबर को निर्धारित है।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 10:54:38 +0000"
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sat, 21 Nov 2026 05:40:35 +0000"
+    },
+    {
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "summary": "Le token Wrapped Monero s'effondre de 99,8 % après un exploit présumé de 13,5 millions de dollars, son opérateur évoquant une faille de sécurité et promettant un remboursement.",
+      "summaries": {
+        "fr": "Le token Wrapped Monero s'effondre de 99,8 % après un exploit présumé de 13,5 millions de dollars, son opérateur évoquant une faille de sécurité et promettant un remboursement.",
+        "en": "The Wrapped Monero token crashes 99.8% following a suspected $13.5M exploit, with its operator citing a security breach and pledging reimbursements.",
+        "es": "El token Wrapped Monero cae un 99,8 % tras un presunto exploit de 13,5 millones de dólares; su operador culpa a una brecha de seguridad y promete reembolsos.",
+        "de": "Der Wrapped Monero Token stürzt um 99,8 % ab, nachdem ein mutmaßlicher Exploit im Wert von 13,5 Millionen Dollar auftrat; der Betreiber spricht von einem Sicherheitsleck und verspricht Entschädigungen.",
+        "pt-BR": "O token Wrapped Monero despenca 99,8% após um suposto exploit de US$ 13,5 milhões; o operador atribui a uma violação de segurança e promete reembolsos.",
+        "hi": "रैप्ड मोनेरो टोकन में 99.8% की गिरावट आई, संभावित $13.5 मिलियन के शोषण के बाद; ऑपरेटर ने सुरक्षा उल्लंघन का हवाला देते हुए प्रभावित व्यापारियों को मुआवजा देने का वादा किया।"
+      },
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Fri, 20 Nov 2026 19:37:27 +0000"
     }
   ]
 }
