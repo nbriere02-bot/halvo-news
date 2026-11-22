@@ -1,16 +1,61 @@
 {
-  "generatedAt": "21/11/2026 15:11 UTC",
+  "generatedAt": "22/11/2026 15:09 UTC",
   "items": [
     {
-      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-      "summary": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave pourrait être liquidé en raison des fluctuations du marché.",
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "summary": "Les défis de sécurité quantique du Bitcoin concernent également les ponts, les dépositaires et des millions de pièces, selon une récente analyse.",
       "summaries": {
-        "fr": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave pourrait être liquidé en raison des fluctuations du marché.",
-        "en": "Ether treasury firm BTCS warns the SEC that its $54 million Aave loan could be liquidated due to market fluctuations.",
-        "es": "BTCS, una empresa con reservas en Ether, advierte a la SEC que su préstamo de 54 millones de dólares en Aave podría ser liquidado debido a las fluctuaciones del mercado.",
-        "de": "Das Ether-Treasury-Unternehmen BTCS warnt die SEC, dass sein 54-Millionen-Dollar-Kredit auf Aave aufgrund von Marktschwankungen liquidiert werden könnte.",
-        "pt-BR": "A BTCS, empresa com reservas em Ether, alerta a SEC de que seu empréstimo de 54 milhões de dólares na Aave pode ser liquidado devido às flutuações do mercado.",
-        "hi": "ईथर ट्रेजरी फर्म बीटीसीएस ने एसईसी को चेतावनी दी है कि आवे पर उसका 54 मिलियन डॉलर का ऋण बाजार में उतार-चढ़ाव के कारण समाप्त किया जा सकता है।"
+        "fr": "Les défis de sécurité quantique du Bitcoin concernent également les ponts, les dépositaires et des millions de pièces, selon une récente analyse.",
+        "en": "Bitcoin's quantum security challenges also extend to bridges, custodians, and millions of coins, according to a recent analysis.",
+        "es": "Los desafíos de seguridad cuántica de Bitcoin también afectan a puentes, custodios y millones de monedas, según un análisis reciente.",
+        "de": "Bitcoins Quanten-Sicherheitsherausforderungen betreffen auch Brücken, Verwahrer und Millionen von Coins, wie eine aktuelle Analyse zeigt.",
+        "pt-BR": "Os desafios de segurança quântica do Bitcoin também se estendem a pontes, custodantes e milhões de moedas, segundo uma análise recente.",
+        "hi": "बिटकॉइन की क्वांटम सुरक्षा चुनौतियाँ ब्रिज, कस्टोडियन और लाखों सिक्कों तक भी फैली हुई हैं, हाल के एक विश्लेषण के अनुसार।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "publishedAt": "Sun, 22 Nov 2026 14:00:00 +0000"
+    },
+    {
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "summary": "Le Bitcoin repasse au-dessus des 60 000 dollars après une vague de liquidations de 1,8 milliard de dollars dans les cryptomonnaies.",
+      "summaries": {
+        "fr": "Le Bitcoin repasse au-dessus des 60 000 dollars après une vague de liquidations de 1,8 milliard de dollars dans les cryptomonnaies.",
+        "en": "Bitcoin rebounds above $60,000 following a $1.8 billion crypto liquidation wave.",
+        "es": "Bitcoin se recupera por encima de los 60.000 dólares tras una ola de liquidaciones de 1.800 millones en criptomonedas.",
+        "de": "Bitcoin erholt sich über 60.000 Dollar nach einer Liquidationswelle von 1,8 Milliarden Dollar im Kryptobereich.",
+        "pt-BR": "Bitcoin se recupera acima de US$ 60.000 após onda de liquidações de US$ 1,8 bilhão em criptomoedas.",
+        "hi": "₿िटकॉइन 1.8 अरब डॉलर की क्रिप्टो लिक्विडेशन लहर के बाद 60,000 डॉलर से ऊपर वापस आया।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "publishedAt": "Sat, 21 Nov 2026 17:50:00 +0000"
+    },
+    {
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "summary": "Le protocole cross-chain Chainflip voit son token FLIP chuter de 30 % après un drain suspecté de 4,86 millions de dollars sur son vault.",
+      "summaries": {
+        "fr": "Le protocole cross-chain Chainflip voit son token FLIP chuter de 30 % après un drain suspecté de 4,86 millions de dollars sur son vault.",
+        "en": "Cross-chain protocol Chainflip's FLIP token drops 30% following a suspected $4.86 million vault drain.",
+        "es": "El token FLIP del protocolo cross-chain Chainflip cae un 30% tras un supuesto drenaje de 4,86 millones de dólares en su vault.",
+        "de": "Der Token FLIP des Cross-Chain-Protokolls Chainflip fällt um 30 %, nachdem ein mutmaßlicher Abfluss von 4,86 Millionen Dollar aus dem Vault festgestellt wurde.",
+        "pt-BR": "O token FLIP do protocolo cross-chain Chainflip cai 30% após suspeita de drenagem de 4,86 milhões de dólares em seu vault.",
+        "hi": "क्रॉस-चेन प्रोटोकॉल चेनफ्लिप का टोकन FLIP 30% गिर गया, जब उसके वॉल्ट से 4.86 मिलियन डॉलर की संदिग्ध निकासी हुई।"
+      },
+      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "publishedAt": "Sat, 21 Nov 2026 16:41:00 +0000"
+    },
+    {
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "summary": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave risque d'être liquidé.",
+      "summaries": {
+        "fr": "BTCS, une entreprise détenant des réserves en Ether, avertit la SEC qu'un prêt de 54 millions de dollars sur Aave risque d'être liquidé.",
+        "en": "Ether treasury firm BTCS warns the SEC that its $54 million Aave loan is at risk of liquidation.",
+        "es": "La empresa BTCS, que gestiona tesorería en Ether, advierte a la SEC que su préstamo de 54 millones de dólares en Aave podría ser liquidado.",
+        "de": "Das Ether-Treasury-Unternehmen BTCS warnt die SEC, dass sein 54-Millionen-Dollar-Kredit auf Aave liquidiert werden könnte.",
+        "pt-BR": "A empresa BTCS, que administra tesouraria em Ether, alerta a SEC que seu empréstimo de 54 milhões de dólares na Aave pode ser liquidado.",
+        "hi": "ईथर ट्रेजरी फर्म बीटीसीएस ने एसईसी को चेतावनी दी है कि एवे पर उसका 54 मिलियन डॉलर का कर्ज लिक्विडेट किया जा सकता है।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
       "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
@@ -21,10 +66,10 @@
       "summary": "Un bug dans le réseau Bitcoin pourrait bloquer des nœuds en répétant 50 000 fois un même identifiant, découvert par une intelligence artificielle.",
       "summaries": {
         "fr": "Un bug dans le réseau Bitcoin pourrait bloquer des nœuds en répétant 50 000 fois un même identifiant, découvert par une intelligence artificielle.",
-        "en": "A bug in the Bitcoin network could stall nodes by repeating the same ID 50,000 times, discovered by artificial intelligence.",
+        "en": "A bug in the Bitcoin network could stall nodes by repeating one ID 50,000 times, discovered by artificial intelligence.",
         "es": "Un error en la red de Bitcoin podría bloquear nodos al repetir un mismo ID 50.000 veces, descubierto por inteligencia artificial.",
-        "de": "Ein Fehler im Bitcoin-Netzwerk könnte Knoten durch 50.000-fache Wiederholung derselben ID blockieren, entdeckt von künstlicher Intelligenz.",
-        "pt-BR": "Um bug na rede Bitcoin poderia travar nós ao repetir o mesmo ID 50 mil vezes, descoberto por inteligência artificial.",
+        "de": "Ein Fehler im Bitcoin-Netzwerk könnte Knoten durch 50.000-fache Wiederholung einer ID blockieren, entdeckt von künstlicher Intelligenz.",
+        "pt-BR": "Um bug na rede Bitcoin poderia travar nós ao repetir um mesmo ID 50.000 vezes, descoberto por inteligência artificial.",
         "hi": "बिटकॉइन नेटवर्क में एक बग एक ही आईडी को 50,000 बार दोहराकर नोड्स को रोक सकता है, जिसे आर्टिफिशियल इंटेलिजेंस ने खोजा।"
       },
       "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
@@ -32,49 +77,19 @@
       "publishedAt": "Sat, 21 Nov 2026 06:16:42 +0000"
     },
     {
-      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
-      "summary": "Le XRP chute de 10 % en raison de la réduction des positions longues et de la baisse des actifs des ETF sous le milliard de dollars.",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "summary": "Le marché des changes onchain pourrait d'abord se développer grâce aux utilisateurs plutôt qu'à la liquidité institutionnelle, en répondant à une demande réelle même sur des marchés plus petits.",
       "summaries": {
-        "fr": "Le XRP chute de 10 % en raison de la réduction des positions longues et de la baisse des actifs des ETF sous le milliard de dollars.",
-        "en": "XRP drops 10% as long positions unwind and ETF assets fall below $1 billion.",
-        "es": "XRP cae un 10 % debido a la reducción de posiciones largas y a que los activos de los ETF bajan de los mil millones de dólares.",
-        "de": "XRP fällt um 10 %, da Long-Positionen aufgelöst werden und die ETF-Vermögenswerte unter eine Milliarde Dollar sinken.",
-        "pt-BR": "XRP cai 10% com a redução de posições compradas e os ativos dos ETFs ficando abaixo de US$ 1 bilhão.",
-        "hi": "एक्सआरपी में 10% की गिरावट आई क्योंकि लॉन्ग पोजीशन्स कम हुईं और ईटीएफ एसेट्स 1 अरब डॉलर से नीचे गिर गए।"
+        "fr": "Le marché des changes onchain pourrait d'abord se développer grâce aux utilisateurs plutôt qu'à la liquidité institutionnelle, en répondant à une demande réelle même sur des marchés plus petits.",
+        "en": "Onchain foreign exchange (FX) could grow by focusing on user demand first, rather than institutional liquidity, making smaller markets viable through real needs.",
+        "es": "El mercado de divisas onchain podría crecer primero con la demanda de usuarios en lugar de la liquidez institucional, haciendo viables mercados más pequeños con necesidades reales.",
+        "de": "Der Onchain-Devisenhandel könnte zunächst durch Nutzerbedarf statt institutionelle Liquidität wachsen und kleinere Märkte durch echte Nachfrage funktionsfähig machen.",
+        "pt-BR": "O mercado de câmbio onchain pode crescer primeiro com a demanda dos usuários, em vez de liquidez institucional, tornando mercados menores viáveis por meio de necessidades reais.",
+        "hi": "ऑनचेन विदेशी मुद्रा बाजार संस्थागत तरलता के बजाय उपयोगकर्ताओं की मांग से पहले विकसित हो सकता है, जिससे छोटे बाजार वास्तविक जरूरतों के साथ व्यवहार्य बन सकते हैं।"
       },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
-      "publishedAt": "Sat, 21 Nov 2026 05:59:19 +0000"
-    },
-    {
-      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-      "summary": "Le Bitcoin chute sous les 57 000 dollars pour la première fois en deux ans, accompagné d'une baisse générale des cryptomonnaies.",
-      "summaries": {
-        "fr": "Le Bitcoin chute sous les 57 000 dollars pour la première fois en deux ans, accompagné d'une baisse générale des cryptomonnaies.",
-        "en": "Bitcoin falls below $57,000 for the first time in two years, with other cryptocurrencies also declining.",
-        "es": "Bitcoin cae por debajo de los 57.000 dólares por primera vez en dos años, junto con otras criptomonedas.",
-        "de": "Bitcoin fällt erstmals seit zwei Jahren unter 57.000 Dollar, begleitet von einem Rückgang anderer Kryptowährungen.",
-        "pt-BR": "Bitcoin cai abaixo de US$ 57.000 pela primeira vez em dois anos, acompanhado de outras criptomoedas.",
-        "hi": "बिटकॉइन दो साल में पहली बार 57,000 डॉलर से नीचे गिर गया, अन्य क्रिप्टोकरेंसी भी गिरावट में हैं।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-      "publishedAt": "Sat, 21 Nov 2026 04:10:07 +0000"
-    },
-    {
-      "title": "Kalshi races to get ahead of New York order that could shut down exchange",
-      "summary": "Kalshi accélère ses démarches pour devancer une ordonnance de l'État de New York qui pourrait entraîner la fermeture de la plateforme d'échange.",
-      "summaries": {
-        "fr": "Kalshi accélère ses démarches pour devancer une ordonnance de l'État de New York qui pourrait entraîner la fermeture de la plateforme d'échange.",
-        "en": "Kalshi is rushing to get ahead of a New York state order that could lead to the shutdown of the exchange.",
-        "es": "Kalshi se apresura para adelantarse a una orden del estado de Nueva York que podría llevar al cierre de la plataforma de intercambio.",
-        "de": "Kalshi beschleunigt seine Schritte, um einer Anordnung des Bundesstaates New York zuvorzukommen, die zur Schließung der Börse führen könnte.",
-        "pt-BR": "Kalshi acelera esforços para antecipar uma ordem do estado de Nova York que poderia levar ao fechamento da exchange.",
-        "hi": "कॉल्शी न्यूयॉर्क राज्य के एक आदेश से आगे निकलने के लिए तेजी से कदम उठा रहा है, जो एक्सचेंज को बंद करवा सकता है।"
-      },
-      "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-      "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
-      "publishedAt": "Fri, 20 Nov 2026 22:51:14 +0000"
+      "source": "Cointelegraph.com News",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 14:30:00 +0000"
     },
     {
       "title": "Here’s what happened in crypto today",
@@ -84,72 +99,57 @@
         "en": "Summary of daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3, and crypto regulation.",
         "es": "Resumen de las tendencias y eventos diarios que afectan el precio de Bitcoin, blockchain, DeFi, Web3 y la regulación de criptomonedas.",
         "de": "Zusammenfassung der täglichen Trends und Ereignisse, die den Bitcoin-Preis, Blockchain, DeFi, Web3 und die Krypto-Regulierung beeinflussen.",
-        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulação de criptomoedas.",
-        "hi": "बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन को प्रभावित करने वाली दैनिक प्रवृत्तियों और घटनाओं का सारांश।"
+        "pt-BR": "Resumo das tendências e eventos diários que impactam o preço do Bitcoin, blockchain, DeFi, Web3 e a regulamentação de criptomoedas.",
+        "hi": "क्रिप्टो में आज क्या हुआ: बिटकॉइन की कीमत, ब्लॉकचेन, डेफी, वेब3 और क्रिप्टो नियमन पर प्रभाव डालने वाली दैनिक घटनाओं और रुझानों का सारांश।"
       },
       "source": "Cointelegraph.com News",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 11:18:52 +0000"
+      "publishedAt": "Sun, 22 Nov 2026 11:25:27 +0000"
     },
     {
-      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
-      "summary": "La BCE invite les acteurs du secteur à postuler d’ici le 11 décembre pour participer à des expérimentations sur les dépôts et titres tokenisés dans le cadre de son initiative Appia.",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "summary": "Le Bitcoin a brièvement chuté à 17 000 $ sur Kraken, l'échange confirmant que toutes les transactions ont été exécutées normalement sans faille de sécurité.",
       "summaries": {
-        "fr": "La BCE invite les acteurs du secteur à postuler d’ici le 11 décembre pour participer à des expérimentations sur les dépôts et titres tokenisés dans le cadre de son initiative Appia.",
-        "en": "The ECB is inviting industry participants to apply by December 11 for its first experiments on tokenized deposits and securities under the Appia initiative.",
-        "es": "El BCE invita a los actores del sector a presentar solicitudes antes del 11 de diciembre para participar en experimentos con depósitos y valores tokenizados bajo su iniciativa Appia.",
-        "de": "Die EZB lädt Branchenakteure ein, sich bis zum 11. Dezember für ihre ersten Experimente zu tokenisierten Einlagen und Wertpapieren im Rahmen der Appia-Initiative zu bewerben.",
-        "pt-BR": "O BCE está convidando participantes do setor a se inscreverem até 11 de dezembro para seus primeiros experimentos com depósitos e títulos tokenizados sob a iniciativa Appia.",
-        "hi": "ईसीबी अपनी एपिया पहल के तहत टोकनाइज्ड जमा और प्रतिभूतियों पर पहले प्रयोगों के लिए 11 दिसंबर तक उद्योग भागीदारों से आवेदन आमंत्रित कर रहा है।"
+        "fr": "Le Bitcoin a brièvement chuté à 17 000 $ sur Kraken, l'échange confirmant que toutes les transactions ont été exécutées normalement sans faille de sécurité.",
+        "en": "Bitcoin briefly dropped to $17K on Kraken, with the exchange confirming all trades were processed correctly and no security breach occurred.",
+        "es": "Bitcoin cayó brevemente a 17.000 $ en Kraken, y el exchange confirmó que todas las operaciones se procesaron correctamente sin brechas de seguridad.",
+        "de": "Bitcoin fiel kurzzeitig auf 17.000 $ bei Kraken, die Börse bestätigte, dass alle Trades korrekt ausgeführt wurden und keine Sicherheitslücke vorlag.",
+        "pt-BR": "O Bitcoin caiu brevemente para US$ 17 mil na Kraken, que confirmou que todas as transações foram processadas corretamente sem falhas de segurança.",
+        "hi": "क्रैकेन पर बिटकॉइन अस्थायी रूप से $17K तक गिर गया, एक्सचेंज ने पुष्टि की कि सभी ट्रेड सही तरीके से निष्पादित हुए और कोई सुरक्षा उल्लंघन नहीं हुआ।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 09:48:56 +0000"
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 09:33:06 +0000"
     },
     {
-      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
-      "summary": "Des législateurs américains proposent des récompenses allant jusqu'à 30 % pour les lanceurs d'alerte dénonçant des fraudes sur les marchés de prédiction, avec des sanctions dépassant 1 million de dollars.",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "summary": "Les plateformes sud-coréennes ont suspendu les transferts de CYBER après une émission suspecte de tokens sur Solana et des mouvements depuis le pont Ethereum.",
       "summaries": {
-        "fr": "Des législateurs américains proposent des récompenses allant jusqu'à 30 % pour les lanceurs d'alerte dénonçant des fraudes sur les marchés de prédiction, avec des sanctions dépassant 1 million de dollars.",
-        "en": "US lawmakers propose rewards of up to 30% for whistleblowers reporting fraud in prediction markets, where penalties exceed $1 million.",
-        "es": "Legisladores estadounidenses proponen recompensas de hasta el 30% para denunciantes de fraudes en mercados de predicción, con sanciones superiores a 1 millón de dólares.",
-        "de": "US-Gesetzgeber schlagen Belohnungen von bis zu 30 % für Whistleblower vor, die Betrug auf Prognosemärkten melden, bei Strafen über 1 Million Dollar.",
-        "pt-BR": "Legisladores dos EUA propõem recompensas de até 30% para denunciantes de fraudes em mercados de previsão, com sanções superiores a 1 milhão de dólares.",
-        "hi": "अमेरिकी विधायकों ने भविष्यवाणी बाजारों में धोखाधड़ी की रिपोर्ट करने वाले मुखबिरों के लिए 30% तक का इनाम प्रस्तावित किया है, जहां जुर्माना 1 मिलियन डॉलर से अधिक है।"
+        "fr": "Les plateformes sud-coréennes ont suspendu les transferts de CYBER après une émission suspecte de tokens sur Solana et des mouvements depuis le pont Ethereum.",
+        "en": "South Korean exchanges halted CYBER transfers following suspected unauthorized minting on Solana and movements from the Ethereum bridge.",
+        "es": "Las plataformas surcoreanas suspendieron las transferencias de CYBER tras una emisión sospechosa en Solana y movimientos desde el puente de Ethereum.",
+        "de": "Südkoreanische Börsen stoppten CYBER-Transfers nach verdächtiger Token-Prägung auf Solana und Bewegungen vom Ethereum-Bridge.",
+        "pt-BR": "Exchanges sul-coreanas suspenderam transferências de CYBER após emissão suspeita na Solana e movimentações da ponte Ethereum.",
+        "hi": "संदिग्ध सोलाना टोकन मिंटिंग और एथेरियम ब्रिज से मूवमेंट के बाद दक्षिण कोरियाई एक्सचेंजों ने CYBER ट्रांसफर रोक दिए।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 07:51:47 +0000"
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 07:24:05 +0000"
     },
     {
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "summary": "Hong Kong propose d'encadrer les dépositaires et conseillers en crypto-monnaies par des règles de licence pour renforcer la protection des investisseurs, avec une première lecture du projet de loi prévue le 2 décembre.",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "summary": "Chainflip confirme un piratage de 12 millions de dollars et propose une prime de 10% à l'attaquant pour restituer 90% des fonds d'ici le 23 novembre, en échange d'une immunité juridique.",
       "summaries": {
-        "fr": "Hong Kong propose d'encadrer les dépositaires et conseillers en crypto-monnaies par des règles de licence pour renforcer la protection des investisseurs, avec une première lecture du projet de loi prévue le 2 décembre.",
-        "en": "Hong Kong is proposing to bring crypto custodians and advisers under licensing rules to enhance investor protection, with the bill's first reading scheduled for December 2.",
-        "es": "Hong Kong propone regular a los custodios y asesores de criptomonedas mediante licencias para fortalecer la protección de los inversores, con la primera lectura del proyecto de ley prevista para el 2 de diciembre.",
-        "de": "Hongkong schlägt vor, Krypto-Verwahrer und -Berater unter Lizenzregeln zu stellen, um den Anlegerschutz zu stärken; die erste Lesung des Gesetzes ist für den 2. Dezember geplant.",
-        "pt-BR": "Hong Kong propõe regulamentar custodios e consultores de criptomoedas por meio de regras de licenciamento para fortalecer a proteção dos investidores, com a primeira leitura do projeto de lei marcada para 2 de dezembro.",
-        "hi": "हॉन्ग कॉन्ग क्रिप्टो संरक्षकों और सलाहकारों को लाइसेंसिंग नियमों के तहत लाने का प्रस्ताव कर रहा है ताकि निवेशकों की सुरक्षा को मजबूत किया जा सके, विधेयक की पहली पढ़ाई 2 दिसंबर को निर्धारित है।"
+        "fr": "Chainflip confirme un piratage de 12 millions de dollars et propose une prime de 10% à l'attaquant pour restituer 90% des fonds d'ici le 23 novembre, en échange d'une immunité juridique.",
+        "en": "Chainflip confirms a $12 million hack and offers the attacker a 10% bounty to return 90% of the stolen funds by November 23, promising legal immunity.",
+        "es": "Chainflip confirma un hackeo de 12 millones de dólares y ofrece al atacante una recompensa del 10% para devolver el 90% de los fondos robados antes del 23 de noviembre, prometiendo inmunidad legal.",
+        "de": "Chainflip bestätigt einen Hack im Wert von 12 Millionen Dollar und bietet dem Angreifer eine 10%ige Belohnung an, um 90% der gestohlenen Gelder bis zum 23. November zurückzugeben, mit Zusicherung von Straffreiheit.",
+        "pt-BR": "Chainflip confirma um hack de 12 milhões de dólares e oferece ao invasor uma recompensa de 10% para devolver 90% dos fundos roubados até 23 de novembro, prometendo imunidade legal.",
+        "hi": "चेनफ्लिप ने 12 मिलियन डॉलर के हैक की पुष्टि की और हमलावर को 90% चुराए गए फंड लौटाने के लिए 23 नवंबर तक 10% इनाम की पेशकश की, साथ ही कानूनी कार्रवाई न करने का वादा किया।"
       },
       "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Sat, 21 Nov 2026 05:40:35 +0000"
-    },
-    {
-      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
-      "summary": "Le token Wrapped Monero s'effondre de 99,8 % après un exploit présumé de 13,5 millions de dollars, son opérateur évoquant une faille de sécurité et promettant un remboursement.",
-      "summaries": {
-        "fr": "Le token Wrapped Monero s'effondre de 99,8 % après un exploit présumé de 13,5 millions de dollars, son opérateur évoquant une faille de sécurité et promettant un remboursement.",
-        "en": "The Wrapped Monero token crashes 99.8% following a suspected $13.5M exploit, with its operator citing a security breach and pledging reimbursements.",
-        "es": "El token Wrapped Monero cae un 99,8 % tras un presunto exploit de 13,5 millones de dólares; su operador culpa a una brecha de seguridad y promete reembolsos.",
-        "de": "Der Wrapped Monero Token stürzt um 99,8 % ab, nachdem ein mutmaßlicher Exploit im Wert von 13,5 Millionen Dollar auftrat; der Betreiber spricht von einem Sicherheitsleck und verspricht Entschädigungen.",
-        "pt-BR": "O token Wrapped Monero despenca 99,8% após um suposto exploit de US$ 13,5 milhões; o operador atribui a uma violação de segurança e promete reembolsos.",
-        "hi": "रैप्ड मोनेरो टोकन में 99.8% की गिरावट आई, संभावित $13.5 मिलियन के शोषण के बाद; ऑपरेटर ने सुरक्षा उल्लंघन का हवाला देते हुए प्रभावित व्यापारियों को मुआवजा देने का वादा किया।"
-      },
-      "source": "Cointelegraph.com News",
-      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "publishedAt": "Fri, 20 Nov 2026 19:37:27 +0000"
+      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "publishedAt": "Sun, 22 Nov 2026 05:28:43 +0000"
     }
   ]
 }
